@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-07-03T07:44:22.486328Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1524,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 211,
+    "average_inline_inbound_links_per_visible_page": 7.22,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "remote-viewing_c54037",
+        "title": "Did Psychic Spying Ever Really Work?",
+        "permalink": "/remote-viewing/",
+        "inline_inbound_count": 209
+      },
+      {
+        "basename": "remote-viewing_c54037_blind_judging_7f10d3",
+        "title": "Judging",
+        "permalink": "/judging/",
+        "inline_inbound_count": 98
+      },
+      {
+        "basename": "remote-viewing_c54037_target_types_9f606e",
+        "title": "Targets",
+        "permalink": "/targets/",
+        "inline_inbound_count": 84
+      },
+      {
+        "basename": "remote-viewing_c54037_reading_declassified_c1b5f3_session_transcript_l_526a5c",
+        "title": "Transcripts",
+        "permalink": "/transcripts/",
+        "inline_inbound_count": 65
+      },
+      {
+        "basename": "remote-viewing_c54037_beginner_protocols_a53763",
+        "title": "Protocol",
+        "permalink": "/protocol/",
+        "inline_inbound_count": 55
+      },
+      {
+        "basename": "remote-viewing_c54037_viewer_sketches_2996c7",
+        "title": "Sketches",
+        "permalink": "/sketches/",
+        "inline_inbound_count": 55
+      },
+      {
+        "basename": "remote-viewing_c54037_statistics_vs_proof_189f52_subjective_matching_209c2b",
+        "title": "Matching",
+        "permalink": "/matching/",
+        "inline_inbound_count": 53
+      },
+      {
+        "basename": "remote-viewing_c54037_sensory_leakage_a1a139",
+        "title": "Leakage",
+        "permalink": "/leakage/",
+        "inline_inbound_count": 44
+      },
+      {
+        "basename": "remote-viewing_c54037_reading_declassified_c1b5f3_evaluation_protocol_5cfbf4",
+        "title": "Scoring",
+        "permalink": "/scoring/",
+        "inline_inbound_count": 42
+      },
+      {
+        "basename": "remote-viewing_c54037_utts_statistical_cla_2af604_significance_vs_proo_e0bf07",
+        "title": "Significance",
+        "permalink": "/significance/",
+        "inline_inbound_count": 38
+      },
+      {
+        "basename": "remote-viewing_c54037_cold_war_psychics_a74d67",
+        "title": "Cold War",
+        "permalink": "/cold-war/",
+        "inline_inbound_count": 31
+      },
+      {
+        "basename": "remote-viewing_c54037_saic_experiments_cc6edf_independent_judges_r_6d173c",
+        "title": "Independent Judges",
+        "permalink": "/independent-judges/",
+        "inline_inbound_count": 31
+      },
+      {
+        "basename": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "title": "1995 Review",
+        "permalink": "/1995-review/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "remote-viewing_c54037_anecdotes_vs_data_021f48",
+        "title": "Anecdotes",
+        "permalink": "/anecdotes/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "remote-viewing_c54037_blind_judging_7f10d3_hindsight_matching_0db28a",
+        "title": "Hindsight",
+        "permalink": "/hindsight/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "remote-viewing_c54037_balanced_position_cf7354_operational_intellig_4977c0",
+        "title": "Actionable Intelligence",
+        "permalink": "/actionable-intelligence/",
+        "inline_inbound_count": 29
+      },
+      {
+        "basename": "remote-viewing_c54037_intelligence_value_ce5153",
+        "title": "Intel Value",
+        "permalink": "/intel-value/",
+        "inline_inbound_count": 29
+      },
+      {
+        "basename": "remote-viewing_c54037_meaning_misconceptio_9ffb32_anomalous_cognition_9883d5",
+        "title": "Not Clairvoyance",
+        "permalink": "/not-clairvoyance/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "remote-viewing_c54037_meaning_misconceptio_9ffb32",
+        "title": "Meaning",
+        "permalink": "/meaning/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "remote-viewing_c54037_meaning_misconceptio_9ffb32_star_gate_meaning_di_26f723",
+        "title": "Star Gate",
+        "permalink": "/star-gate/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "remote-viewing_c54037_rv_vs_esp_1ce106_before_feedback_reco_b68100",
+        "title": "Before Feedback",
+        "permalink": "/before-feedback/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "remote-viewing_c54037_statistics_vs_proof_189f52",
+        "title": "Statistics",
+        "permalink": "/statistics/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "remote-viewing_c54037_sri_experiments_26c4ca",
+        "title": "SRI Tests",
+        "permalink": "/sri-tests/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "remote-viewing_c54037_stargate_program_7bc3fb",
+        "title": "Stargate",
+        "permalink": "/stargate/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "remote-viewing_c54037_saic_experiments_cc6edf",
+        "title": "SAIC Tests",
+        "permalink": "/saic-tests/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "remote-viewing_c54037_meaning_misconceptio_9ffb32_hidden_targets_6b744d",
+        "title": "Hidden Targets",
+        "permalink": "/hidden-targets/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "remote-viewing_c54037_reading_declassified_c1b5f3_declassification_not_b4a857",
+        "title": "Declassification",
+        "permalink": "/declassification/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "remote-viewing_c54037_stargate_program_7bc3fb_operational_reports_c2bd16",
+        "title": "Vague Reports",
+        "permalink": "/vague-reports/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "remote-viewing_c54037_1995_evaluation_61f85b_end_user_feedback_c10d06",
+        "title": "End Users",
+        "permalink": "/end-users/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "remote-viewing_c54037_balanced_position_cf7354_meta_analyses_reopen_d921a3",
+        "title": "Meta Analyses",
+        "permalink": "/meta-analyses/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "remote-viewing_c54037_fort_meade_unit_96aedd",
+        "title": "Fort Meade",
+        "permalink": "/fort-meade/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "remote-viewing_c54037_fort_meade_unit_96aedd_stargate_secrecy_dbd6e4",
+        "title": "Secrecy",
+        "permalink": "/secrecy/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "remote-viewing_c54037_problem_of_hits_32ccc5_sensory_cueing_false_ab2315",
+        "title": "Sensory Cues",
+        "permalink": "/sensory-cues/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "remote-viewing_c54037_rv_vs_esp_1ce106_psychic_spying_rebra_5c6ebd",
+        "title": "Psychic Spying",
+        "permalink": "/psychic-spying/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "remote-viewing_c54037_rv_vs_esp_1ce106_remote_viewing_preco_40755d",
+        "title": "Precognition",
+        "permalink": "/precognition/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "remote-viewing_c54037_popular_culture_e23cba",
+        "title": "Pop Culture",
+        "permalink": "/pop-culture/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "remote-viewing_c54037_program_shutdown_43abab_background_knowledge_2a4466",
+        "title": "Contamination",
+        "permalink": "/contamination/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "remote-viewing_c54037_meaning_misconceptio_9ffb32_free_response_sessio_4e3681",
+        "title": "Session Notes",
+        "permalink": "/session-notes/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "remote-viewing_c54037_blind_judging_7f10d3_selective_matching_r_7d22a5",
+        "title": "Long Reports",
+        "permalink": "/long-reports/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "remote-viewing_c54037_fort_meade_unit_96aedd_rv_tasking_workflow_b51d5b",
+        "title": "Tasking",
+        "permalink": "/tasking/",
+        "inline_inbound_count": 7
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_anecdotes_vs_data_021f48",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_balanced_position_cf7354",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_beginner_protocols_a53763",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_blind_judging_7f10d3",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_cia_archive_myths_32e017",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_cold_war_psychics_a74d67",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_fair_test_design_3c771f",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_fort_meade_unit_96aedd",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_future_targets_783060",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_hyman_replication_do_a37b91",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_index",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_intelligence_value_ce5153",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_lab_vs_real_world_03811d",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_marks_kammann_critiq_6a283f",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_meaning_misconceptio_9ffb32",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_popular_culture_e23cba",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_problem_of_hits_32ccc5",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_program_shutdown_43abab",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_reading_declassified_c1b5f3",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_repeatability_scienc_dc20ac",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_saic_experiments_cc6edf",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_sensory_leakage_a1a139",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_sri_experiments_26c4ca",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_stargate_program_7bc3fb",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_statistics_vs_proof_189f52",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_targ_puthoff_legacy_be1e3f",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_target_types_9f606e",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_utts_statistical_cla_2af604",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037",
+        "to": "remote-viewing_c54037_viewer_sketches_2996c7",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037",
+        "type": "parent"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_anecdotes_vs_data_021f48",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_balanced_position_cf7354",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_beginner_protocols_a53763",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_blind_judging_7f10d3",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_cia_archive_myths_32e017",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_cold_war_psychics_a74d67",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_fair_test_design_3c771f",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_fort_meade_unit_96aedd",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_future_targets_783060",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_hyman_replication_do_a37b91",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_intelligence_value_ce5153",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_lab_vs_real_world_03811d",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_marks_kammann_critiq_6a283f",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_meaning_misconceptio_9ffb32",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_popular_culture_e23cba",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_problem_of_hits_32ccc5",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_program_shutdown_43abab",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_reading_declassified_c1b5f3",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_repeatability_scienc_dc20ac",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_saic_experiments_cc6edf",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_sensory_leakage_a1a139",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_sri_experiments_26c4ca",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_stargate_program_7bc3fb",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_statistics_vs_proof_189f52",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_targ_puthoff_legacy_be1e3f",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_target_types_9f606e",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_utts_statistical_cla_2af604",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_viewer_sketches_2996c7",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_rv_vs_esp_1ce106_before_feedback_reco_b68100",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_rv_vs_esp_1ce106_esp_types_in_remote_d202ee",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_rv_vs_esp_1ce106_index",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_rv_vs_esp_1ce106_not_just_psychic_rea_8f7689",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_rv_vs_esp_1ce106_psychic_spying_rebra_5c6ebd",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_rv_vs_esp_1ce106_remote_viewing_preco_40755d",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037_rv_vs_esp_1ce106_target_identifiers_s_597e25",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "to": "remote-viewing_c54037",
+        "type": "ancestor"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037",
+        "type": "parent"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_anecdotes_vs_data_021f48",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_balanced_position_cf7354",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_beginner_protocols_a53763",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_blind_judging_7f10d3",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_cia_archive_myths_32e017",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_cold_war_psychics_a74d67",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_fair_test_design_3c771f",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_fort_meade_unit_96aedd",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_future_targets_783060",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_hyman_replication_do_a37b91",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_intelligence_value_ce5153",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_lab_vs_real_world_03811d",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_marks_kammann_critiq_6a283f",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_meaning_misconceptio_9ffb32",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_popular_culture_e23cba",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_problem_of_hits_32ccc5",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_program_shutdown_43abab",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_reading_declassified_c1b5f3",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_repeatability_scienc_dc20ac",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_saic_experiments_cc6edf",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_sensory_leakage_a1a139",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_sri_experiments_26c4ca",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_stargate_program_7bc3fb",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_statistics_vs_proof_189f52",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_targ_puthoff_legacy_be1e3f",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_utts_statistical_cla_2af604",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_viewer_sketches_2996c7",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_target_types_9f606e_future_targets_displ_16756e",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_target_types_9f606e_hammid_judging_clues_ce7123",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_target_types_9f606e_index",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_target_types_9f606e_object_target_scorin_968f89",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_target_types_9f606e_photo_target_pools_615bfb",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_target_types_9f606e_real_site_leakage_b47958",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037_target_types_9f606e_target_pool_bandwidt_16ad1a",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_target_types_9f606e",
+        "to": "remote-viewing_c54037",
+        "type": "ancestor"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037",
+        "type": "parent"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_anecdotes_vs_data_021f48",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_balanced_position_cf7354",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_beginner_protocols_a53763",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_cia_archive_myths_32e017",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_cold_war_psychics_a74d67",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_fair_test_design_3c771f",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_fort_meade_unit_96aedd",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_future_targets_783060",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_hyman_replication_do_a37b91",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_intelligence_value_ce5153",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_lab_vs_real_world_03811d",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_marks_kammann_critiq_6a283f",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_meaning_misconceptio_9ffb32",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_popular_culture_e23cba",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_problem_of_hits_32ccc5",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_program_shutdown_43abab",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_reading_declassified_c1b5f3",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_repeatability_scienc_dc20ac",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_saic_experiments_cc6edf",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_sensory_leakage_a1a139",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_sri_experiments_26c4ca",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_stargate_program_7bc3fb",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_statistics_vs_proof_189f52",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_targ_puthoff_legacy_be1e3f",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_target_types_9f606e",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_utts_statistical_cla_2af604",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_viewer_sketches_2996c7",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_blind_judging_7f10d3_air_review_operation_167b04",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_blind_judging_7f10d3_arv_feedback_photo_b_21c706",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_blind_judging_7f10d3_decoy_photo_problem_fda7cc",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_blind_judging_7f10d3_hindsight_matching_0db28a",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_blind_judging_7f10d3_index",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_blind_judging_7f10d3_rank_order_judging_a1482c",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037_blind_judging_7f10d3_selective_matching_r_7d22a5",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_blind_judging_7f10d3",
+        "to": "remote-viewing_c54037",
+        "type": "ancestor"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037",
+        "type": "parent"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_anecdotes_vs_data_021f48",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_balanced_position_cf7354",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_beginner_protocols_a53763",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_blind_judging_7f10d3",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_cia_archive_myths_32e017",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_cold_war_psychics_a74d67",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_fair_test_design_3c771f",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_fort_meade_unit_96aedd",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_hyman_replication_do_a37b91",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_intelligence_value_ce5153",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_lab_vs_real_world_03811d",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_marks_kammann_critiq_6a283f",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_meaning_misconceptio_9ffb32",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_popular_culture_e23cba",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_problem_of_hits_32ccc5",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_program_shutdown_43abab",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_reading_declassified_c1b5f3",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_repeatability_scienc_dc20ac",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_rv_vs_esp_1ce106",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_saic_experiments_cc6edf",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_sensory_leakage_a1a139",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_sri_experiments_26c4ca",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_stargate_program_7bc3fb",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_statistics_vs_proof_189f52",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_targ_puthoff_legacy_be1e3f",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_target_types_9f606e",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_utts_statistical_cla_2af604",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_viewer_sketches_2996c7",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_future_targets_783060_arv_prediction_choic_9e91c6",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_future_targets_783060_arv_rater_reliabilit_95b77f",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_future_targets_783060_chicago_precognition_1acc9e",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_future_targets_783060_cia_delayed_targets_1c52af",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_future_targets_783060_future_selected_timi_93006e",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_future_targets_783060_index",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037_future_targets_783060_selective_hits_preco_08dfc2",
+        "type": "child"
+      },
+      {
+        "from": "remote-viewing_c54037_future_targets_783060",
+        "to": "remote-viewing_c54037",
+        "type": "ancestor"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037",
+        "type": "parent"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_anecdotes_vs_data_021f48",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_balanced_position_cf7354",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_beginner_protocols_a53763",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_blind_judging_7f10d3",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_cia_archive_myths_32e017",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_cold_war_psychics_a74d67",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_fair_test_design_3c771f",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_fort_meade_unit_96aedd",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_future_targets_783060",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_hyman_replication_do_a37b91",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_intelligence_value_ce5153",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_lab_vs_real_world_03811d",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_marks_kammann_critiq_6a283f",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_meaning_misconceptio_9ffb32",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_popular_culture_e23cba",
+        "type": "sibling"
+      },
+      {
+        "from": "remote-viewing_c54037_1995_evaluation_61f85b",
+        "to": "remote-viewing_c54037_problem_of_hits_32ccc5",
+        "type": "sibling"
+      }
+    ]
+  }
+}
