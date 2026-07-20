@@ -472,89 +472,89 @@ This distinction matters because a viewer can be “right” at one level and wr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Remote Viewing Sketches Can and Cannot Show. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Remote Viewing Sketches Can and Cannot Show. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The seventh sense on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/477885-M.jpg" alt="Cover for The seventh sense" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The seventh sense">The seventh sense</a>
-</h4>
-<p class="fr-book-author">By Lyn Buchanan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remote viewing secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820629-M.jpg" alt="Cover for Remote viewing secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote viewing secrets">Remote viewing secrets</a>
+        </h4>
+        <p class="fr-book-author">By Joseph McMoneagle</p>
         
-<p class="fr-book-desc">First published 2003. Subjects: Military intelligence, American Espionage, Military aspects of Parapsychology, Remote viewing (Parapsycho...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how viewers record impressions and drawings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Stargate+chronicles+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Stargate chronicles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820663-M.jpg" alt="Cover for The Stargate chronicles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Stargate+chronicles+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stargate chronicles">The Stargate chronicles</a>
-</h4>
-<p class="fr-book-author">By Joseph McMoneagle</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mind+trek+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mind trek on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/924952-M.jpg" alt="Cover for Mind trek" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mind+trek+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mind trek">Mind trek</a>
+        </h4>
+        <p class="fr-book-author">By Joseph McMoneagle, Joe McMoneagle et al.</p>
         
-<p class="fr-book-desc">First published 2002. Subjects: Remote viewing (Parapsychology), Psychics.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Stargate+chronicles+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Describes operational sessions and interpretation of viewer output.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mind+trek+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remote viewing secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820629-M.jpg" alt="Cover for Remote viewing secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote viewing secrets">Remote viewing secrets</a>
-</h4>
-<p class="fr-book-author">By Joseph McMoneagle</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Stargate+chronicles+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Stargate chronicles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820663-M.jpg" alt="Cover for The Stargate chronicles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Stargate+chronicles+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stargate chronicles">The Stargate chronicles</a>
+        </h4>
+        <p class="fr-book-author">By Joseph McMoneagle</p>
         
-<p class="fr-book-desc">First published 2000. Subjects: Remote viewing (Parapsychology), Parapsychology, Prophecies (occultism), Astral projection.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides operational examples of remote-viewing documentation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Stargate+chronicles+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mind+trek+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mind trek on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/924952-M.jpg" alt="Cover for Mind trek" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mind+trek+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mind trek">Mind trek</a>
-</h4>
-<p class="fr-book-author">By Joseph McMoneagle, Joe McMoneagle et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The seventh sense on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/477885-M.jpg" alt="Cover for The seventh sense" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The seventh sense">The seventh sense</a>
+        </h4>
+        <p class="fr-book-author">By Lyn Buchanan</p>
         
-<p class="fr-book-desc">First published 1993. Subjects: Astral projection, Parapsychology, Remote viewing (Parapsychology), Research, Parapsychology, psychic pow...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mind+trek+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Includes discussion of session structure, impressions and sketches.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+seventh+sense&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The seventh sense</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Stargate+chronicles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Stargate chronicles</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+viewing+secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote viewing secrets</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+viewing+secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote viewing secrets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mind+trek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mind trek</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Stargate+chronicles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Stargate chronicles</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

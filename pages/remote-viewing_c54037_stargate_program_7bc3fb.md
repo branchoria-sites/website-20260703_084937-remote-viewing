@@ -538,89 +538,89 @@ The most defensible takeaway is therefore balanced. Stargate is real history, no
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why the Government Tested Psychic Spying. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why the Government Tested Psychic Spying. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
-</h4>
-<p class="fr-book-author">By Jon Ronson</p>
-<p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
-<p class="fr-book-desc">Popular account of military psychic projects.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
+        </h4>
+        <p class="fr-book-author">By Jon Ronson</p>
+        <p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
+        <p class="fr-book-desc">Popular account of military psychic projects.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remote Viewers: The Secret History of America&#x27;s Psychic Spies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13498129-M.jpg" alt="Cover for Remote Viewers: The Secret History of America&#x27;s Psychic Spies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote Viewers: The Secret History of America&#x27;s Psychic Spies">Remote Viewers: The Secret History of America&#x27;s Psychic Spies</a>
-</h4>
-<p class="fr-book-author">By Jim Schnabel</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Remote+viewers+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remote viewers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/280825-M.jpg" alt="Cover for Remote viewers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Remote+viewers+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote viewers">Remote viewers</a>
+        </h4>
+        <p class="fr-book-author">By Jim Schnabel</p>
         
-<p class="fr-book-desc">First published 1997. Subjects: United states, department of defense, United states, central intelligence agency, Parapsychology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Comprehensive narrative of Stargate.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Remote+viewers+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mind-Reach on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820760-M.jpg" alt="Cover for Mind-Reach" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mind-Reach">Mind-Reach</a>
-</h4>
-<p class="fr-book-author">By Russell Targ, Harold E. Puthoff</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mind-Reach on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820760-M.jpg" alt="Cover for Mind-Reach" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mind-Reach">Mind-Reach</a>
+        </h4>
+        <p class="fr-book-author">By Russell Targ, Harold E. Puthoff</p>
         
-<p class="fr-book-desc">First published 2005. Subjects: Consciousness, Parapsychology, Case studies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Describes early remote-viewing research.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Phenomena+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8841262-M.jpg" alt="Cover for Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Phenomena+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
-</h4>
-<p class="fr-book-author">By Annie Jacobsen</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Limitless+Mind+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Limitless Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/832576-M.jpg" alt="Cover for Limitless Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Limitless+Mind+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Limitless Mind">Limitless Mind</a>
+        </h4>
+        <p class="fr-book-author">By Russell Targ</p>
         
-<p class="fr-book-desc">First published 2017. Subjects: Military research, Parapsychology, Extrasensory perception, Psychokinesis, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Phenomena+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Presents the researcher&#x27;s perspective on remote viewing.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Limitless+Mind+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote Viewers: The Secret History of America&#x27;s Psychic Spies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mind+Reach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mind Reach</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+viewers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote viewers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mind+Reach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mind Reach</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

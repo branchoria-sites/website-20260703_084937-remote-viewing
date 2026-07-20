@@ -382,89 +382,89 @@ As a result, the CIA-linked records occupy an important place in the history of 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Inside the CIA Records on Future Targets. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Inside the CIA Records on Future Targets. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5INfEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
-</h4>
-<p class="fr-book-author">By Annie Jacobsen</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Remote+viewers+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remote viewers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/280825-M.jpg" alt="Cover for Remote viewers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Remote+viewers+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote viewers">Remote viewers</a>
+        </h4>
+        <p class="fr-book-author">By Jim Schnabel</p>
         
-<p class="fr-book-desc">Provides context for classified psychic research.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains CIA-era experiments including future-target work.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Remote+viewers+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remote Viewers: The Secret History of America&#x27;s Psychic Spies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13498129-M.jpg" alt="Cover for Remote Viewers: The Secret History of America&#x27;s Psychic Spies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote Viewers: The Secret History of America&#x27;s Psychic Spies">Remote Viewers: The Secret History of America&#x27;s Psychic Spies</a>
-</h4>
-<p class="fr-book-author">By Jim Schnabel</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mind-Reach on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820760-M.jpg" alt="Cover for Mind-Reach" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mind-Reach">Mind-Reach</a>
+        </h4>
+        <p class="fr-book-author">By Russell Targ, Harold E. Puthoff</p>
         
-<p class="fr-book-desc">First published 1997. Subjects: United states, department of defense, United states, central intelligence agency, Parapsychology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Background on experimental remote viewing.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The seventh sense on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/477885-M.jpg" alt="Cover for The seventh sense" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The seventh sense">The seventh sense</a>
-</h4>
-<p class="fr-book-author">By Lyn Buchanan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The seventh sense on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/477885-M.jpg" alt="Cover for The seventh sense" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The seventh sense">The seventh sense</a>
+        </h4>
+        <p class="fr-book-author">By Lyn Buchanan</p>
         
-<p class="fr-book-desc">First published 2003. Subjects: Military intelligence, American Espionage, Military aspects of Parapsychology, Remote viewing (Parapsycho...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Describes military-era protocols and experiments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+the+Enemy%27s+Mind+%3A+Inside+Star+Gate+Paul+H.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading the Enemy&#x27;s Mind : Inside Star Gate on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Reading+the+Enemy%27s+Mind+%3A+Inside+Star+Gate+Paul+H.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading the Enemy&#x27;s Mind : Inside Star Gate">Reading the Enemy&#x27;s Mind : Inside Star Gate</a>
-</h4>
-<p class="fr-book-author">By Paul H. Smith</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+the+Enemy%27s+Mind+%3A+Inside+Star+Gate+Paul+H.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading the Enemy&#x27;s Mind : Inside Star Gate on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Reading+the+Enemy%27s+Mind+%3A+Inside+Star+Gate+Paul+H.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading the Enemy&#x27;s Mind : Inside Star Gate">Reading the Enemy&#x27;s Mind : Inside Star Gate</a>
+        </h4>
+        <p class="fr-book-author">By Paul H. Smith</p>
         
-<p class="fr-book-desc">First published 2005. Subjects: United states, central intelligence agency, Parapsychology, Military intelligence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Reading+the+Enemy%27s+Mind+%3A+Inside+Star+Gate+Paul+H.+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Discusses operational remote-viewing research.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Reading+the+Enemy%27s+Mind+%3A+Inside+Star+Gate+Paul+H.+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phenomena</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote Viewers: The Secret History of America&#x27;s Psychic Spies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+seventh+sense&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The seventh sense</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+viewers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote viewers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mind+Reach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mind Reach</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+seventh+sense&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The seventh sense</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

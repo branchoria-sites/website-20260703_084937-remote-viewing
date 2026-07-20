@@ -375,89 +375,89 @@ Its lasting contribution lies in three methodological ideas:
 For that reason, the Chicago trial continues to be cited whenever researchers discuss future-target remote-viewing protocols. Supporters regard it as one of the clearest early demonstrations that such designs can produce statistically unusual results. Critics view it as an instructive example of why extraordinary claims require much larger, more objective and independently replicated datasets before they can overturn conventional explanations. [ICRL+2Pear Lab](https://icrl.org/wp-content/uploads/2020/02/1996-precognitive-remote-perception-replication.pdf)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What the Chicago Precognition Trial Really Tested. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What the Chicago Precognition Trial Really Tested. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remote Viewers: The Secret History of America&#x27;s Psychic Spies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13498129-M.jpg" alt="Cover for Remote Viewers: The Secret History of America&#x27;s Psychic Spies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote Viewers: The Secret History of America&#x27;s Psychic Spies">Remote Viewers: The Secret History of America&#x27;s Psychic Spies</a>
-</h4>
-<p class="fr-book-author">By Jim Schnabel</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The conscious universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/48758-M.jpg" alt="Cover for The conscious universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
         
-<p class="fr-book-desc">First published 1997. Subjects: United states, department of defense, United states, central intelligence agency, Parapsychology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Discusses statistical evidence claimed for psi phenomena.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The conscious universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/48758-M.jpg" alt="Cover for The conscious universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
-</h4>
-<p class="fr-book-author">By Dean I. Radin, Radin</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Real+magic+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Real magic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14632375-M.jpg" alt="Cover for Real magic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Real+magic+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Real magic">Real magic</a>
+        </h4>
+        <p class="fr-book-author">By Dean I. Radin</p>
         
-<p class="fr-book-desc">First published 1997. Subjects: Parapsychology, Case studies, Cas, Études de, Paranormale verschijnselen, Parapsychologie.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers experimental claims including precognition.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Real+magic+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Real+magic+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Real magic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14632375-M.jpg" alt="Cover for Real magic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Real+magic+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Real magic">Real magic</a>
-</h4>
-<p class="fr-book-author">By Dean I. Radin</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Remote+viewers+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remote viewers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/280825-M.jpg" alt="Cover for Remote viewers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Remote+viewers+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote viewers">Remote viewers</a>
+        </h4>
+        <p class="fr-book-author">By Jim Schnabel</p>
         
-<p class="fr-book-desc">First published 2018. Subjects: Parapsychology, Magic, Telepathy.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Real+magic+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places future-target research into wider program history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Remote+viewers+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mind-Reach on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820760-M.jpg" alt="Cover for Mind-Reach" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mind-Reach">Mind-Reach</a>
-</h4>
-<p class="fr-book-author">By Russell Targ, Harold E. Puthoff</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Limitless+Mind+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Limitless Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/832576-M.jpg" alt="Cover for Limitless Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Limitless+Mind+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Limitless Mind">Limitless Mind</a>
+        </h4>
+        <p class="fr-book-author">By Russell Targ</p>
         
-<p class="fr-book-desc">First published 2005. Subjects: Consciousness, Parapsychology, Case studies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Discusses remote viewing and related experimental claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Limitless+Mind+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote Viewers: The Secret History of America&#x27;s Psychic Spies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The conscious universe</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Real+magic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Real magic</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The conscious universe</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Real+magic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Real magic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+viewers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote viewers</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
