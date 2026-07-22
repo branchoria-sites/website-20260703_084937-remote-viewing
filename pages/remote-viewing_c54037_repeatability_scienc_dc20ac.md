@@ -598,7 +598,7 @@ This is why remote viewing sits outside mainstream science. Not because mainstre
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Clear explanation of replication, skepticism and scientific standards.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -615,7 +615,7 @@ This is why remote viewing sits outside mainstream science. Not because mainstre
           <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Presents the positive interpretation of repeatability claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -632,7 +632,7 @@ This is why remote viewing sits outside mainstream science. Not because mainstre
           <a href="https://www.amazon.com/s?k=Flim-flam%21+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim-flam!">Flim-flam!</a>
         </h4>
         <p class="fr-book-author">By James Randi, Dominique Le Brun</p>
-        
+
         <p class="fr-book-desc">Explores why repeatable evidence is essential for extraordinary claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Flim-flam%21+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

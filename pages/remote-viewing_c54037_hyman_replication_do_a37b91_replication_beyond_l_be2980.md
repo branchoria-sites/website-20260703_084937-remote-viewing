@@ -413,7 +413,7 @@ As a result, Hyman's replication criterion became one of the lasting legacies of
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Frames extraordinary evidence and independent confirmation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ As a result, Hyman's replication criterion became one of the lasting legacies of
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Statistics Done Wrong">Statistics Done Wrong</a>
         </h4>
         <p class="fr-book-author">By Alex Reinhart</p>
-        
+
         <p class="fr-book-desc">Shows why repeated findings can still mislead.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ As a result, Hyman's replication criterion became one of the lasting legacies of
           <a href="https://www.amazon.com/s?k=The+seven+deadly+sins+of+psychology+Chris+Chambers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The seven deadly sins of psychology">The seven deadly sins of psychology</a>
         </h4>
         <p class="fr-book-author">By Chris Chambers</p>
-        
+
         <p class="fr-book-desc">Directly addresses replication and reproducibility.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+seven+deadly+sins+of+psychology+Chris+Chambers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -464,7 +464,7 @@ As a result, Hyman's replication criterion became one of the lasting legacies of
           <a href="https://www.amazon.com/s?k=Research+Design+John+W.+Creswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Research Design">Research Design</a>
         </h4>
         <p class="fr-book-author">By John W. Creswell, J. David Creswell</p>
-        
+
         <p class="fr-book-desc">Explains independent replication across settings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Research+Design+John+W.+Creswell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -409,7 +409,7 @@ Critics have argued that even subtle procedural weaknesses can produce misleadin
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Statistics Done Wrong">Statistics Done Wrong</a>
         </h4>
         <p class="fr-book-author">By Alex Reinhart</p>
-        
+
         <p class="fr-book-desc">Explains how design choices can distort experimental conclusions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ Critics have argued that even subtle procedural weaknesses can produce misleadin
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
         </h4>
         <p class="fr-book-author">By David Spiegelhalter</p>
-        
+
         <p class="fr-book-desc">Provides intuitive background on probability and inference.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ Critics have argued that even subtle procedural weaknesses can produce misleadin
           <a href="https://www.amazon.com/s?k=An+introduction+to+parapsychology+Harvey+J.+Irwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An introduction to parapsychology">An introduction to parapsychology</a>
         </h4>
         <p class="fr-book-author">By Harvey J. Irwin, Caroline A. Watt</p>
-        
+
         <p class="fr-book-desc">Discusses target selection and judging methodology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=An+introduction+to+parapsychology+Harvey+J.+Irwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -460,7 +460,7 @@ Critics have argued that even subtle procedural weaknesses can produce misleadin
           <a href="https://www.amazon.com/s?k=Parapsychology+Etzel+Carde%C3%B1a&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Parapsychology">Parapsychology</a>
         </h4>
         <p class="fr-book-author">By Etzel Cardeña, John Palmer et al.</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Parapsychology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Parapsychology+Etzel+Carde%C3%B1a&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

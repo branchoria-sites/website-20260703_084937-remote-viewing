@@ -409,16 +409,33 @@ As a result, the "static targets versus video targets" finding became more than 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The conscious universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/48758-M.jpg" alt="Cover for The conscious universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The conscious universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/48758-M.jpg" alt="Cover for The conscious universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
+          <a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
+        <p class="fr-book-author">By Dean I. Radin, Radin</p>
+
         <p class="fr-book-desc">Explains statistical outcomes across psi studies.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Limitless+Mind+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Limitless Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/832576-M.jpg" alt="Cover for Limitless Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Limitless+Mind+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Limitless Mind">Limitless Mind</a>
+        </h4>
+        <p class="fr-book-author">By Russell Targ</p>
+
+        <p class="fr-book-desc">Discusses later research including target methodology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Limitless+Mind+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -432,7 +449,7 @@ As a result, the "static targets versus video targets" finding became more than 
           <a href="https://www.amazon.com/s?k=The+Reality+of+ESP%3A+A+Physicist%27s+Proof+of+Psychic+Abilities+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reality of ESP: A Physicist&#x27;s Proof of Psychic Abilities">The Reality of ESP: A Physicist&#x27;s Proof of Psychic Abilities</a>
         </h4>
         <p class="fr-book-author">By Russell Targ</p>
-        
+
         <p class="fr-book-desc">Covers evidence and debates around remote-viewing experiments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Reality+of+ESP%3A+A+Physicist%27s+Proof+of+Psychic+Abilities+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -449,7 +466,7 @@ As a result, the "static targets versus video targets" finding became more than 
           <a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mind-Reach">Mind-Reach</a>
         </h4>
         <p class="fr-book-author">By Russell Targ, Harold E. Puthoff</p>
-        
+
         <p class="fr-book-desc">Provides historical context for laboratory target experiments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,26 +475,9 @@ As a result, the "static targets versus video targets" finding became more than 
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Limitless+Mind+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Limitless Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/832576-M.jpg" alt="Cover for Limitless Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Limitless+Mind+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Limitless Mind">Limitless Mind</a>
-        </h4>
-        <p class="fr-book-author">By Russell Targ</p>
-        
-        <p class="fr-book-desc">Discusses later research including target methodology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Limitless+Mind+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The conscious universe</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reality+of+ESP%3A+A+Physicist%27s+Proof+of+Psychic+Abilities&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reality of ESP: A Physicist&#x27;s Proof of Psychic Abilities</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mind+Reach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mind Reach</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The conscious universe</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Limitless+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Limitless Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reality+of+ESP%3A+A+Physicist%27s+Proof+of+Psychic+Abilities&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reality of ESP: A Physicist&#x27;s Proof of Psychic Abilities</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -405,7 +405,7 @@ At the same time, the method demonstrated that stronger statistics do not automa
           <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Discusses statistical testing and evidence in parapsychology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ At the same time, the method demonstrated that stronger statistics do not automa
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Statistics Done Wrong">Statistics Done Wrong</a>
         </h4>
         <p class="fr-book-author">By Alex Reinhart</p>
-        
+
         <p class="fr-book-desc">Clarifies statistical reasoning behind rank-based experimental results.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ At the same time, the method demonstrated that stronger statistics do not automa
           <a href="https://www.amazon.com/s?k=Discovering+Statistics+Using+Ibm+Spss+Statistics+Andy+Field&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Discovering Statistics Using Ibm Spss Statistics">Discovering Statistics Using Ibm Spss Statistics</a>
         </h4>
         <p class="fr-book-author">By Andy Field</p>
-        
+
         <p class="fr-book-desc">Supports readers wanting to understand statistical testing in experiments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Discovering+Statistics+Using+Ibm+Spss+Statistics+Andy+Field&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -456,7 +456,7 @@ At the same time, the method demonstrated that stronger statistics do not automa
           <a href="https://www.amazon.com/s?k=Parapsychology+Etzel+Carde%C3%B1a&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Parapsychology">Parapsychology</a>
         </h4>
         <p class="fr-book-author">By Etzel Cardeña, John Palmer et al.</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Parapsychology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Parapsychology+Etzel+Carde%C3%B1a&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

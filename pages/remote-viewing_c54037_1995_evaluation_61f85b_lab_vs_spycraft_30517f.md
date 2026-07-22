@@ -390,16 +390,16 @@ This separation explains why later discussions continue to cite both Jessica Utt
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The conscious universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/48758-M.jpg" alt="Cover for The conscious universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remote viewing secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820629-M.jpg" alt="Cover for Remote viewing secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
+          <a href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote viewing secrets">Remote viewing secrets</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Focuses on laboratory evidence rather than applications.</p>
+        <p class="fr-book-author">By Joseph McMoneagle</p>
+
+        <p class="fr-book-desc">Describes the transition from experiments to operational work.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -407,16 +407,16 @@ This separation explains why later discussions continue to cite both Jessica Utt
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remote viewing secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820629-M.jpg" alt="Cover for Remote viewing secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The conscious universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/48758-M.jpg" alt="Cover for The conscious universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote viewing secrets">Remote viewing secrets</a>
+          <a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
         </h4>
-        <p class="fr-book-author">By Joseph McMoneagle</p>
-        
-        <p class="fr-book-desc">Describes the transition from experiments to operational work.</p>
+        <p class="fr-book-author">By Dean I. Radin, Radin</p>
+
+        <p class="fr-book-desc">Focuses on laboratory evidence rather than applications.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -430,7 +430,7 @@ This separation explains why later discussions continue to cite both Jessica Utt
           <a href="https://www.amazon.com/s?k=The+Stargate+chronicles+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stargate chronicles">The Stargate chronicles</a>
         </h4>
         <p class="fr-book-author">By Joseph McMoneagle</p>
-        
+
         <p class="fr-book-desc">Explains operational experiences beyond the lab.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Stargate+chronicles+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ This separation explains why later discussions continue to cite both Jessica Utt
           <a href="https://www.amazon.com/s?k=Parapsychology+Etzel+Carde%C3%B1a&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Parapsychology">Parapsychology</a>
         </h4>
         <p class="fr-book-author">By Etzel Cardeña, John Palmer et al.</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Parapsychology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Parapsychology+Etzel+Carde%C3%B1a&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,7 +458,7 @@ This separation explains why later discussions continue to cite both Jessica Utt
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The conscious universe</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+viewing+secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote viewing secrets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Stargate+chronicles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Stargate chronicles</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+viewing+secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote viewing secrets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The conscious universe</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Stargate+chronicles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Stargate chronicles</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

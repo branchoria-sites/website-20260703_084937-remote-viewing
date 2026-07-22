@@ -361,30 +361,13 @@ For that reason, the most influential numbers in the remote-viewing literature w
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Provides broader military context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Statistics Done Wrong on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7894833-M.jpg" alt="Cover for Statistics Done Wrong" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Statistics Done Wrong">Statistics Done Wrong</a>
         </h4>
         <p class="fr-book-author">By Alex Reinhart</p>
-        
+
         <p class="fr-book-desc">Clarifies effect sizes versus statistical significance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +384,7 @@ For that reason, the most influential numbers in the remote-viewing literature w
           <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
         </h4>
         <p class="fr-book-author">By Nate Silver</p>
-        
+
         <p class="fr-book-desc">Provides context for interpreting weak but repeatable evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +401,7 @@ For that reason, the most influential numbers in the remote-viewing literature w
           <a href="https://www.amazon.com/s?k=The+cult+of+statistical+significance+Stephen+Thomas+Ziliak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cult of statistical significance">The cult of statistical significance</a>
         </h4>
         <p class="fr-book-author">By Stephen Thomas Ziliak, Deirdre N. McCloskey</p>
-        
+
         <p class="fr-book-desc">Explores why small significant effects can be misinterpreted.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+cult+of+statistical+significance+Stephen+Thomas+Ziliak&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,9 +410,26 @@ For that reason, the most influential numbers in the remote-viewing literature w
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
+        </h4>
+        <p class="fr-book-author">By Jon Ronson</p>
+        <p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
+        <p class="fr-book-desc">&#x27;Simultaneously frightening and hilarious&#x27; - The Times The Men Who Stare at Goats reveals the extraordinary – and completely nutty – nati...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Statistics+Done+Wrong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Statistics Done Wrong</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Statistics+Done+Wrong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Statistics Done Wrong</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+cult+of+statistical+significance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The cult of statistical significance</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -410,7 +410,7 @@ Within the broader debate over sensory leakage, these observations explain why o
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Examines critical thinking and evidence evaluation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ Within the broader debate over sensory leakage, these observations explain why o
           <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Presents the contrasting pro-psi interpretation of evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ Within the broader debate over sensory leakage, these observations explain why o
           <a href="https://www.amazon.com/s?k=An+introduction+to+parapsychology+Harvey+J.+Irwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An introduction to parapsychology">An introduction to parapsychology</a>
         </h4>
         <p class="fr-book-author">By Harvey J. Irwin, Caroline A. Watt</p>
-        
+
         <p class="fr-book-desc">Discusses experimental interpretation and methodological issues.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=An+introduction+to+parapsychology+Harvey+J.+Irwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -461,7 +461,7 @@ Within the broader debate over sensory leakage, these observations explain why o
           <a href="https://www.amazon.com/s?k=Flim-flam%21+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim-flam!">Flim-flam!</a>
         </h4>
         <p class="fr-book-author">By James Randi, Dominique Le Brun</p>
-        
+
         <p class="fr-book-desc">Explores how vague claims and interpretation can mislead.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Flim-flam%21+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

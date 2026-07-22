@@ -377,7 +377,7 @@ The intelligence question was whether remote viewing had demonstrated value as a
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Addresses standards of evidence and extraordinary claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,27 +394,10 @@ The intelligence question was whether remote viewing had demonstrated value as a
           <a href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote viewing secrets">Remote viewing secrets</a>
         </h4>
         <p class="fr-book-author">By Joseph McMoneagle</p>
-        
+
         <p class="fr-book-desc">Provides operational perspective on remote viewing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mind-Reach on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820760-M.jpg" alt="Cover for Mind-Reach" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mind-Reach">Mind-Reach</a>
-        </h4>
-        <p class="fr-book-author">By Russell Targ, Harold E. Puthoff</p>
-        
-        <p class="fr-book-desc">Historical background to government-funded research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -428,7 +411,7 @@ The intelligence question was whether remote viewing had demonstrated value as a
           <a href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The seventh sense">The seventh sense</a>
         </h4>
         <p class="fr-book-author">By Lyn Buchanan</p>
-        
+
         <p class="fr-book-desc">Explains military-inspired methodology and reporting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,9 +420,26 @@ The intelligence question was whether remote viewing had demonstrated value as a
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mind-Reach on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820760-M.jpg" alt="Cover for Mind-Reach" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mind-Reach">Mind-Reach</a>
+        </h4>
+        <p class="fr-book-author">By Russell Targ, Harold E. Puthoff</p>
+
+        <p class="fr-book-desc">Historical background to government-funded research.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+viewing+secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote viewing secrets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mind+Reach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mind Reach</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+viewing+secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote viewing secrets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+seventh+sense&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The seventh sense</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -385,7 +385,7 @@ To move from statistical anomaly to scientific acceptance would require evidence
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">Explains cognitive errors that affect evidence interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ To move from statistical anomaly to scientific acceptance would require evidence
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Statistics Done Wrong">Statistics Done Wrong</a>
         </h4>
         <p class="fr-book-author">By Alex Reinhart</p>
-        
+
         <p class="fr-book-desc">Explains why low p-values are not proof.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ To move from statistical anomaly to scientific acceptance would require evidence
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
         </h4>
         <p class="fr-book-author">By David Spiegelhalter</p>
-        
+
         <p class="fr-book-desc">Covers inference, uncertainty, and statistical reasoning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ To move from statistical anomaly to scientific acceptance would require evidence
           <a href="https://www.amazon.com/s?k=Naked+Statistics+Charles+J.+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Naked Statistics">Naked Statistics</a>
         </h4>
         <p class="fr-book-author">By Charles J. Wheelan</p>
-        
+
         <p class="fr-book-desc">Makes significance testing understandable for general readers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Naked+Statistics+Charles+J.+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

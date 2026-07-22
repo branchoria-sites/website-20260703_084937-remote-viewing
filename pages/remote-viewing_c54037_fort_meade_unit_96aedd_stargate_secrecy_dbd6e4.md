@@ -382,7 +382,7 @@ In the case of remote viewing, this produced two competing narratives that conti
           <a href="https://www.amazon.com/s?k=Phenomena+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Explores secrecy, government sponsorship, and Cold War psychic research.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Phenomena+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,16 +393,16 @@ In the case of remote viewing, this produced two competing narratives that conti
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Remote+viewers+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remote viewers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/280825-M.jpg" alt="Cover for Remote viewers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remote Viewers: The Secret History of America&#x27;s Psychic Spies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13498129-M.jpg" alt="Cover for Remote Viewers: The Secret History of America&#x27;s Psychic Spies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Remote+viewers+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote viewers">Remote viewers</a>
+          <a href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote Viewers: The Secret History of America&#x27;s Psychic Spies">Remote Viewers: The Secret History of America&#x27;s Psychic Spies</a>
         </h4>
         <p class="fr-book-author">By Jim Schnabel</p>
-        
+
         <p class="fr-book-desc">Examines classified programs and later declassification.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Remote+viewers+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies+Jim+Schnabel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -416,7 +416,7 @@ In the case of remote viewing, this produced two competing narratives that conti
           <a href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The seventh sense">The seventh sense</a>
         </h4>
         <p class="fr-book-author">By Lyn Buchanan</p>
-        
+
         <p class="fr-book-desc">Covers operational secrecy and program structure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,16 +427,16 @@ In the case of remote viewing, this produced two competing narratives that conti
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+the+Enemy%27s+Mind+%3A+Inside+Star+Gate+Paul+H.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading the Enemy&#x27;s Mind : Inside Star Gate on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mind-Reach on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820760-M.jpg" alt="Cover for Mind-Reach" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+the+Enemy%27s+Mind+%3A+Inside+Star+Gate+Paul+H.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading the Enemy&#x27;s Mind : Inside Star Gate">Reading the Enemy&#x27;s Mind : Inside Star Gate</a>
+          <a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mind-Reach">Mind-Reach</a>
         </h4>
-        <p class="fr-book-author">By Paul H. Smith</p>
-        
-        <p class="fr-book-desc">Discusses classified work from an insider perspective.</p>
+        <p class="fr-book-author">By Russell Targ, Harold E. Puthoff</p>
+
+        <p class="fr-book-desc">Provides background on research preceding government programs.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+the+Enemy%27s+Mind+%3A+Inside+Star+Gate+Paul+H.+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -444,7 +444,7 @@ In the case of remote viewing, this produced two competing narratives that conti
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phenomena</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+viewers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote viewers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+seventh+sense&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The seventh sense</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phenomena</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+Viewers%3A+The+Secret+History+of+America%27s+Psychic+Spies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote Viewers: The Secret History of America&#x27;s Psychic Spies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+seventh+sense&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The seventh sense</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

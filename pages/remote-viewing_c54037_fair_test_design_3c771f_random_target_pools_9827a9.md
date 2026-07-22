@@ -441,27 +441,10 @@ These safeguards do not establish whether remote viewing exists. Their purpose i
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Statistics Done Wrong">Statistics Done Wrong</a>
         </h4>
         <p class="fr-book-author">By Alex Reinhart</p>
-        
+
         <p class="fr-book-desc">Relevant to target selection and bias prevention.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9500448-M.jpg" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
-        
-        <p class="fr-book-desc">Explains randomization and probability in experiments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -475,10 +458,27 @@ These safeguards do not establish whether remote viewing exists. Their purpose i
           <a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
         </h4>
         <p class="fr-book-author">By Dean I. Radin, Radin</p>
-        
-        <p class="fr-book-desc">First published 1997. Subjects: Parapsychology, Case studies, Cas, Études de, Paranormale verschijnselen, Parapsychologie.</p>
+
+        <p class="fr-book-desc">Contrasts laboratory evidence with practical application questions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9500448-M.jpg" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+        </h4>
+        <p class="fr-book-author">By David Spiegelhalter</p>
+
+        <p class="fr-book-desc">Explains randomization and probability in experiments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -492,7 +492,7 @@ These safeguards do not establish whether remote viewing exists. Their purpose i
           <a href="https://www.amazon.com/s?k=Parapsychology+Etzel+Carde%C3%B1a&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Parapsychology">Parapsychology</a>
         </h4>
         <p class="fr-book-author">By Etzel Cardeña, John Palmer et al.</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Parapsychology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Parapsychology+Etzel+Carde%C3%B1a&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -503,7 +503,7 @@ These safeguards do not establish whether remote viewing exists. Their purpose i
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Statistics+Done+Wrong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Statistics Done Wrong</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The conscious universe</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Statistics+Done+Wrong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Statistics Done Wrong</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The conscious universe</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

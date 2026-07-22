@@ -433,7 +433,7 @@ Until those two standards converge, statistical significance and practical proof
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Statistics Done Wrong">Statistics Done Wrong</a>
         </h4>
         <p class="fr-book-author">By Alex Reinhart</p>
-        
+
         <p class="fr-book-desc">Directly addresses common statistical misunderstandings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -450,7 +450,7 @@ Until those two standards converge, statistical significance and practical proof
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
         </h4>
         <p class="fr-book-author">By David Spiegelhalter</p>
-        
+
         <p class="fr-book-desc">Clearly explains effect size, uncertainty, and practical interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -467,7 +467,7 @@ Until those two standards converge, statistical significance and practical proof
           <a href="https://www.amazon.com/s?k=Naked+Statistics+Charles+J.+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Naked Statistics">Naked Statistics</a>
         </h4>
         <p class="fr-book-author">By Charles J. Wheelan</p>
-        
+
         <p class="fr-book-desc">Introduces statistical concepts relevant to interpreting small effects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Naked+Statistics+Charles+J.+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -484,7 +484,7 @@ Until those two standards converge, statistical significance and practical proof
           <a href="https://www.amazon.com/s?k=The+Reality+of+ESP%3A+A+Physicist%27s+Proof+of+Psychic+Abilities+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reality of ESP: A Physicist&#x27;s Proof of Psychic Abilities">The Reality of ESP: A Physicist&#x27;s Proof of Psychic Abilities</a>
         </h4>
         <p class="fr-book-author">By Russell Targ</p>
-        
+
         <p class="fr-book-desc">Represents the positive interpretation of reported effects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Reality+of+ESP%3A+A+Physicist%27s+Proof+of+Psychic+Abilities+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

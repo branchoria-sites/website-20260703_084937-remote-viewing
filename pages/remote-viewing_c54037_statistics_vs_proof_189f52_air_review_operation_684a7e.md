@@ -401,7 +401,7 @@ The review showed that these questions can receive different answers. It is poss
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Statistics Done Wrong">Statistics Done Wrong</a>
         </h4>
         <p class="fr-book-author">By Alex Reinhart</p>
-        
+
         <p class="fr-book-desc">Helps readers understand why evidence may fail operational tests.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ The review showed that these questions can receive different answers. It is poss
           <a href="https://www.amazon.com/s?k=The+Reality+of+ESP%3A+A+Physicist%27s+Proof+of+Psychic+Abilities+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reality of ESP: A Physicist&#x27;s Proof of Psychic Abilities">The Reality of ESP: A Physicist&#x27;s Proof of Psychic Abilities</a>
         </h4>
         <p class="fr-book-author">By Russell Targ</p>
-        
+
         <p class="fr-book-desc">Offers the perspective contrasted with the AIR conclusions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Reality+of+ESP%3A+A+Physicist%27s+Proof+of+Psychic+Abilities+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ The review showed that these questions can receive different answers. It is poss
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
         </h4>
         <p class="fr-book-author">By David Spiegelhalter</p>
-        
+
         <p class="fr-book-desc">Explains statistical versus practical significance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ The review showed that these questions can receive different answers. It is poss
           <a href="https://www.amazon.com/s?k=Reading+the+Enemy%27s+Mind+%3A+Inside+Star+Gate+Paul+H.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading the Enemy&#x27;s Mind : Inside Star Gate">Reading the Enemy&#x27;s Mind : Inside Star Gate</a>
         </h4>
         <p class="fr-book-author">By Paul H. Smith</p>
-        
+
         <p class="fr-book-desc">Provides context for operational military remote viewing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reading+the+Enemy%27s+Mind+%3A+Inside+Star+Gate+Paul+H.+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

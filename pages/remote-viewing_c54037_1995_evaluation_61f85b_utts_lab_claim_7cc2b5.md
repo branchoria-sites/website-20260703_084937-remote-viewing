@@ -356,7 +356,7 @@ As a result, the memory of [Stargate]({{ 'stargate/' | relative_url }}) often pr
           <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Closely matches Utts&#x27; interpretation of laboratory evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ As a result, the memory of [Stargate]({{ 'stargate/' | relative_url }}) often pr
           <a href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote viewing secrets">Remote viewing secrets</a>
         </h4>
         <p class="fr-book-author">By Joseph McMoneagle</p>
-        
+
         <p class="fr-book-desc">Shows the operational side beyond statistics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ As a result, the memory of [Stargate]({{ 'stargate/' | relative_url }}) often pr
           <a href="https://www.amazon.com/s?k=The+Stargate+chronicles+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stargate chronicles">The Stargate chronicles</a>
         </h4>
         <p class="fr-book-author">By Joseph McMoneagle</p>
-        
+
         <p class="fr-book-desc">Explains why government interest eventually ended.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Stargate+chronicles+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ As a result, the memory of [Stargate]({{ 'stargate/' | relative_url }}) often pr
           <a href="https://www.amazon.com/s?k=Parapsychology+Etzel+Carde%C3%B1a&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Parapsychology">Parapsychology</a>
         </h4>
         <p class="fr-book-author">By Etzel Cardeña, John Palmer et al.</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Parapsychology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Parapsychology+Etzel+Carde%C3%B1a&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

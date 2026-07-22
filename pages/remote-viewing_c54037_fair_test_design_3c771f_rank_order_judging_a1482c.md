@@ -412,7 +412,7 @@ For remote viewing, this means that the meaningful comparison is not between a t
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Statistics Done Wrong">Statistics Done Wrong</a>
         </h4>
         <p class="fr-book-author">By Alex Reinhart</p>
-        
+
         <p class="fr-book-desc">Explains proper scoring and interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ For remote viewing, this means that the meaningful comparison is not between a t
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
         </h4>
         <p class="fr-book-author">By David Spiegelhalter</p>
-        
+
         <p class="fr-book-desc">Clarifies ranking, chance, and statistical evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ For remote viewing, this means that the meaningful comparison is not between a t
           <a href="https://www.amazon.com/s?k=The+elusive+quarry+Ray+Hyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The elusive quarry">The elusive quarry</a>
         </h4>
         <p class="fr-book-author">By Ray Hyman</p>
-        
+
         <p class="fr-book-desc">First published 1989. Subjects: Book reviews, Controversial literature, Parapsychology, Psychical research.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+elusive+quarry+Ray+Hyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -463,7 +463,7 @@ For remote viewing, this means that the meaningful comparison is not between a t
           <a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Universe+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptic&#x27;s Guide to the Universe">The Skeptic&#x27;s Guide to the Universe</a>
         </h4>
         <p class="fr-book-author">By Steven Novella</p>
-        
+
         <p class="fr-book-desc">Highlights the importance of blinded comparisons.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Universe+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

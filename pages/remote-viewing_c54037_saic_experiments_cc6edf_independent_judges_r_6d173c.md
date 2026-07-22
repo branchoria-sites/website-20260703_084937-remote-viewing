@@ -374,7 +374,7 @@ The AIR review effectively reframed the discussion from asking, "Were statistica
           <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Explores how independent replication is interpreted by supporters.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ The AIR review effectively reframed the discussion from asking, "Were statistica
           <a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
         </h4>
         <p class="fr-book-author">By Ben Goldacre</p>
-        
+
         <p class="fr-book-desc">Helps readers understand why independent verification matters.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ The AIR review effectively reframed the discussion from asking, "Were statistica
           <a href="https://www.amazon.com/s?k=Research+methods+and+statistics+in+psychology+Hugh+Coolican&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Research methods and statistics in psychology">Research methods and statistics in psychology</a>
         </h4>
         <p class="fr-book-author">By Hugh Coolican</p>
-        
+
         <p class="fr-book-desc">Explains reliability, independent assessment and replication principles.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Research+methods+and+statistics+in+psychology+Hugh+Coolican&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ The AIR review effectively reframed the discussion from asking, "Were statistica
           <a href="https://www.amazon.com/s?k=Parapsychology+Etzel+Carde%C3%B1a&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Parapsychology">Parapsychology</a>
         </h4>
         <p class="fr-book-author">By Etzel Cardeña, John Palmer et al.</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Parapsychology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Parapsychology+Etzel+Carde%C3%B1a&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -404,7 +404,7 @@ For that reason, monomethod bias remains one of the most persistent interpretive
           <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Represents the supportive interpretation of recurring laboratory findings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ For that reason, monomethod bias remains one of the most persistent interpretive
           <a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
         </h4>
         <p class="fr-book-author">By Ben Goldacre</p>
-        
+
         <p class="fr-book-desc">Illustrates why robust replication and methodological diversity matter.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ For that reason, monomethod bias remains one of the most persistent interpretive
           <a href="https://www.amazon.com/s?k=Research+Design+John+W.+Creswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Research Design">Research Design</a>
         </h4>
         <p class="fr-book-author">By John W. Creswell, J. David Creswell</p>
-        
+
         <p class="fr-book-desc">Useful for understanding why changing methods strengthens evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Research+Design+John+W.+Creswell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ For that reason, monomethod bias remains one of the most persistent interpretive
           <a href="https://www.amazon.com/s?k=Parapsychology+Etzel+Carde%C3%B1a&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Parapsychology">Parapsychology</a>
         </h4>
         <p class="fr-book-author">By Etzel Cardeña, John Palmer et al.</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Parapsychology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Parapsychology+Etzel+Carde%C3%B1a&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

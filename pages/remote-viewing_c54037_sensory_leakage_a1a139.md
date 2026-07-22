@@ -601,7 +601,7 @@ The most honest assessment is therefore cautious. Sensory leakage is not a side 
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Introduces scientific reasoning useful for evaluating claims of sensory leakage and bias.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -618,7 +618,7 @@ The most honest assessment is therefore cautious. Sensory leakage is not a side 
           <a href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote viewing secrets">Remote viewing secrets</a>
         </h4>
         <p class="fr-book-author">By Joseph McMoneagle</p>
-        
+
         <p class="fr-book-desc">Provides the practitioner perspective that readers often compare against skeptical critiques.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Remote+viewing+secrets+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -635,7 +635,7 @@ The most honest assessment is therefore cautious. Sensory leakage is not a side 
           <a href="https://www.amazon.com/s?k=The+elusive+quarry+Ray+Hyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The elusive quarry">The elusive quarry</a>
         </h4>
         <p class="fr-book-author">By Ray Hyman</p>
-        
+
         <p class="fr-book-desc">Covers methodological weaknesses and the need for rigorous controls.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+elusive+quarry+Ray+Hyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -652,7 +652,7 @@ The most honest assessment is therefore cautious. Sensory leakage is not a side 
           <a href="https://www.amazon.com/s?k=Guidelines+for+extrasensory+perception+research+Julie+Milton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Guidelines for extrasensory perception research">Guidelines for extrasensory perception research</a>
         </h4>
         <p class="fr-book-author">By Julie Milton, Richard Wiseman</p>
-        
+
         <p class="fr-book-desc">First published 1997. Subjects: Psychics, Psychic ability, Evaluation, Rating of, Extrasensory perception.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Guidelines+for+extrasensory+perception+research+Julie+Milton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

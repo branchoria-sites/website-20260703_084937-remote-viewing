@@ -360,7 +360,7 @@ The debate also illustrates why methodological criticism can remain influential 
           <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Represents the favorable interpretation of psi evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ The debate also illustrates why methodological criticism can remain influential 
           <a href="https://www.amazon.com/s?k=An+introduction+to+parapsychology+Harvey+J.+Irwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An introduction to parapsychology">An introduction to parapsychology</a>
         </h4>
         <p class="fr-book-author">By Harvey J. Irwin, Caroline A. Watt</p>
-        
+
         <p class="fr-book-desc">Summarizes SRI studies and methodological criticisms.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=An+introduction+to+parapsychology+Harvey+J.+Irwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ The debate also illustrates why methodological criticism can remain influential 
           <a href="https://www.amazon.com/s?k=Flim-flam%21+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim-flam!">Flim-flam!</a>
         </h4>
         <p class="fr-book-author">By James Randi, Dominique Le Brun</p>
-        
+
         <p class="fr-book-desc">Provides accessible background on sensory leakage arguments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Flim-flam%21+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

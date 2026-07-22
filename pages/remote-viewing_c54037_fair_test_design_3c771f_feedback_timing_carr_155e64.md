@@ -395,7 +395,7 @@ By delaying feedback until after judging is complete and by removing chronologic
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Statistics Done Wrong">Statistics Done Wrong</a>
         </h4>
         <p class="fr-book-author">By Alex Reinhart</p>
-        
+
         <p class="fr-book-desc">Explains design choices that reduce misleading results.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Statistics+Done+Wrong+Alex+Reinhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ By delaying feedback until after judging is complete and by removing chronologic
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
         </h4>
         <p class="fr-book-author">By David Spiegelhalter</p>
-        
+
         <p class="fr-book-desc">Supports understanding of controlled experimental evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ By delaying feedback until after judging is complete and by removing chronologic
           <a href="https://www.amazon.com/s?k=The+elusive+quarry+Ray+Hyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The elusive quarry">The elusive quarry</a>
         </h4>
         <p class="fr-book-author">By Ray Hyman</p>
-        
+
         <p class="fr-book-desc">First published 1989. Subjects: Book reviews, Controversial literature, Parapsychology, Psychical research.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+elusive+quarry+Ray+Hyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ By delaying feedback until after judging is complete and by removing chronologic
           <a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Universe+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptic&#x27;s Guide to the Universe">The Skeptic&#x27;s Guide to the Universe</a>
         </h4>
         <p class="fr-book-author">By Steven Novella</p>
-        
+
         <p class="fr-book-desc">Emphasizes bias control and evidence quality.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Universe+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
