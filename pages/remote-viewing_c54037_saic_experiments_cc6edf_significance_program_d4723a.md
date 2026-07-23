@@ -400,16 +400,16 @@ Because the programme failed to satisfy the final requirement, statistically sig
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=ESP+Wars%3A+East+%26+West+Edwin+C.+May+and+Sonali+Bhatt+Marwaha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ESP Wars: East &amp; West on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=ESP+Wars%3A+East+%26+West+Edwin+C.+May&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ESP Wars: East &amp; West on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpURkAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for ESP Wars: East &amp; West" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=ESP+Wars%3A+East+%26+West+Edwin+C.+May+and+Sonali+Bhatt+Marwaha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="ESP Wars: East &amp; West">ESP Wars: East &amp; West</a>
+          <a href="https://www.amazon.com/s?k=ESP+Wars%3A+East+%26+West+Edwin+C.+May&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="ESP Wars: East &amp; West">ESP Wars: East &amp; West</a>
         </h4>
-        <p class="fr-book-author">By Edwin C. May and Sonali Bhatt Marwaha</p>
+        <p class="fr-book-author">By Edwin C. May, Victor Rubel et al.</p>
 
         <p class="fr-book-desc">Covers the SAIC era, statistical evidence, and competing interpretations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=ESP+Wars%3A+East+%26+West+Edwin+C.+May+and+Sonali+Bhatt+Marwaha&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=ESP+Wars%3A+East+%26+West+Edwin+C.+May&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

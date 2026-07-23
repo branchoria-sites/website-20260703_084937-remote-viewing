@@ -404,16 +404,16 @@ Viewed in that broader context, the Jupiter session remains memorable not becaus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The seventh sense on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/477885-M.jpg" alt="Cover for The seventh sense" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seventh+Sense%3A+The+Secrets+of+Remote+Viewing+as+Told+by+a+%27Psychic+Spy%27+for+the+U.S.+Military+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seventh Sense: The Secrets of Remote Viewing as Told by a &#x27;Psychic Spy&#x27; for the U.S. Military on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/477885-M.jpg" alt="Cover for The Seventh Sense: The Secrets of Remote Viewing as Told by a &#x27;Psychic Spy&#x27; for the U.S. Military" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The seventh sense">The seventh sense</a>
+          <a href="https://www.amazon.com/s?k=The+Seventh+Sense%3A+The+Secrets+of+Remote+Viewing+as+Told+by+a+%27Psychic+Spy%27+for+the+U.S.+Military+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seventh Sense: The Secrets of Remote Viewing as Told by a &#x27;Psychic Spy&#x27; for the U.S. Military">The Seventh Sense: The Secrets of Remote Viewing as Told by a...</a>
         </h4>
         <p class="fr-book-author">By Lyn Buchanan</p>
 
         <p class="fr-book-desc">Places early SRI claims within the later military remote-viewing tradition.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+seventh+sense+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Seventh+Sense%3A+The+Secrets+of+Remote+Viewing+as+Told+by+a+%27Psychic+Spy%27+for+the+U.S.+Military+Lyn+Buchanan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -438,16 +438,16 @@ Viewed in that broader context, the Jupiter session remains memorable not becaus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Penetration+Ingo+Swann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Penetration on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12563203-M.jpg" alt="Cover for Penetration" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Penetration%3A+The+Question+of+Extraterrestrial+and+Human+Telepathy+Ingo+Swann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Penetration: The Question of Extraterrestrial and Human Telepathy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12563203-M.jpg" alt="Cover for Penetration: The Question of Extraterrestrial and Human Telepathy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Penetration+Ingo+Swann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Penetration">Penetration</a>
+          <a href="https://www.amazon.com/s?k=Penetration%3A+The+Question+of+Extraterrestrial+and+Human+Telepathy+Ingo+Swann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Penetration: The Question of Extraterrestrial and Human Telepathy">Penetration: The Question of Extraterrestrial and Human Telep...</a>
         </h4>
         <p class="fr-book-author">By Ingo Swann</p>
 
-        <p class="fr-book-desc">First published 1998. Subjects: Telepathy, Remote Viewing, Aliens, UFOs, Extraterrestrials.</p>
+        <p class="fr-book-desc">Covers Swann&#x27;s claims, including his wider views on remote viewing and extraordinary perception.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Penetration+Ingo+Swann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Penetration%3A+The+Question+of+Extraterrestrial+and+Human+Telepathy+Ingo+Swann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -455,7 +455,7 @@ Viewed in that broader context, the Jupiter session remains memorable not becaus
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reality+of+ESP%3A+A+Physicist%27s+Proof+of+Psychic+Abilities&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reality of ESP: A Physicist&#x27;s Proof of Psychic Abilities</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+seventh+sense&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The seventh sense</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mind+Reach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mind Reach</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reality+of+ESP%3A+A+Physicist%27s+Proof+of+Psychic+Abilities&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reality of ESP: A Physicist&#x27;s Proof of Psychic Abilities</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Seventh+Sense%3A+The+Secrets+of+Remote+Viewing+as+Told+by+a+%27Psychic+Spy%27+for+the+U.S.+Military&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Seventh Sense: The Secrets of Remote Viewing as Told by a &#x27;Psychic Spy&#x27; for the U.S. Military</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mind+Reach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mind Reach</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
