@@ -247,7 +247,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What the Famous Review Really Said | Remote Viewing" aria-expanded="false" aria-controls="home-vertical-children-node-remote-viewing-c54037-1995-evaluation-61f85b"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ '1995-review/' | relative_url }}" title="What the Famous Review Really Said | Remote Viewing" aria-label="Read more about What the Famous Review Really Said | Remote Viewing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1995-review/' | relative_url }}" title="What the Famous Review Really Said | Did Psychic Spying Ever Really Work?" aria-label="Read more about What the Famous Review Really Said | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -267,7 +267,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'utts-claim/' | relative_url }}" title="How a Positive Finding Still Lost Funding | Remote Viewing C54037 1995 Evaluation" aria-label="Read more about How a Positive Finding Still Lost Funding | Remote Viewing C54037 1995 Evaluation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'utts-claim/' | relative_url }}" title="How a Positive Finding Still Lost Funding | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?" aria-label="Read more about How a Positive Finding Still Lost Funding | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -287,7 +287,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'end-users/' | relative_url }}" title="What Did Intelligence Users Say Went Wrong? | Remote Viewing C54037 1995 Evaluation" aria-label="Read more about What Did Intelligence Users Say Went Wrong? | Remote Viewing C54037 1995 Evaluation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'end-users/' | relative_url }}" title="What Did Intelligence Users Say Went Wrong? | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?" aria-label="Read more about What Did Intelligence Users Say Went Wrong? | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -307,7 +307,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'air-review/' | relative_url }}" title="What Did the 1995 Review Actually Examine? | Remote Viewing C54037 1995 Evaluation" aria-label="Read more about What Did the 1995 Review Actually Examine? | Remote Viewing C54037 1995 Evaluation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'air-review/' | relative_url }}" title="What Did the 1995 Review Actually Examine? | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?" aria-label="Read more about What Did the 1995 Review Actually Examine? | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -327,7 +327,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-vs-field/' | relative_url }}" title="Why Lab Hits Did Not Mean Spycraft Worked | Remote Viewing C54037 1995 Evaluation" aria-label="Read more about Why Lab Hits Did Not Mean Spycraft Worked | Remote Viewing C54037 1995 Evaluation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-vs-field/' | relative_url }}" title="Why Lab Hits Did Not Mean Spycraft Worked | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Lab Hits Did Not Mean Spycraft Worked | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -347,7 +347,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'replication-a21f03/' | relative_url }}" title="Why One Expert Still Said Not Proven | Remote Viewing C54037 1995 Evaluation" aria-label="Read more about Why One Expert Still Said Not Proven | Remote Viewing C54037 1995 Evaluation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'replication-a21f03/' | relative_url }}" title="Why One Expert Still Said Not Proven | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why One Expert Still Said Not Proven | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -367,7 +367,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'actionability/' | relative_url }}" title="Why Vague Accuracy Was Not Enough | Remote Viewing C54037 1995 Evaluation" aria-label="Read more about Why Vague Accuracy Was Not Enough | Remote Viewing C54037 1995 Evaluation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'actionability/' | relative_url }}" title="Why Vague Accuracy Was Not Enough | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Vague Accuracy Was Not Enough | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -391,7 +391,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why the Best Stories May Not Be Evidence | Remote Viewing" aria-expanded="false" aria-controls="home-vertical-children-node-remote-viewing-c54037-anecdotes-vs-data-021f48"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'anecdotes/' | relative_url }}" title="Why the Best Stories May Not Be Evidence | Remote Viewing" aria-label="Read more about Why the Best Stories May Not Be Evidence | Remote Viewing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'anecdotes/' | relative_url }}" title="Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -411,7 +411,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blind-judges/' | relative_url }}" title="Could a Stranger Pick the Target? | Remote Viewing C54037 Anecdotes Vs Data" aria-label="Read more about Could a Stranger Pick the Target? | Remote Viewing C54037 Anecdotes Vs Data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blind-judges/' | relative_url }}" title="Could a Stranger Pick the Target? | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?" aria-label="Read more about Could a Stranger Pick the Target? | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -431,7 +431,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'semipalatinsk/' | relative_url }}" title="The Hit That Hid the Misses | Remote Viewing C54037 Anecdotes Vs Data" aria-label="Read more about The Hit That Hid the Misses | Remote Viewing C54037 Anecdotes Vs Data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'semipalatinsk/' | relative_url }}" title="The Hit That Hid the Misses | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Hit That Hid the Misses | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -451,7 +451,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-misses/' | relative_url }}" title="What Remote Viewing Stories Leave Out | Remote Viewing C54037 Anecdotes Vs Data" aria-label="Read more about What Remote Viewing Stories Leave Out | Remote Viewing C54037 Anecdotes Vs Data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-misses/' | relative_url }}" title="What Remote Viewing Stories Leave Out | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?" aria-label="Read more about What Remote Viewing Stories Leave Out | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -471,7 +471,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-vs-ops/' | relative_url }}" title="When Lab Results Meet Real Targets | Remote Viewing C54037 Anecdotes Vs Data" aria-label="Read more about When Lab Results Meet Real Targets | Remote Viewing C54037 Anecdotes Vs Data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-vs-ops/' | relative_url }}" title="When Lab Results Meet Real Targets | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Lab Results Meet Real Targets | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -491,7 +491,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'water-cue/' | relative_url }}" title="Why One Vague Detail Can Feel Exact | Remote Viewing C54037 Anecdotes Vs Data" aria-label="Read more about Why One Vague Detail Can Feel Exact | Remote Viewing C54037 Anecdotes Vs Data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'water-cue/' | relative_url }}" title="Why One Vague Detail Can Feel Exact | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why One Vague Detail Can Feel Exact | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -511,7 +511,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'story-bias/' | relative_url }}" title="Why the Story Wins First | Remote Viewing C54037 Anecdotes Vs Data" aria-label="Read more about Why the Story Wins First | Remote Viewing C54037 Anecdotes Vs Data">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'story-bias/' | relative_url }}" title="Why the Story Wins First | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why the Story Wins First | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -535,7 +535,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What the CIA Files Do Not Prove | Remote Viewing" aria-expanded="false" aria-controls="home-vertical-children-node-remote-viewing-c54037-cia-archive-myths-32e017"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cia-myths/' | relative_url }}" title="What the CIA Files Do Not Prove | Remote Viewing" aria-label="Read more about What the CIA Files Do Not Prove | Remote Viewing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cia-myths/' | relative_url }}" title="What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?" aria-label="Read more about What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -555,7 +555,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ark-claims/' | relative_url }}" title="Did a CIA File Really Confirm the Ark? | Remote Viewing C54037 Cia Archive Myths" aria-label="Read more about Did a CIA File Really Confirm the Ark? | Remote Viewing C54037 Cia Archive Myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ark-claims/' | relative_url }}" title="Did a CIA File Really Confirm the Ark? | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?" aria-label="Read more about Did a CIA File Really Confirm the Ark? | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -575,7 +575,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'crest-spread/' | relative_url }}" title="How CREST Turned Archive Pages Viral | Remote Viewing C54037 Cia Archive Myths" aria-label="Read more about How CREST Turned Archive Pages Viral | Remote Viewing C54037 Cia Archive Myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'crest-spread/' | relative_url }}" title="How CREST Turned Archive Pages Viral | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?" aria-label="Read more about How CREST Turned Archive Pages Viral | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -595,7 +595,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'file-meaning/' | relative_url }}" title="What a Declassified CIA File Really Proves | Remote Viewing C54037 Cia Archive Myths" aria-label="Read more about What a Declassified CIA File Really Proves | Remote Viewing C54037 Cia Archive Myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'file-meaning/' | relative_url }}" title="What a Declassified CIA File Really Proves | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?" aria-label="Read more about What a Declassified CIA File Really Proves | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -615,7 +615,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'geller-files/' | relative_url }}" title="What the Uri Geller Files Leave Unsettled | Remote Viewing C54037 Cia Archive Myths" aria-label="Read more about What the Uri Geller Files Leave Unsettled | Remote Viewing C54037 Cia Archive Myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'geller-files/' | relative_url }}" title="What the Uri Geller Files Leave Unsettled | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?" aria-label="Read more about What the Uri Geller Files Leave Unsettled | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -635,7 +635,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'final-review/' | relative_url }}" title="Why STAR GATE Failed the Intelligence Test | Remote Viewing C54037 Cia Archive Myths" aria-label="Read more about Why STAR GATE Failed the Intelligence Test | Remote Viewing C54037 Cia Archive Myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'final-review/' | relative_url }}" title="Why STAR GATE Failed the Intelligence Test | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why STAR GATE Failed the Intelligence Test | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -655,7 +655,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mars-session/' | relative_url }}" title="Why the Mars File Cannot Prove Martian History | Remote Viewing C54037 Cia Archive Myths" aria-label="Read more about Why the Mars File Cannot Prove Martian History | Remote Viewing C54037 Cia Archive Myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mars-session/' | relative_url }}" title="Why the Mars File Cannot Prove Martian History | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why the Mars File Cannot Prove Martian History | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -699,7 +699,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'czech-trail/' | relative_url }}" title="The Czechoslovak Clue in Psychic Research | Remote Viewing C54037 Cold War Psychics" aria-label="Read more about The Czechoslovak Clue in Psychic Research | Remote Viewing C54037 Cold War Psychics">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'czech-trail/' | relative_url }}" title="The Czechoslovak Clue in Psychic Research | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Czechoslovak Clue in Psychic Research | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -719,7 +719,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'race-myth/' | relative_url }}" title="Was There Really a Psychic Arms Race? | Remote Viewing C54037 Cold War Psychics" aria-label="Read more about Was There Really a Psychic Arms Race? | Remote Viewing C54037 Cold War Psychics">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'race-myth/' | relative_url }}" title="Was There Really a Psychic Arms Race? | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?" aria-label="Read more about Was There Really a Psychic Arms Race? | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -739,7 +739,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'language-gap/' | relative_url }}" title="When Strange Words Became Intelligence Signals | Remote Viewing C54037 Cold War Psychics" aria-label="Read more about When Strange Words Became Intelligence Signals | Remote Viewing C54037 Cold War Psychics">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'language-gap/' | relative_url }}" title="When Strange Words Became Intelligence Signals | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Strange Words Became Intelligence Signals | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -759,7 +759,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fear-logic/' | relative_url }}" title="Why Fear Can Fund Unlikely Experiments | Remote Viewing C54037 Cold War Psychics" aria-label="Read more about Why Fear Can Fund Unlikely Experiments | Remote Viewing C54037 Cold War Psychics">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fear-logic/' | relative_url }}" title="Why Fear Can Fund Unlikely Experiments | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Fear Can Fund Unlikely Experiments | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -779,7 +779,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'psychotronics/' | relative_url }}" title="Why Psychotronics Worried Western Analysts | Remote Viewing C54037 Cold War Psychics" aria-label="Read more about Why Psychotronics Worried Western Analysts | Remote Viewing C54037 Cold War Psychics">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'psychotronics/' | relative_url }}" title="Why Psychotronics Worried Western Analysts | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Psychotronics Worried Western Analysts | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -799,7 +799,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'foreign-watch/' | relative_url }}" title="Why Watching the Soviets Changed the Test | Remote Viewing C54037 Cold War Psychics" aria-label="Read more about Why Watching the Soviets Changed the Test | Remote Viewing C54037 Cold War Psychics">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'foreign-watch/' | relative_url }}" title="Why Watching the Soviets Changed the Test | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Watching the Soviets Changed the Test | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -843,7 +843,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'psychic-spying/' | relative_url }}" title="How Psychic Spying Rebranded ESP | Remote Viewing C54037 Rv Vs Esp" aria-label="Read more about How Psychic Spying Rebranded ESP | Remote Viewing C54037 Rv Vs Esp">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'psychic-spying/' | relative_url }}" title="How Psychic Spying Rebranded ESP | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?" aria-label="Read more about How Psychic Spying Rebranded ESP | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -863,7 +863,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'not-psychic/' | relative_url }}" title="Is Remote Viewing Just Psychic Reading? | Remote Viewing C54037 Rv Vs Esp" aria-label="Read more about Is Remote Viewing Just Psychic Reading? | Remote Viewing C54037 Rv Vs Esp">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'not-psychic/' | relative_url }}" title="Is Remote Viewing Just Psychic Reading? | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?" aria-label="Read more about Is Remote Viewing Just Psychic Reading? | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -883,7 +883,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'precognition/' | relative_url }}" title="When Remote Viewing Becomes Future Knowing | Remote Viewing C54037 Rv Vs Esp" aria-label="Read more about When Remote Viewing Becomes Future Knowing | Remote Viewing C54037 Rv Vs Esp">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'precognition/' | relative_url }}" title="When Remote Viewing Becomes Future Knowing | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Remote Viewing Becomes Future Knowing | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -903,7 +903,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'esp-types/' | relative_url }}" title="Which Kind of ESP Is Remote Viewing? | Remote Viewing C54037 Rv Vs Esp" aria-label="Read more about Which Kind of ESP Is Remote Viewing? | Remote Viewing C54037 Rv Vs Esp">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'esp-types/' | relative_url }}" title="Which Kind of ESP Is Remote Viewing? | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?" aria-label="Read more about Which Kind of ESP Is Remote Viewing? | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -923,7 +923,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'target-ids/' | relative_url }}" title="Why Did Remote Viewing Use Target Numbers? | Remote Viewing C54037 Rv Vs Esp" aria-label="Read more about Why Did Remote Viewing Use Target Numbers? | Remote Viewing C54037 Rv Vs Esp">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'target-ids/' | relative_url }}" title="Why Did Remote Viewing Use Target Numbers? | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Did Remote Viewing Use Target Numbers? | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -943,7 +943,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'before-feedback/' | relative_url }}" title="Why Notes Before Feedback Matter So Much | Remote Viewing C54037 Rv Vs Esp" aria-label="Read more about Why Notes Before Feedback Matter So Much | Remote Viewing C54037 Rv Vs Esp">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'before-feedback/' | relative_url }}" title="Why Notes Before Feedback Matter So Much | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Notes Before Feedback Matter So Much | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -987,7 +987,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'clean-transcripts/' | relative_url }}" title="Can the Transcript Give the Game Away? | Remote Viewing C54037 Fair Test Design" aria-label="Read more about Can the Transcript Give the Game Away? | Remote Viewing C54037 Fair Test Design">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'clean-transcripts/' | relative_url }}" title="Can the Transcript Give the Game Away? | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?" aria-label="Read more about Can the Transcript Give the Game Away? | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1007,7 +1007,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'preregistration/' | relative_url }}" title="Lock the Rules Before the Reveal | Remote Viewing C54037 Fair Test Design" aria-label="Read more about Lock the Rules Before the Reveal | Remote Viewing C54037 Fair Test Design">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'preregistration/' | relative_url }}" title="Lock the Rules Before the Reveal | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?" aria-label="Read more about Lock the Rules Before the Reveal | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1027,7 +1027,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'feedback-timing/' | relative_url }}" title="The Hidden Risk of Early Feedback | Remote Viewing C54037 Fair Test Design" aria-label="Read more about The Hidden Risk of Early Feedback | Remote Viewing C54037 Fair Test Design">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'feedback-timing/' | relative_url }}" title="The Hidden Risk of Early Feedback | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Hidden Risk of Early Feedback | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1047,7 +1047,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'target-pools/' | relative_url }}" title="When Random Targets Are Not Random Enough | Remote Viewing C54037 Fair Test Design" aria-label="Read more about When Random Targets Are Not Random Enough | Remote Viewing C54037 Fair Test Design">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'target-pools/' | relative_url }}" title="When Random Targets Are Not Random Enough | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Random Targets Are Not Random Enough | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1067,7 +1067,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'triple-blind/' | relative_url }}" title="Who Really Needs to Be Blind? | Remote Viewing C54037 Fair Test Design" aria-label="Read more about Who Really Needs to Be Blind? | Remote Viewing C54037 Fair Test Design">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'triple-blind/' | relative_url }}" title="Who Really Needs to Be Blind? | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?" aria-label="Read more about Who Really Needs to Be Blind? | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1087,7 +1087,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rank-judging/' | relative_url }}" title="Why Decoys Matter More Than Hits | Remote Viewing C54037 Fair Test Design" aria-label="Read more about Why Decoys Matter More Than Hits | Remote Viewing C54037 Fair Test Design">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rank-judging/' | relative_url }}" title="Why Decoys Matter More Than Hits | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Decoys Matter More Than Hits | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1131,7 +1131,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'secrecy/' | relative_url }}" title="Did Secrecy Make Stargate More Convincing? | Remote Viewing C54037 Fort Meade Unit" aria-label="Read more about Did Secrecy Make Stargate More Convincing? | Remote Viewing C54037 Fort Meade Unit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secrecy/' | relative_url }}" title="Did Secrecy Make Stargate More Convincing? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?" aria-label="Read more about Did Secrecy Make Stargate More Convincing? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1151,7 +1151,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tasking/' | relative_url }}" title="How Did a Psychic Spy Assignment Work? | Remote Viewing C54037 Fort Meade Unit" aria-label="Read more about How Did a Psychic Spy Assignment Work? | Remote Viewing C54037 Fort Meade Unit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tasking/' | relative_url }}" title="How Did a Psychic Spy Assignment Work? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?" aria-label="Read more about How Did a Psychic Spy Assignment Work? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1171,7 +1171,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'detachment-g/' | relative_url }}" title="What Was Detachment G Really Built To Do? | Remote Viewing C54037 Fort Meade Unit" aria-label="Read more about What Was Detachment G Really Built To Do? | Remote Viewing C54037 Fort Meade Unit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'detachment-g/' | relative_url }}" title="What Was Detachment G Really Built To Do? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?" aria-label="Read more about What Was Detachment G Really Built To Do? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1191,7 +1191,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'viewers/' | relative_url }}" title="Who Were the Military Viewers? | Remote Viewing C54037 Fort Meade Unit" aria-label="Read more about Who Were the Military Viewers? | Remote Viewing C54037 Fort Meade Unit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'viewers/' | relative_url }}" title="Who Were the Military Viewers? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?" aria-label="Read more about Who Were the Military Viewers? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1211,7 +1211,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'code-names/' | relative_url }}" title="Why Did Stargate Have So Many Names? | Remote Viewing C54037 Fort Meade Unit" aria-label="Read more about Why Did Stargate Have So Many Names? | Remote Viewing C54037 Fort Meade Unit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'code-names/' | relative_url }}" title="Why Did Stargate Have So Many Names? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Did Stargate Have So Many Names? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1231,7 +1231,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'usefulness/' | relative_url }}" title="Why Striking Impressions Still Failed Analysts | Remote Viewing C54037 Fort Meade Unit" aria-label="Read more about Why Striking Impressions Still Failed Analysts | Remote Viewing C54037 Fort Meade Unit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'usefulness/' | relative_url }}" title="Why Striking Impressions Still Failed Analysts | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Striking Impressions Still Failed Analysts | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1275,7 +1275,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'timing-test/' | relative_url }}" title="Can a Future Target Anchor an Earlier Session? | Remote Viewing C54037 Future Targets" aria-label="Read more about Can a Future Target Anchor an Earlier Session? | Remote Viewing C54037 Future Targets">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'timing-test/' | relative_url }}" title="Can a Future Target Anchor an Earlier Session? | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?" aria-label="Read more about Can a Future Target Anchor an Earlier Session? | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1295,7 +1295,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cia-protocols/' | relative_url }}" title="Inside the CIA Records on Future Targets | Remote Viewing C54037 Future Targets" aria-label="Read more about Inside the CIA Records on Future Targets | Remote Viewing C54037 Future Targets">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cia-protocols/' | relative_url }}" title="Inside the CIA Records on Future Targets | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?" aria-label="Read more about Inside the CIA Records on Future Targets | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1315,7 +1315,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'chicago-trial/' | relative_url }}" title="What the Chicago Precognition Trial Really Tested | Remote Viewing C54037 Future Targets" aria-label="Read more about What the Chicago Precognition Trial Really Tested | Remote Viewing C54037 Future Targets">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'chicago-trial/' | relative_url }}" title="What the Chicago Precognition Trial Really Tested | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?" aria-label="Read more about What the Chicago Precognition Trial Really Tested | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1335,7 +1335,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rater-reliability/' | relative_url }}" title="When Blind Judges Do Not Agree | Remote Viewing C54037 Future Targets" aria-label="Read more about When Blind Judges Do Not Agree | Remote Viewing C54037 Future Targets">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rater-reliability/' | relative_url }}" title="When Blind Judges Do Not Agree | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Blind Judges Do Not Agree | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1355,7 +1355,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'associative-remote-viewing-arv/' | relative_url }}" title="Why Future Predictions Become Image Matches | Remote Viewing C54037 Future Targets" aria-label="Read more about Why Future Predictions Become Image Matches | Remote Viewing C54037 Future Targets">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'associative-remote-viewing-arv/' | relative_url }}" title="Why Future Predictions Become Image Matches | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Future Predictions Become Image Matches | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1375,7 +1375,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'selective-hits/' | relative_url }}" title="Why Winning Streaks Can Mislead | Remote Viewing C54037 Future Targets" aria-label="Read more about Why Winning Streaks Can Mislead | Remote Viewing C54037 Future Targets">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'selective-hits/' | relative_url }}" title="Why Winning Streaks Can Mislead | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Winning Streaks Can Mislead | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1419,7 +1419,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blind-judging/' | relative_url }}" title="Can Blind Judges Separate Hits From Hindsight? | Remote Viewing C54037 Problem Of Hits" aria-label="Read more about Can Blind Judges Separate Hits From Hindsight? | Remote Viewing C54037 Problem Of Hits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blind-judging/' | relative_url }}" title="Can Blind Judges Separate Hits From Hindsight? | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?" aria-label="Read more about Can Blind Judges Separate Hits From Hindsight? | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1439,7 +1439,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'after-fit/' | relative_url }}" title="How Target Photos Create After the Fact Hits | Remote Viewing C54037 Problem Of Hits" aria-label="Read more about How Target Photos Create After the Fact Hits | Remote Viewing C54037 Problem Of Hits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'after-fit/' | relative_url }}" title="How Target Photos Create After the Fact Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?" aria-label="Read more about How Target Photos Create After the Fact Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1459,7 +1459,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'barnum-hits/' | relative_url }}" title="The Psychology Behind Flexible Remote Viewing Hits | Remote Viewing C54037 Problem Of Hits" aria-label="Read more about The Psychology Behind Flexible Remote Viewing Hits | Remote Viewing C54037 Problem Of Hits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'barnum-hits/' | relative_url }}" title="The Psychology Behind Flexible Remote Viewing Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Psychology Behind Flexible Remote Viewing Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1479,7 +1479,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sensory-cues/' | relative_url }}" title="When Ordinary Clues Create Psychic Looking Hits | Remote Viewing C54037 Problem Of Hits" aria-label="Read more about When Ordinary Clues Create Psychic Looking Hits | Remote Viewing C54037 Problem Of Hits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sensory-cues/' | relative_url }}" title="When Ordinary Clues Create Psychic Looking Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Ordinary Clues Create Psychic Looking Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1499,7 +1499,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'counting-misses/' | relative_url }}" title="Why Misses Matter as Much as Hits | Remote Viewing C54037 Problem Of Hits" aria-label="Read more about Why Misses Matter as Much as Hits | Remote Viewing C54037 Problem Of Hits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'counting-misses/' | relative_url }}" title="Why Misses Matter as Much as Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Misses Matter as Much as Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1519,7 +1519,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vague-hits/' | relative_url }}" title="Why Vague Impressions Can Feel So Accurate | Remote Viewing C54037 Problem Of Hits" aria-label="Read more about Why Vague Impressions Can Feel So Accurate | Remote Viewing C54037 Problem Of Hits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vague-hits/' | relative_url }}" title="Why Vague Impressions Can Feel So Accurate | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Vague Impressions Can Feel So Accurate | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1543,7 +1543,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Unusual Results Were Not Enough | Remote Viewing" aria-expanded="false" aria-controls="home-vertical-children-node-remote-viewing-c54037-hyman-replication-do-a37b91"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hyman-review/' | relative_url }}" title="Why Unusual Results Were Not Enough | Remote Viewing" aria-label="Read more about Why Unusual Results Were Not Enough | Remote Viewing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hyman-review/' | relative_url }}" title="Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1563,7 +1563,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'single-judge/' | relative_url }}" title="Could One Judge Make the Effect Look Real? | Remote Viewing C54037 Hyman Replication" aria-label="Read more about Could One Judge Make the Effect Look Real? | Remote Viewing C54037 Hyman Replication">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'single-judge/' | relative_url }}" title="Could One Judge Make the Effect Look Real? | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?" aria-label="Read more about Could One Judge Make the Effect Look Real? | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1583,7 +1583,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rejudging/' | relative_url }}" title="The First Test Hyman Wanted Run Again | Remote Viewing C54037 Hyman Replication" aria-label="Read more about The First Test Hyman Wanted Run Again | Remote Viewing C54037 Hyman Replication">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rejudging/' | relative_url }}" title="The First Test Hyman Wanted Run Again | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?" aria-label="Read more about The First Test Hyman Wanted Run Again | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1603,7 +1603,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'experiment-one-aa40bd/' | relative_url }}" title="The SAIC Study That Looked Stronger on Paper | Remote Viewing C54037 Hyman Replication" aria-label="Read more about The SAIC Study That Looked Stronger on Paper | Remote Viewing C54037 Hyman Replication">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'experiment-one-aa40bd/' | relative_url }}" title="The SAIC Study That Looked Stronger on Paper | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?" aria-label="Read more about The SAIC Study That Looked Stronger on Paper | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1623,7 +1623,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'replication-8e1e3f/' | relative_url }}" title="What Would Count as Real Replication? | Remote Viewing C54037 Hyman Replication" aria-label="Read more about What Would Count as Real Replication? | Remote Viewing C54037 Hyman Replication">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'replication-8e1e3f/' | relative_url }}" title="What Would Count as Real Replication? | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?" aria-label="Read more about What Would Count as Real Replication? | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1643,7 +1643,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'monomethod-bias-d88f67/' | relative_url }}" title="When One Method Can Fool a Whole Program | Remote Viewing C54037 Hyman Replication" aria-label="Read more about When One Method Can Fool a Whole Program | Remote Viewing C54037 Hyman Replication">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'monomethod-bias-d88f67/' | relative_url }}" title="When One Method Can Fool a Whole Program | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?" aria-label="Read more about When One Method Can Fool a Whole Program | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1663,7 +1663,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'stats-doubt/' | relative_url }}" title="Why Above Chance Did Not Prove Remote Viewing | Remote Viewing C54037 Hyman Replication" aria-label="Read more about Why Above Chance Did Not Prove Remote Viewing | Remote Viewing C54037 Hyman Replication">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'stats-doubt/' | relative_url }}" title="Why Above Chance Did Not Prove Remote Viewing | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Above Chance Did Not Prove Remote Viewing | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1687,7 +1687,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Vague Hits Failed Intelligence Work | Remote Viewing" aria-expanded="false" aria-controls="home-vertical-children-node-remote-viewing-c54037-intelligence-value-ce5153"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'intel-value/' | relative_url }}" title="Why Vague Hits Failed Intelligence Work | Remote Viewing" aria-label="Read more about Why Vague Hits Failed Intelligence Work | Remote Viewing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'intel-value/' | relative_url }}" title="Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1707,7 +1707,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'background-leakage/' | relative_url }}" title="Did Background Clues Create Better Hits? | Remote Viewing C54037 Intelligence Value" aria-label="Read more about Did Background Clues Create Better Hits? | Remote Viewing C54037 Intelligence Value">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'background-leakage/' | relative_url }}" title="Did Background Clues Create Better Hits? | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?" aria-label="Read more about Did Background Clues Create Better Hits? | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1727,7 +1727,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blind-alleys/' | relative_url }}" title="How Bad Clues Could Waste Real Resources | Remote Viewing C54037 Intelligence Value" aria-label="Read more about How Bad Clues Could Waste Real Resources | Remote Viewing C54037 Intelligence Value">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blind-alleys/' | relative_url }}" title="How Bad Clues Could Waste Real Resources | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?" aria-label="Read more about How Bad Clues Could Waste Real Resources | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1747,7 +1747,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'conflicting-reports/' | relative_url }}" title="What If the Psychic Sources Disagreed? | Remote Viewing C54037 Intelligence Value" aria-label="Read more about What If the Psychic Sources Disagreed? | Remote Viewing C54037 Intelligence Value">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'conflicting-reports/' | relative_url }}" title="What If the Psychic Sources Disagreed? | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?" aria-label="Read more about What If the Psychic Sources Disagreed? | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1767,7 +1767,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'actionable-info/' | relative_url }}" title="When Psychic Impressions Failed the Action Test | Remote Viewing C54037 Intelligence Value" aria-label="Read more about When Psychic Impressions Failed the Action Test | Remote Viewing C54037 Intelligence Value">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'actionable-info/' | relative_url }}" title="When Psychic Impressions Failed the Action Test | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Psychic Impressions Failed the Action Test | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1787,7 +1787,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-to-field/' | relative_url }}" title="Why Lab Hits Did Not Become Field Value | Remote Viewing C54037 Intelligence Value" aria-label="Read more about Why Lab Hits Did Not Become Field Value | Remote Viewing C54037 Intelligence Value">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-to-field/' | relative_url }}" title="Why Lab Hits Did Not Become Field Value | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Lab Hits Did Not Become Field Value | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1807,7 +1807,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vague-matches-2816ef/' | relative_url }}" title="Why Vague Hits Look Better in Hindsight | Remote Viewing C54037 Intelligence Value" aria-label="Read more about Why Vague Hits Look Better in Hindsight | Remote Viewing C54037 Intelligence Value">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vague-matches-2816ef/' | relative_url }}" title="Why Vague Hits Look Better in Hindsight | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Vague Hits Look Better in Hindsight | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1851,7 +1851,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-bias/' | relative_url }}" title="Can One Photo Steal the Signal? | Remote Viewing C54037 Blind Judging" aria-label="Read more about Can One Photo Steal the Signal? | Remote Viewing C54037 Blind Judging">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-bias/' | relative_url }}" title="Can One Photo Steal the Signal? | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?" aria-label="Read more about Can One Photo Steal the Signal? | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1871,7 +1871,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'decoy-photos/' | relative_url }}" title="The Hidden Power of the Wrong Photos | Remote Viewing C54037 Blind Judging" aria-label="Read more about The Hidden Power of the Wrong Photos | Remote Viewing C54037 Blind Judging">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'decoy-photos/' | relative_url }}" title="The Hidden Power of the Wrong Photos | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Hidden Power of the Wrong Photos | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1891,7 +1891,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rank-order-judging/' | relative_url }}" title="When a First Place Match Is Not Enough | Remote Viewing C54037 Blind Judging" aria-label="Read more about When a First Place Match Is Not Enough | Remote Viewing C54037 Blind Judging">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rank-order-judging/' | relative_url }}" title="When a First Place Match Is Not Enough | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?" aria-label="Read more about When a First Place Match Is Not Enough | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1911,7 +1911,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'air-review-bf9b3d/' | relative_url }}" title="When Analysts Had to Find the Target | Remote Viewing C54037 Blind Judging" aria-label="Read more about When Analysts Had to Find the Target | Remote Viewing C54037 Blind Judging">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'air-review-bf9b3d/' | relative_url }}" title="When Analysts Had to Find the Target | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Analysts Had to Find the Target | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1931,7 +1931,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hindsight/' | relative_url }}" title="Why Matches Look Better After Reveal | Remote Viewing C54037 Blind Judging" aria-label="Read more about Why Matches Look Better After Reveal | Remote Viewing C54037 Blind Judging">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hindsight/' | relative_url }}" title="Why Matches Look Better After Reveal | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Matches Look Better After Reveal | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1951,7 +1951,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'long-reports/' | relative_url }}" title="Why Rich Impressions Are So Easy to Match | Remote Viewing C54037 Blind Judging" aria-label="Read more about Why Rich Impressions Are So Easy to Match | Remote Viewing C54037 Blind Judging">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'long-reports/' | relative_url }}" title="Why Rich Impressions Are So Easy to Match | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Rich Impressions Are So Easy to Match | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1975,7 +1975,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Lab Signals May Not Become Useful | Remote Viewing" aria-expanded="false" aria-controls="home-vertical-children-node-remote-viewing-c54037-lab-vs-real-world-03811d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-vs-real/' | relative_url }}" title="Why Lab Signals May Not Become Useful | Remote Viewing" aria-label="Read more about Why Lab Signals May Not Become Useful | Remote Viewing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-vs-real/' | relative_url }}" title="Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -1995,7 +1995,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-targets-fa5b60/' | relative_url }}" title="Photo Matching Is Not Field Accuracy | Remote Viewing C54037 Lab Vs Real World" aria-label="Read more about Photo Matching Is Not Field Accuracy | Remote Viewing C54037 Lab Vs Real World">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-targets-fa5b60/' | relative_url }}" title="Photo Matching Is Not Field Accuracy | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?" aria-label="Read more about Photo Matching Is Not Field Accuracy | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2015,7 +2015,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'feedback-gaps/' | relative_url }}" title="The Problem With No Feedback | Remote Viewing C54037 Lab Vs Real World" aria-label="Read more about The Problem With No Feedback | Remote Viewing C54037 Lab Vs Real World">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'feedback-gaps/' | relative_url }}" title="The Problem With No Feedback | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Problem With No Feedback | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2035,7 +2035,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'air-warning/' | relative_url }}" title="What the Official Review Warned About | Remote Viewing C54037 Lab Vs Real World" aria-label="Read more about What the Official Review Warned About | Remote Viewing C54037 Lab Vs Real World">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'air-warning/' | relative_url }}" title="What the Official Review Warned About | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?" aria-label="Read more about What the Official Review Warned About | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2055,7 +2055,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-hits/' | relative_url }}" title="When a Lab Hit Is Not Useful | Remote Viewing C54037 Lab Vs Real World" aria-label="Read more about When a Lab Hit Is Not Useful | Remote Viewing C54037 Lab Vs Real World">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-hits/' | relative_url }}" title="When a Lab Hit Is Not Useful | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?" aria-label="Read more about When a Lab Hit Is Not Useful | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2075,7 +2075,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bad-leads/' | relative_url }}" title="When Correct Details Still Mislead | Remote Viewing C54037 Lab Vs Real World" aria-label="Read more about When Correct Details Still Mislead | Remote Viewing C54037 Lab Vs Real World">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bad-leads/' | relative_url }}" title="When Correct Details Still Mislead | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Correct Details Still Mislead | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2095,7 +2095,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'open-targets/' | relative_url }}" title="Why Open Targets Are So Hard | Remote Viewing C54037 Lab Vs Real World" aria-label="Read more about Why Open Targets Are So Hard | Remote Viewing C54037 Lab Vs Real World">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'open-targets/' | relative_url }}" title="Why Open Targets Are So Hard | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Open Targets Are So Hard | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2119,7 +2119,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Ordinary Clues Can Mimic Psychic Hits | Remote Viewing" aria-expanded="false" aria-controls="home-vertical-children-node-remote-viewing-c54037-sensory-leakage-a1a139"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'leakage/' | relative_url }}" title="How Ordinary Clues Can Mimic Psychic Hits | Remote Viewing" aria-label="Read more about How Ordinary Clues Can Mimic Psychic Hits | Remote Viewing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'leakage/' | relative_url }}" title="How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?" aria-label="Read more about How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2139,7 +2139,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'monitor-prompts/' | relative_url }}" title="Can the Monitor Accidentally Lead the Viewer? | Remote Viewing C54037 Sensory Leakage" aria-label="Read more about Can the Monitor Accidentally Lead the Viewer? | Remote Viewing C54037 Sensory Leakage">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'monitor-prompts/' | relative_url }}" title="Can the Monitor Accidentally Lead the Viewer? | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?" aria-label="Read more about Can the Monitor Accidentally Lead the Viewer? | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2159,7 +2159,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'target-odds/' | relative_url }}" title="How One Clue Can Shift the Odds | Remote Viewing C54037 Sensory Leakage" aria-label="Read more about How One Clue Can Shift the Odds | Remote Viewing C54037 Sensory Leakage">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'target-odds/' | relative_url }}" title="How One Clue Can Shift the Odds | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?" aria-label="Read more about How One Clue Can Shift the Odds | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2179,7 +2179,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'marks-critique-7e25e4/' | relative_url }}" title="The Critique That Changed Remote Viewing | Remote Viewing C54037 Sensory Leakage" aria-label="Read more about The Critique That Changed Remote Viewing | Remote Viewing C54037 Sensory Leakage">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'marks-critique-7e25e4/' | relative_url }}" title="The Critique That Changed Remote Viewing | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Critique That Changed Remote Viewing | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2199,7 +2199,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'feedback-risk/' | relative_url }}" title="When Feedback Contaminates the Next Session | Remote Viewing C54037 Sensory Leakage" aria-label="Read more about When Feedback Contaminates the Next Session | Remote Viewing C54037 Sensory Leakage">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'feedback-risk/' | relative_url }}" title="When Feedback Contaminates the Next Session | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Feedback Contaminates the Next Session | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2219,7 +2219,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'transcript-clues/' | relative_url }}" title="When Transcripts Give the Game Away | Remote Viewing C54037 Sensory Leakage" aria-label="Read more about When Transcripts Give the Game Away | Remote Viewing C54037 Sensory Leakage">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'transcript-clues/' | relative_url }}" title="When Transcripts Give the Game Away | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Transcripts Give the Game Away | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2239,7 +2239,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'air-warnings/' | relative_url }}" title="Why Vague Reports Were Easy to Fit | Remote Viewing C54037 Sensory Leakage" aria-label="Read more about Why Vague Reports Were Easy to Fit | Remote Viewing C54037 Sensory Leakage">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'air-warnings/' | relative_url }}" title="Why Vague Reports Were Easy to Fit | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Vague Reports Were Easy to Fit | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2263,7 +2263,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: The Critique That Shook the Early Claims | Remote Viewing" aria-expanded="false" aria-controls="home-vertical-children-node-remote-viewing-c54037-marks-kammann-critiq-6a283f"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'marks-critique/' | relative_url }}" title="The Critique That Shook the Early Claims | Remote Viewing" aria-label="Read more about The Critique That Shook the Early Claims | Remote Viewing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'marks-critique/' | relative_url }}" title="The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2283,7 +2283,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'transcript-clues-59e2d5/' | relative_url }}" title="Could Paperwork Explain the Hits? | Remote Viewing C54037 Marks Kammann Critiq" aria-label="Read more about Could Paperwork Explain the Hits? | Remote Viewing C54037 Marks Kammann Critiq">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'transcript-clues-59e2d5/' | relative_url }}" title="Could Paperwork Explain the Hits? | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?" aria-label="Read more about Could Paperwork Explain the Hits? | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2303,7 +2303,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nature-debate/' | relative_url }}" title="The Journal Fight Over Cues | Remote Viewing C54037 Marks Kammann Critiq" aria-label="Read more about The Journal Fight Over Cues | Remote Viewing C54037 Marks Kammann Critiq">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nature-debate/' | relative_url }}" title="The Journal Fight Over Cues | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Journal Fight Over Cues | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2323,7 +2323,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blind-judging-4dedb3/' | relative_url }}" title="Were the Judges Really Blind? | Remote Viewing C54037 Marks Kammann Critiq" aria-label="Read more about Were the Judges Really Blind? | Remote Viewing C54037 Marks Kammann Critiq">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blind-judging-4dedb3/' | relative_url }}" title="Were the Judges Really Blind? | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?" aria-label="Read more about Were the Judges Really Blind? | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2343,7 +2343,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'better-controls/' | relative_url }}" title="What a Cleaner Test Would Require | Remote Viewing C54037 Marks Kammann Critiq" aria-label="Read more about What a Cleaner Test Would Require | Remote Viewing C54037 Marks Kammann Critiq">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'better-controls/' | relative_url }}" title="What a Cleaner Test Would Require | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?" aria-label="Read more about What a Cleaner Test Would Require | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2363,7 +2363,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'failed-duplication/' | relative_url }}" title="Why Replication Changed the Argument | Remote Viewing C54037 Marks Kammann Critiq" aria-label="Read more about Why Replication Changed the Argument | Remote Viewing C54037 Marks Kammann Critiq">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'failed-duplication/' | relative_url }}" title="Why Replication Changed the Argument | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Replication Changed the Argument | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2383,7 +2383,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flexible-match/' | relative_url }}" title="Why Vague Impressions Can Look Striking | Remote Viewing C54037 Marks Kammann Critiq" aria-label="Read more about Why Vague Impressions Can Look Striking | Remote Viewing C54037 Marks Kammann Critiq">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flexible-match/' | relative_url }}" title="Why Vague Impressions Can Look Striking | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Vague Impressions Can Look Striking | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2427,7 +2427,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'leakage-risks/' | relative_url }}" title="How Remote Viewing Tests Can Go Wrong | Remote Viewing C54037 Meaning Misconceptio" aria-label="Read more about How Remote Viewing Tests Can Go Wrong | Remote Viewing C54037 Meaning Misconceptio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'leakage-risks/' | relative_url }}" title="How Remote Viewing Tests Can Go Wrong | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?" aria-label="Read more about How Remote Viewing Tests Can Go Wrong | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2447,7 +2447,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'not-clairvoyance/' | relative_url }}" title="Is Remote Viewing Really Seeing? | Remote Viewing C54037 Meaning Misconceptio" aria-label="Read more about Is Remote Viewing Really Seeing? | Remote Viewing C54037 Meaning Misconceptio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'not-clairvoyance/' | relative_url }}" title="Is Remote Viewing Really Seeing? | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?" aria-label="Read more about Is Remote Viewing Really Seeing? | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2467,7 +2467,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'session-notes/' | relative_url }}" title="What Remote Viewers Actually Record | Remote Viewing C54037 Meaning Misconceptio" aria-label="Read more about What Remote Viewers Actually Record | Remote Viewing C54037 Meaning Misconceptio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'session-notes/' | relative_url }}" title="What Remote Viewers Actually Record | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?" aria-label="Read more about What Remote Viewers Actually Record | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2487,7 +2487,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'star-gate/' | relative_url }}" title="What Star Gate Changed About Remote Viewing | Remote Viewing C54037 Meaning Misconceptio" aria-label="Read more about What Star Gate Changed About Remote Viewing | Remote Viewing C54037 Meaning Misconceptio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'star-gate/' | relative_url }}" title="What Star Gate Changed About Remote Viewing | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?" aria-label="Read more about What Star Gate Changed About Remote Viewing | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2507,7 +2507,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blind-judging-569aa6/' | relative_url }}" title="When Is It More Than Guessing? | Remote Viewing C54037 Meaning Misconceptio" aria-label="Read more about When Is It More Than Guessing? | Remote Viewing C54037 Meaning Misconceptio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blind-judging-569aa6/' | relative_url }}" title="When Is It More Than Guessing? | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Is It More Than Guessing? | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2527,7 +2527,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-targets/' | relative_url }}" title="Why Remote Viewing Needs a Hidden Target | Remote Viewing C54037 Meaning Misconceptio" aria-label="Read more about Why Remote Viewing Needs a Hidden Target | Remote Viewing C54037 Meaning Misconceptio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-targets/' | relative_url }}" title="Why Remote Viewing Needs a Hidden Target | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Remote Viewing Needs a Hidden Target | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2551,7 +2551,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What a Balanced View Actually Says | Remote Viewing" aria-expanded="false" aria-controls="home-vertical-children-node-remote-viewing-c54037-balanced-position-cf7354"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'middle-view/' | relative_url }}" title="What a Balanced View Actually Says | Remote Viewing" aria-label="Read more about What a Balanced View Actually Says | Remote Viewing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'middle-view/' | relative_url }}" title="What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?" aria-label="Read more about What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2571,7 +2571,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'secrecy-cost/' | relative_url }}" title="Did Secrecy Hurt the Science? | Remote Viewing C54037 Balanced Position" aria-label="Read more about Did Secrecy Hurt the Science? | Remote Viewing C54037 Balanced Position">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secrecy-cost/' | relative_url }}" title="Did Secrecy Hurt the Science? | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?" aria-label="Read more about Did Secrecy Hurt the Science? | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2591,7 +2591,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'air-verdict/' | relative_url }}" title="The Review That Split the Debate | Remote Viewing C54037 Balanced Position" aria-label="Read more about The Review That Split the Debate | Remote Viewing C54037 Balanced Position">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'air-verdict/' | relative_url }}" title="The Review That Split the Debate | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Review That Split the Debate | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2611,7 +2611,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'statistical-hits/' | relative_url }}" title="When Does a Hit Become Proof? | Remote Viewing C54037 Balanced Position" aria-label="Read more about When Does a Hit Become Proof? | Remote Viewing C54037 Balanced Position">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'statistical-hits/' | relative_url }}" title="When Does a Hit Become Proof? | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Does a Hit Become Proof? | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2631,7 +2631,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'actionable-intelligence/' | relative_url }}" title="Why Psychic Spying Failed End Users | Remote Viewing C54037 Balanced Position" aria-label="Read more about Why Psychic Spying Failed End Users | Remote Viewing C54037 Balanced Position">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'actionable-intelligence/' | relative_url }}" title="Why Psychic Spying Failed End Users | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Psychic Spying Failed End Users | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2651,7 +2651,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'meta-analyses/' | relative_url }}" title="Why the Debate Keeps Coming Back | Remote Viewing C54037 Balanced Position" aria-label="Read more about Why the Debate Keeps Coming Back | Remote Viewing C54037 Balanced Position">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'meta-analyses/' | relative_url }}" title="Why the Debate Keeps Coming Back | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why the Debate Keeps Coming Back | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2671,7 +2671,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vague-matches/' | relative_url }}" title="Why Vague Impressions Can Feel Accurate | Remote Viewing C54037 Balanced Position" aria-label="Read more about Why Vague Impressions Can Feel Accurate | Remote Viewing C54037 Balanced Position">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vague-matches/' | relative_url }}" title="Why Vague Impressions Can Feel Accurate | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Vague Impressions Can Feel Accurate | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2715,7 +2715,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'target-pools-98ff48/' | relative_url }}" title="Can Online Targets Really Test Viewers? | Remote Viewing C54037 Popular Culture" aria-label="Read more about Can Online Targets Really Test Viewers? | Remote Viewing C54037 Popular Culture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'target-pools-98ff48/' | relative_url }}" title="Can Online Targets Really Test Viewers? | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?" aria-label="Read more about Can Online Targets Really Test Viewers? | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2735,7 +2735,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'goats-story/' | relative_url }}" title="How Goats Turned Psychic Spies Mainstream | Remote Viewing C54037 Popular Culture" aria-label="Read more about How Goats Turned Psychic Spies Mainstream | Remote Viewing C54037 Popular Culture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'goats-story/' | relative_url }}" title="How Goats Turned Psychic Spies Mainstream | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?" aria-label="Read more about How Goats Turned Psychic Spies Mainstream | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2755,7 +2755,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'viewer-legends/' | relative_url }}" title="How Psychic Spies Became Characters | Remote Viewing C54037 Popular Culture" aria-label="Read more about How Psychic Spies Became Characters | Remote Viewing C54037 Popular Culture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'viewer-legends/' | relative_url }}" title="How Psychic Spies Became Characters | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?" aria-label="Read more about How Psychic Spies Became Characters | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2775,7 +2775,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'third-eye-spies/' | relative_url }}" title="When Remote Viewing Becomes Insider History | Remote Viewing C54037 Popular Culture" aria-label="Read more about When Remote Viewing Becomes Insider History | Remote Viewing C54037 Popular Culture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'third-eye-spies/' | relative_url }}" title="When Remote Viewing Becomes Insider History | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Remote Viewing Becomes Insider History | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2795,7 +2795,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cia-files/' | relative_url }}" title="Why CIA Files Made the Myth Stick | Remote Viewing C54037 Popular Culture" aria-label="Read more about Why CIA Files Made the Myth Stick | Remote Viewing C54037 Popular Culture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cia-files/' | relative_url }}" title="Why CIA Files Made the Myth Stick | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why CIA Files Made the Myth Stick | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2815,7 +2815,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'reddit-practice/' | relative_url }}" title="Why People Still Try It Online | Remote Viewing C54037 Popular Culture" aria-label="Read more about Why People Still Try It Online | Remote Viewing C54037 Popular Culture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'reddit-practice/' | relative_url }}" title="Why People Still Try It Online | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why People Still Try It Online | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2859,7 +2859,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'target-pools-f0cde5/' | relative_url }}" title="Can a Target Number Leak the Answer? | Remote Viewing C54037 Beginner Protocols" aria-label="Read more about Can a Target Number Leak the Answer? | Remote Viewing C54037 Beginner Protocols">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'target-pools-f0cde5/' | relative_url }}" title="Can a Target Number Leak the Answer? | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?" aria-label="Read more about Can a Target Number Leak the Answer? | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2879,7 +2879,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'first-session/' | relative_url }}" title="How to Run a Clean First Session | Remote Viewing C54037 Beginner Protocols" aria-label="Read more about How to Run a Clean First Session | Remote Viewing C54037 Beginner Protocols">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'first-session/' | relative_url }}" title="How to Run a Clean First Session | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?" aria-label="Read more about How to Run a Clean First Session | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2899,7 +2899,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'clean-feedback/' | relative_url }}" title="The Moment Beginners Most Often Fool Themselves | Remote Viewing C54037 Beginner Protocols" aria-label="Read more about The Moment Beginners Most Often Fool Themselves | Remote Viewing C54037 Beginner Protocols">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'clean-feedback/' | relative_url }}" title="The Moment Beginners Most Often Fool Themselves | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Moment Beginners Most Often Fool Themselves | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2919,7 +2919,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'monitor-cues/' | relative_url }}" title="When Helping Becomes Hinting | Remote Viewing C54037 Beginner Protocols" aria-label="Read more about When Helping Becomes Hinting | Remote Viewing C54037 Beginner Protocols">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'monitor-cues/' | relative_url }}" title="When Helping Becomes Hinting | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Helping Becomes Hinting | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2939,7 +2939,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'raw-notes-0659b6/' | relative_url }}" title="Why First Impressions Beat Clever Guesses | Remote Viewing C54037 Beginner Protocols" aria-label="Read more about Why First Impressions Beat Clever Guesses | Remote Viewing C54037 Beginner Protocols">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'raw-notes-0659b6/' | relative_url }}" title="Why First Impressions Beat Clever Guesses | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why First Impressions Beat Clever Guesses | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -2959,7 +2959,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'decoy-judging/' | relative_url }}" title="Would Your Notes Fit Other Targets Too? | Remote Viewing C54037 Beginner Protocols" aria-label="Read more about Would Your Notes Fit Other Targets Too? | Remote Viewing C54037 Beginner Protocols">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'decoy-judging/' | relative_url }}" title="Would Your Notes Fit Other Targets Too? | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?" aria-label="Read more about Would Your Notes Fit Other Targets Too? | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3003,7 +3003,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'declassification/' | relative_url }}" title="Released Is Not the Same as Proven | Remote Viewing C54037 Reading Declassified" aria-label="Read more about Released Is Not the Same as Proven | Remote Viewing C54037 Reading Declassified">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'declassification/' | relative_url }}" title="Released Is Not the Same as Proven | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?" aria-label="Read more about Released Is Not the Same as Proven | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3023,7 +3023,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tasking-clues/' | relative_url }}" title="Was the Target Really Hidden? | Remote Viewing C54037 Reading Declassified" aria-label="Read more about Was the Target Really Hidden? | Remote Viewing C54037 Reading Declassified">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tasking-clues/' | relative_url }}" title="Was the Target Really Hidden? | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?" aria-label="Read more about Was the Target Really Hidden? | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3043,7 +3043,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'transcripts/' | relative_url }}" title="What a Session Transcript Really Shows | Remote Viewing C54037 Reading Declassified" aria-label="Read more about What a Session Transcript Really Shows | Remote Viewing C54037 Reading Declassified">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'transcripts/' | relative_url }}" title="What a Session Transcript Really Shows | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?" aria-label="Read more about What a Session Transcript Really Shows | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3063,7 +3063,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'checkable-claims/' | relative_url }}" title="Which Details Can Actually Be Checked? | Remote Viewing C54037 Reading Declassified" aria-label="Read more about Which Details Can Actually Be Checked? | Remote Viewing C54037 Reading Declassified">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'checkable-claims/' | relative_url }}" title="Which Details Can Actually Be Checked? | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?" aria-label="Read more about Which Details Can Actually Be Checked? | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3083,7 +3083,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'scoring/' | relative_url }}" title="Who Decided It Was a Match? | Remote Viewing C54037 Reading Declassified" aria-label="Read more about Who Decided It Was a Match? | Remote Viewing C54037 Reading Declassified">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'scoring/' | relative_url }}" title="Who Decided It Was a Match? | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?" aria-label="Read more about Who Decided It Was a Match? | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3103,7 +3103,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'air-review-8864ce/' | relative_url }}" title="Why the AIR Review Still Matters | Remote Viewing C54037 Reading Declassified" aria-label="Read more about Why the AIR Review Still Matters | Remote Viewing C54037 Reading Declassified">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'air-review-8864ce/' | relative_url }}" title="Why the AIR Review Still Matters | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why the AIR Review Still Matters | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3127,7 +3127,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Mainstream Science Remains Unconvinced | Remote Viewing" aria-expanded="false" aria-controls="home-vertical-children-node-remote-viewing-c54037-repeatability-scienc-dc20ac"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'replication/' | relative_url }}" title="Why Mainstream Science Remains Unconvinced | Remote Viewing" aria-label="Read more about Why Mainstream Science Remains Unconvinced | Remote Viewing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'replication/' | relative_url }}" title="Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3147,7 +3147,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'meta-analysis/' | relative_url }}" title="Can Pooled Results Prove the Effect? | Remote Viewing C54037 Repeatability Scienc" aria-label="Read more about Can Pooled Results Prove the Effect? | Remote Viewing C54037 Repeatability Scienc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'meta-analysis/' | relative_url }}" title="Can Pooled Results Prove the Effect? | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?" aria-label="Read more about Can Pooled Results Prove the Effect? | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3167,7 +3167,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'misses-count/' | relative_url }}" title="What Happens to the Failed Sessions? | Remote Viewing C54037 Repeatability Scienc" aria-label="Read more about What Happens to the Failed Sessions? | Remote Viewing C54037 Repeatability Scienc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'misses-count/' | relative_url }}" title="What Happens to the Failed Sessions? | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?" aria-label="Read more about What Happens to the Failed Sessions? | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3187,7 +3187,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'over-matching/' | relative_url }}" title="When Vague Hits Look Too Good | Remote Viewing C54037 Repeatability Scienc" aria-label="Read more about When Vague Hits Look Too Good | Remote Viewing C54037 Repeatability Scienc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'over-matching/' | relative_url }}" title="When Vague Hits Look Too Good | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Vague Hits Look Too Good | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3207,7 +3207,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'replication-gaps/' | relative_url }}" title="Why Does Remote Viewing Fail to Travel? | Remote Viewing C54037 Repeatability Scienc" aria-label="Read more about Why Does Remote Viewing Fail to Travel? | Remote Viewing C54037 Repeatability Scienc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'replication-gaps/' | relative_url }}" title="Why Does Remote Viewing Fail to Travel? | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Does Remote Viewing Fail to Travel? | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3227,7 +3227,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'air-review-831437/' | relative_url }}" title="Why Positive Numbers Were Not Enough | Remote Viewing C54037 Repeatability Scienc" aria-label="Read more about Why Positive Numbers Were Not Enough | Remote Viewing C54037 Repeatability Scienc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'air-review-831437/' | relative_url }}" title="Why Positive Numbers Were Not Enough | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Positive Numbers Were Not Enough | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3247,7 +3247,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pre-declared-rules/' | relative_url }}" title="Why Rules Must Come Before Results | Remote Viewing C54037 Repeatability Scienc" aria-label="Read more about Why Rules Must Come Before Results | Remote Viewing C54037 Repeatability Scienc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pre-declared-rules/' | relative_url }}" title="Why Rules Must Come Before Results | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Rules Must Come Before Results | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3271,7 +3271,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: The Later Tests Behind the 1995 Debate | Remote Viewing" aria-expanded="false" aria-controls="home-vertical-children-node-remote-viewing-c54037-saic-experiments-cc6edf"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'saic-tests/' | relative_url }}" title="The Later Tests Behind the 1995 Debate | Remote Viewing" aria-label="Read more about The Later Tests Behind the 1995 Debate | Remote Viewing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'saic-tests/' | relative_url }}" title="The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3291,7 +3291,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rank-judging-0abb10/' | relative_url }}" title="Can Five Targets Make Psychic Claims Testable? | Remote Viewing C54037 Saic Experiments" aria-label="Read more about Can Five Targets Make Psychic Claims Testable? | Remote Viewing C54037 Saic Experiments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rank-judging-0abb10/' | relative_url }}" title="Can Five Targets Make Psychic Claims Testable? | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?" aria-label="Read more about Can Five Targets Make Psychic Claims Testable? | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3311,7 +3311,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'target-types/' | relative_url }}" title="Did Moving Targets Help or Hurt? | Remote Viewing C54037 Saic Experiments" aria-label="Read more about Did Moving Targets Help or Hurt? | Remote Viewing C54037 Saic Experiments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'target-types/' | relative_url }}" title="Did Moving Targets Help or Hurt? | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?" aria-label="Read more about Did Moving Targets Help or Hurt? | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3331,7 +3331,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'monomethod-bias/' | relative_url }}" title="When One Lab Setup Does Too Much Work | Remote Viewing C54037 Saic Experiments" aria-label="Read more about When One Lab Setup Does Too Much Work | Remote Viewing C54037 Saic Experiments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'monomethod-bias/' | relative_url }}" title="When One Lab Setup Does Too Much Work | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?" aria-label="Read more about When One Lab Setup Does Too Much Work | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3351,7 +3351,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'experiment-one/' | relative_url }}" title="Why Experiment One Became So Contested | Remote Viewing C54037 Saic Experiments" aria-label="Read more about Why Experiment One Became So Contested | Remote Viewing C54037 Saic Experiments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'experiment-one/' | relative_url }}" title="Why Experiment One Became So Contested | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Experiment One Became So Contested | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3371,7 +3371,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'independent-judges/' | relative_url }}" title="Why New Judges Mattered So Much | Remote Viewing C54037 Saic Experiments" aria-label="Read more about Why New Judges Mattered So Much | Remote Viewing C54037 Saic Experiments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'independent-judges/' | relative_url }}" title="Why New Judges Mattered So Much | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why New Judges Mattered So Much | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3391,7 +3391,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'significance-gap/' | relative_url }}" title="Why Significant Results Still Fell Short | Remote Viewing C54037 Saic Experiments" aria-label="Read more about Why Significant Results Still Fell Short | Remote Viewing C54037 Saic Experiments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'significance-gap/' | relative_url }}" title="Why Significant Results Still Fell Short | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Significant Results Still Fell Short | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3435,7 +3435,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'contamination/' | relative_url }}" title="Did Background Clues Make Hits Look Better? | Remote Viewing C54037 Program Shutdown" aria-label="Read more about Did Background Clues Make Hits Look Better? | Remote Viewing C54037 Program Shutdown">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'contamination/' | relative_url }}" title="Did Background Clues Make Hits Look Better? | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?" aria-label="Read more about Did Background Clues Make Hits Look Better? | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3455,7 +3455,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'air-review-e7b2ab/' | relative_url }}" title="The Review That Made Star Gate Hard to Defend | Remote Viewing C54037 Program Shutdown" aria-label="Read more about The Review That Made Star Gate Hard to Defend | Remote Viewing C54037 Program Shutdown">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'air-review-e7b2ab/' | relative_url }}" title="The Review That Made Star Gate Hard to Defend | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Review That Made Star Gate Hard to Defend | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3475,7 +3475,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'viewer-reliability/' | relative_url }}" title="When Multiple Viewers Did Not Agree | Remote Viewing C54037 Program Shutdown" aria-label="Read more about When Multiple Viewers Did Not Agree | Remote Viewing C54037 Program Shutdown">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'viewer-reliability/' | relative_url }}" title="When Multiple Viewers Did Not Agree | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Multiple Viewers Did Not Agree | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3495,7 +3495,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'actionable-intel/' | relative_url }}" title="Why &#x27;Actionable Intelligence&#x27; Became the Deciding Test | Remote Viewing C54037 Program Shutdown" aria-label="Read more about Why &#x27;Actionable Intelligence&#x27; Became the Deciding Test | Remote Viewing C54037 Program Shutdown">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'actionable-intel/' | relative_url }}" title="Why 'Actionable Intelligence' Became the Deciding Test | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why 'Actionable Intelligence' Became the Deciding Test | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3515,7 +3515,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'final-budget/' | relative_url }}" title="Why a Small Budget Still Needed Proof | Remote Viewing C54037 Program Shutdown" aria-label="Read more about Why a Small Budget Still Needed Proof | Remote Viewing C54037 Program Shutdown">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'final-budget/' | relative_url }}" title="Why a Small Budget Still Needed Proof | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why a Small Budget Still Needed Proof | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3535,7 +3535,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'signal-noise/' | relative_url }}" title="Why Correct Details Still Were Not Enough | Remote Viewing C54037 Program Shutdown" aria-label="Read more about Why Correct Details Still Were Not Enough | Remote Viewing C54037 Program Shutdown">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'signal-noise/' | relative_url }}" title="Why Correct Details Still Were Not Enough | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Correct Details Still Were Not Enough | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3579,7 +3579,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sketch-value/' | relative_url }}" title="Can Sketches Say More Than Words? | Remote Viewing C54037 Viewer Sketches" aria-label="Read more about Can Sketches Say More Than Words? | Remote Viewing C54037 Viewer Sketches">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sketch-value/' | relative_url }}" title="Can Sketches Say More Than Words? | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?" aria-label="Read more about Can Sketches Say More Than Words? | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3599,7 +3599,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-targets/' | relative_url }}" title="How Decoys Tested Remote Viewing Sketches | Remote Viewing C54037 Viewer Sketches" aria-label="Read more about How Decoys Tested Remote Viewing Sketches | Remote Viewing C54037 Viewer Sketches">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-targets/' | relative_url }}" title="How Decoys Tested Remote Viewing Sketches | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?" aria-label="Read more about How Decoys Tested Remote Viewing Sketches | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3619,7 +3619,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rinconada/' | relative_url }}" title="The Pool Case That Cuts Both Ways | Remote Viewing C54037 Viewer Sketches" aria-label="Read more about The Pool Case That Cuts Both Ways | Remote Viewing C54037 Viewer Sketches">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rinconada/' | relative_url }}" title="The Pool Case That Cuts Both Ways | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Pool Case That Cuts Both Ways | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3639,7 +3639,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'judging-rules/' | relative_url }}" title="When Does a Sketch Count as Evidence? | Remote Viewing C54037 Viewer Sketches" aria-label="Read more about When Does a Sketch Count as Evidence? | Remote Viewing C54037 Viewer Sketches">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'judging-rules/' | relative_url }}" title="When Does a Sketch Count as Evidence? | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Does a Sketch Count as Evidence? | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3659,7 +3659,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'raw-notes/' | relative_url }}" title="Why First Impressions Can Beat Confident Labels | Remote Viewing C54037 Viewer Sketches" aria-label="Read more about Why First Impressions Can Beat Confident Labels | Remote Viewing C54037 Viewer Sketches">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'raw-notes/' | relative_url }}" title="Why First Impressions Can Beat Confident Labels | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why First Impressions Can Beat Confident Labels | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3679,7 +3679,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'retrofit-risk/' | relative_url }}" title="Why One Circle Can Match Too Much | Remote Viewing C54037 Viewer Sketches" aria-label="Read more about Why One Circle Can Match Too Much | Remote Viewing C54037 Viewer Sketches">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'retrofit-risk/' | relative_url }}" title="Why One Circle Can Match Too Much | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why One Circle Can Match Too Much | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3723,7 +3723,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cueing-dispute/' | relative_url }}" title="Could Hidden Clues Explain the Hits? | Remote Viewing C54037 Sri Experiments" aria-label="Read more about Could Hidden Clues Explain the Hits? | Remote Viewing C54037 Sri Experiments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cueing-dispute/' | relative_url }}" title="Could Hidden Clues Explain the Hits? | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?" aria-label="Read more about Could Hidden Clues Explain the Hits? | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3743,7 +3743,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pat-price/' | relative_url }}" title="Did Pat Price Really Match the Targets? | Remote Viewing C54037 Sri Experiments" aria-label="Read more about Did Pat Price Really Match the Targets? | Remote Viewing C54037 Sri Experiments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pat-price/' | relative_url }}" title="Did Pat Price Really Match the Targets? | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?" aria-label="Read more about Did Pat Price Really Match the Targets? | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3763,7 +3763,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'local-targets/' | relative_url }}" title="How SRI Made Remote Viewing Testable | Remote Viewing C54037 Sri Experiments" aria-label="Read more about How SRI Made Remote Viewing Testable | Remote Viewing C54037 Sri Experiments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'local-targets/' | relative_url }}" title="How SRI Made Remote Viewing Testable | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?" aria-label="Read more about How SRI Made Remote Viewing Testable | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3783,7 +3783,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'urdf-3/' | relative_url }}" title="The Soviet Crane Claim Behind the Legend | Remote Viewing C54037 Sri Experiments" aria-label="Read more about The Soviet Crane Claim Behind the Legend | Remote Viewing C54037 Sri Experiments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'urdf-3/' | relative_url }}" title="The Soviet Crane Claim Behind the Legend | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Soviet Crane Claim Behind the Legend | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3803,7 +3803,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'jupiter-session/' | relative_url }}" title="What Did Ingo Swann Really Predict? | Remote Viewing C54037 Sri Experiments" aria-label="Read more about What Did Ingo Swann Really Predict? | Remote Viewing C54037 Sri Experiments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'jupiter-session/' | relative_url }}" title="What Did Ingo Swann Really Predict? | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?" aria-label="Read more about What Did Ingo Swann Really Predict? | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3823,7 +3823,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nature-paper/' | relative_url }}" title="Why One Nature Paper Changed Remote Viewing | Remote Viewing C54037 Sri Experiments" aria-label="Read more about Why One Nature Paper Changed Remote Viewing | Remote Viewing C54037 Sri Experiments">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nature-paper/' | relative_url }}" title="Why One Nature Paper Changed Remote Viewing | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why One Nature Paper Changed Remote Viewing | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3847,7 +3847,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why the Government Tested Psychic Spying | Remote Viewing" aria-expanded="false" aria-controls="home-vertical-children-node-remote-viewing-c54037-stargate-program-7bc3fb"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'stargate/' | relative_url }}" title="Why the Government Tested Psychic Spying | Remote Viewing" aria-label="Read more about Why the Government Tested Psychic Spying | Remote Viewing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'stargate/' | relative_url }}" title="Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3867,7 +3867,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'expert-dispute/' | relative_url }}" title="Did the Evidence Prove Anything Paranormal? | Remote Viewing C54037 Stargate Program" aria-label="Read more about Did the Evidence Prove Anything Paranormal? | Remote Viewing C54037 Stargate Program">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'expert-dispute/' | relative_url }}" title="Did the Evidence Prove Anything Paranormal? | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?" aria-label="Read more about Did the Evidence Prove Anything Paranormal? | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3887,7 +3887,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-evidence/' | relative_url }}" title="What Did the Lab Tests Actually Show? | Remote Viewing C54037 Stargate Program" aria-label="Read more about What Did the Lab Tests Actually Show? | Remote Viewing C54037 Stargate Program">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-evidence/' | relative_url }}" title="What Did the Lab Tests Actually Show? | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?" aria-label="Read more about What Did the Lab Tests Actually Show? | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3907,7 +3907,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cold-war-bet/' | relative_url }}" title="Why Did Intelligence Agencies Take This Seriously? | Remote Viewing C54037 Stargate Program" aria-label="Read more about Why Did Intelligence Agencies Take This Seriously? | Remote Viewing C54037 Stargate Program">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cold-war-bet/' | relative_url }}" title="Why Did Intelligence Agencies Take This Seriously? | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Did Intelligence Agencies Take This Seriously? | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3927,7 +3927,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-targets-a470b8/' | relative_url }}" title="Why Lab Success Was Hard to Use | Remote Viewing C54037 Stargate Program" aria-label="Read more about Why Lab Success Was Hard to Use | Remote Viewing C54037 Stargate Program">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-targets-a470b8/' | relative_url }}" title="Why Lab Success Was Hard to Use | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Lab Success Was Hard to Use | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3947,7 +3947,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vague-reports/' | relative_url }}" title="Why Psychic Spying Did Not Become Actionable | Remote Viewing C54037 Stargate Program" aria-label="Read more about Why Psychic Spying Did Not Become Actionable | Remote Viewing C54037 Stargate Program">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vague-reports/' | relative_url }}" title="Why Psychic Spying Did Not Become Actionable | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Psychic Spying Did Not Become Actionable | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3967,7 +3967,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'code-names-a9eef2/' | relative_url }}" title="Why Stargate Was Not One Neat Programme | Remote Viewing C54037 Stargate Program" aria-label="Read more about Why Stargate Was Not One Neat Programme | Remote Viewing C54037 Stargate Program">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'code-names-a9eef2/' | relative_url }}" title="Why Stargate Was Not One Neat Programme | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Stargate Was Not One Neat Programme | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -3991,7 +3991,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Above Chance Results Really Mean | Remote Viewing" aria-expanded="false" aria-controls="home-vertical-children-node-remote-viewing-c54037-statistics-vs-proof-189f52"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'statistics/' | relative_url }}" title="What Above Chance Results Really Mean | Remote Viewing" aria-label="Read more about What Above Chance Results Really Mean | Remote Viewing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'statistics/' | relative_url }}" title="What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?" aria-label="Read more about What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4011,7 +4011,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'actionable-info-89412f/' | relative_url }}" title="Can Remote Viewing Ever Be Actionable? | Remote Viewing C54037 Statistics Vs Proof" aria-label="Read more about Can Remote Viewing Ever Be Actionable? | Remote Viewing C54037 Statistics Vs Proof">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'actionable-info-89412f/' | relative_url }}" title="Can Remote Viewing Ever Be Actionable? | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?" aria-label="Read more about Can Remote Viewing Ever Be Actionable? | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4031,7 +4031,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'replication-1c6a4d/' | relative_url }}" title="What Would Count as Strong Replication? | Remote Viewing C54037 Statistics Vs Proof" aria-label="Read more about What Would Count as Strong Replication? | Remote Viewing C54037 Statistics Vs Proof">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'replication-1c6a4d/' | relative_url }}" title="What Would Count as Strong Replication? | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?" aria-label="Read more about What Would Count as Strong Replication? | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4051,7 +4051,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'effect-size/' | relative_url }}" title="When a Small Effect Is Still Not Useful | Remote Viewing C54037 Statistics Vs Proof" aria-label="Read more about When a Small Effect Is Still Not Useful | Remote Viewing C54037 Statistics Vs Proof">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'effect-size/' | relative_url }}" title="When a Small Effect Is Still Not Useful | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?" aria-label="Read more about When a Small Effect Is Still Not Useful | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4071,7 +4071,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'p-values/' | relative_url }}" title="Why Better Than Chance Is Not Proof | Remote Viewing C54037 Statistics Vs Proof" aria-label="Read more about Why Better Than Chance Is Not Proof | Remote Viewing C54037 Statistics Vs Proof">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'p-values/' | relative_url }}" title="Why Better Than Chance Is Not Proof | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Better Than Chance Is Not Proof | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4091,7 +4091,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'air-review-07ed9d/' | relative_url }}" title="Why the Government Still Walked Away | Remote Viewing C54037 Statistics Vs Proof" aria-label="Read more about Why the Government Still Walked Away | Remote Viewing C54037 Statistics Vs Proof">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'air-review-07ed9d/' | relative_url }}" title="Why the Government Still Walked Away | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why the Government Still Walked Away | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4111,7 +4111,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'matching/' | relative_url }}" title="Why Vague Hits Can Look Strong | Remote Viewing C54037 Statistics Vs Proof" aria-label="Read more about Why Vague Hits Can Look Strong | Remote Viewing C54037 Statistics Vs Proof">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'matching/' | relative_url }}" title="Why Vague Hits Can Look Strong | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Vague Hits Can Look Strong | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4155,7 +4155,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cia-interest/' | relative_url }}" title="Did CIA Interest Prove Remote Viewing Worked? | Remote Viewing C54037 Targ Puthoff Legacy" aria-label="Read more about Did CIA Interest Prove Remote Viewing Worked? | Remote Viewing C54037 Targ Puthoff Legacy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cia-interest/' | relative_url }}" title="Did CIA Interest Prove Remote Viewing Worked? | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?" aria-label="Read more about Did CIA Interest Prove Remote Viewing Worked? | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4175,7 +4175,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'authority-problem/' | relative_url }}" title="Did Physics Credentials Make Remote Viewing Credible? | Remote Viewing C54037 Targ Puthoff Legacy" aria-label="Read more about Did Physics Credentials Make Remote Viewing Credible? | Remote Viewing C54037 Targ Puthoff Legacy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'authority-problem/' | relative_url }}" title="Did Physics Credentials Make Remote Viewing Credible? | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?" aria-label="Read more about Did Physics Credentials Make Remote Viewing Credible? | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4195,7 +4195,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mind-reach/' | relative_url }}" title="How Mind Reach Sold Remote Viewing to Readers | Remote Viewing C54037 Targ Puthoff Legacy" aria-label="Read more about How Mind Reach Sold Remote Viewing to Readers | Remote Viewing C54037 Targ Puthoff Legacy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mind-reach/' | relative_url }}" title="How Mind Reach Sold Remote Viewing to Readers | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?" aria-label="Read more about How Mind Reach Sold Remote Viewing to Readers | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4215,7 +4215,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'legacy-chain/' | relative_url }}" title="How SRI Became the Remote Viewing Origin Story | Remote Viewing C54037 Targ Puthoff Legacy" aria-label="Read more about How SRI Became the Remote Viewing Origin Story | Remote Viewing C54037 Targ Puthoff Legacy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'legacy-chain/' | relative_url }}" title="How SRI Became the Remote Viewing Origin Story | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?" aria-label="Read more about How SRI Became the Remote Viewing Origin Story | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4235,7 +4235,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'viewer-language/' | relative_url }}" title="Why Calling Psychics &#x27;Viewers&#x27; Changed the Story | Remote Viewing C54037 Targ Puthoff Legacy" aria-label="Read more about Why Calling Psychics &#x27;Viewers&#x27; Changed the Story | Remote Viewing C54037 Targ Puthoff Legacy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'viewer-language/' | relative_url }}" title="Why Calling Psychics 'Viewers' Changed the Story | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Calling Psychics 'Viewers' Changed the Story | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4255,7 +4255,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'geller-testing/' | relative_url }}" title="Why Uri Geller Made SRI More Controversial | Remote Viewing C54037 Targ Puthoff Legacy" aria-label="Read more about Why Uri Geller Made SRI More Controversial | Remote Viewing C54037 Targ Puthoff Legacy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'geller-testing/' | relative_url }}" title="Why Uri Geller Made SRI More Controversial | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Uri Geller Made SRI More Controversial | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4279,7 +4279,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Remote Viewers Try to Describe | Remote Viewing" aria-expanded="false" aria-controls="home-vertical-children-node-remote-viewing-c54037-target-types-9f606e"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'targets/' | relative_url }}" title="What Remote Viewers Try to Describe | Remote Viewing" aria-label="Read more about What Remote Viewers Try to Describe | Remote Viewing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'targets/' | relative_url }}" title="What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?" aria-label="Read more about What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4299,7 +4299,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'future-targets-8e4634/' | relative_url }}" title="Can a Target Be Chosen Later? | Remote Viewing C54037 Target Types" aria-label="Read more about Can a Target Be Chosen Later? | Remote Viewing C54037 Target Types">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'future-targets-8e4634/' | relative_url }}" title="Can a Target Be Chosen Later? | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?" aria-label="Read more about Can a Target Be Chosen Later? | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4319,7 +4319,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-pools/' | relative_url }}" title="Did Photo Targets Make Results Cleaner? | Remote Viewing C54037 Target Types" aria-label="Read more about Did Photo Targets Make Results Cleaner? | Remote Viewing C54037 Target Types">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-pools/' | relative_url }}" title="Did Photo Targets Make Results Cleaner? | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?" aria-label="Read more about Did Photo Targets Make Results Cleaner? | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4339,7 +4339,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hammid-clues/' | relative_url }}" title="The Target Clues Hidden in Transcripts | Remote Viewing C54037 Target Types" aria-label="Read more about The Target Clues Hidden in Transcripts | Remote Viewing C54037 Target Types">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hammid-clues/' | relative_url }}" title="The Target Clues Hidden in Transcripts | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?" aria-label="Read more about The Target Clues Hidden in Transcripts | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4359,7 +4359,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pool-bandwidth/' | relative_url }}" title="When Target Pools Tilt the Test | Remote Viewing C54037 Target Types" aria-label="Read more about When Target Pools Tilt the Test | Remote Viewing C54037 Target Types">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pool-bandwidth/' | relative_url }}" title="When Target Pools Tilt the Test | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Target Pools Tilt the Test | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4379,7 +4379,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'object-targets/' | relative_url }}" title="Why Hidden Objects Were Not Simple | Remote Viewing C54037 Target Types" aria-label="Read more about Why Hidden Objects Were Not Simple | Remote Viewing C54037 Target Types">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'object-targets/' | relative_url }}" title="Why Hidden Objects Were Not Simple | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Hidden Objects Were Not Simple | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4399,7 +4399,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'real-sites/' | relative_url }}" title="Why Real Places Made Testing Harder | Remote Viewing C54037 Target Types" aria-label="Read more about Why Real Places Made Testing Harder | Remote Viewing C54037 Target Types">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'real-sites/' | relative_url }}" title="Why Real Places Made Testing Harder | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Real Places Made Testing Harder | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4423,7 +4423,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Some Statisticians Took Results Seriously | Remote Viewing" aria-expanded="false" aria-controls="home-vertical-children-node-remote-viewing-c54037-utts-statistical-cla-2af604"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'utts-review/' | relative_url }}" title="Why Some Statisticians Took Results Seriously | Remote Viewing" aria-label="Read more about Why Some Statisticians Took Results Seriously | Remote Viewing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'utts-review/' | relative_url }}" title="Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4443,7 +4443,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'viewers-7e0a9f/' | relative_url }}" title="Did Practice Make Remote Viewing Stronger? | Remote Viewing C54037 Utts Statistical Cla" aria-label="Read more about Did Practice Make Remote Viewing Stronger? | Remote Viewing C54037 Utts Statistical Cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'viewers-7e0a9f/' | relative_url }}" title="Did Practice Make Remote Viewing Stronger? | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?" aria-label="Read more about Did Practice Make Remote Viewing Stronger? | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4463,7 +4463,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'effect-sizes/' | relative_url }}" title="How Small Effects Became a Big Argument | Remote Viewing C54037 Utts Statistical Cla" aria-label="Read more about How Small Effects Became a Big Argument | Remote Viewing C54037 Utts Statistical Cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'effect-sizes/' | relative_url }}" title="How Small Effects Became a Big Argument | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?" aria-label="Read more about How Small Effects Became a Big Argument | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4483,7 +4483,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'significance/' | relative_url }}" title="When Significant Numbers Still Fall Short | Remote Viewing C54037 Utts Statistical Cla" aria-label="Read more about When Significant Numbers Still Fall Short | Remote Viewing C54037 Utts Statistical Cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'significance/' | relative_url }}" title="When Significant Numbers Still Fall Short | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?" aria-label="Read more about When Significant Numbers Still Fall Short | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4503,7 +4503,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ganzfeld/' | relative_url }}" title="Why Ganzfeld Studies Entered the Debate | Remote Viewing C54037 Utts Statistical Cla" aria-label="Read more about Why Ganzfeld Studies Entered the Debate | Remote Viewing C54037 Utts Statistical Cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ganzfeld/' | relative_url }}" title="Why Ganzfeld Studies Entered the Debate | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Ganzfeld Studies Entered the Debate | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4523,7 +4523,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'usefulness-de1206/' | relative_url }}" title="Why Lab Hits Did Not Become Intelligence | Remote Viewing C54037 Utts Statistical Cla" aria-label="Read more about Why Lab Hits Did Not Become Intelligence | Remote Viewing C54037 Utts Statistical Cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'usefulness-de1206/' | relative_url }}" title="Why Lab Hits Did Not Become Intelligence | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Lab Hits Did Not Become Intelligence | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
@@ -4543,7 +4543,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'static-targets/' | relative_url }}" title="Why Photos Scored Better Than Videos | Remote Viewing C54037 Utts Statistical Cla" aria-label="Read more about Why Photos Scored Better Than Videos | Remote Viewing C54037 Utts Statistical Cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'static-targets/' | relative_url }}" title="Why Photos Scored Better Than Videos | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?" aria-label="Read more about Why Photos Scored Better Than Videos | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?">Read more</a>
 </div>
 </div>
 </div>
