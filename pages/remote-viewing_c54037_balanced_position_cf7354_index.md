@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /remote-viewing-c54037-balanced/
 description: Focused pages that expand on Middle View.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: remote-viewing_c54037_balanced_position_cf7354
 parent_title: Middle View

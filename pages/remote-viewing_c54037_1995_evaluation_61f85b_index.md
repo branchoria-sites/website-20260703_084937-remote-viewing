@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /remote-viewing-c54037-1995-evaluation/
 description: Focused pages that expand on 1995 Review.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: remote-viewing_c54037_1995_evaluation_61f85b
 parent_title: 1995 Review

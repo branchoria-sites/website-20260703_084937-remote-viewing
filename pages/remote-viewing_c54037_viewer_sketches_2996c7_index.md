@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /remote-viewing-c54037-viewer-sketches/
 description: Focused pages that expand on Sketches.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: remote-viewing_c54037_viewer_sketches_2996c7
 parent_title: Sketches
