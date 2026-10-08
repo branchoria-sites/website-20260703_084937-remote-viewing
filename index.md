@@ -236,7 +236,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-remote-viewing-c54037-1995-evaluation-61f85b" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ '1995-review/' | relative_url }}" title="What the Famous Review Really Said | Did Psychic Spying Ever Really Work?" aria-label="Open page: What the Famous Review Really Said | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_1995_evaluation_61f85b-overview.webp' | relative_url }}" alt="Overview image for What the Famous Review Really Said | Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_1995_evaluation_61f85b-overview.webp' | relative_url }}" alt="Overview image for What the Famous Review Really Said" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">1995 Review</span>
@@ -258,7 +258,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-1995-evaluation-61f85b-utts-lab-claim-7cc2b5" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'utts-claim/' | relative_url }}" title="How a Positive Finding Still Lost Funding | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?" aria-label="Open page: How a Positive Finding Still Lost Funding | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_1995_evaluation_61f85b_utts_lab_claim_7cc2b5-Illustration-1.webp' | relative_url }}" alt="Overview image for How a Positive Finding Still Lost Funding | Remote Viewing C54037 1995 Evaluation" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_1995_evaluation_61f85b_utts_lab_claim_7cc2b5-Illustration-1.webp' | relative_url }}" alt="Overview image for How a Positive Finding Still Lost Funding" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Utts Claim</span>
@@ -278,7 +278,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-1995-evaluation-61f85b-end-user-feedback-c10d06" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'end-users/' | relative_url }}" title="What Did Intelligence Users Say Went Wrong? | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?" aria-label="Open page: What Did Intelligence Users Say Went Wrong? | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_1995_evaluation_61f85b_end_user_feedback_c10d06-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did Intelligence Users Say Went Wrong? | Remote Viewing C54037 1995 Evaluation" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_1995_evaluation_61f85b_end_user_feedback_c10d06-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did Intelligence Users Say Went Wrong?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">End Users</span>
@@ -298,7 +298,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-1995-evaluation-61f85b-air-review-scope-e8208d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'air-review/' | relative_url }}" title="What Did the 1995 Review Actually Examine? | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?" aria-label="Open page: What Did the 1995 Review Actually Examine? | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_1995_evaluation_61f85b_air_review_scope_e8208d-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did the 1995 Review Actually Examine? | Remote Viewing C54037 1995 Evaluation" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_1995_evaluation_61f85b_air_review_scope_e8208d-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did the 1995 Review Actually Examine?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">AIR Review</span>
@@ -318,7 +318,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-1995-evaluation-61f85b-lab-vs-spycraft-30517f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lab-vs-field/' | relative_url }}" title="Why Lab Hits Did Not Mean Spycraft Worked | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Lab Hits Did Not Mean Spycraft Worked | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_1995_evaluation_61f85b_lab_vs_spycraft_30517f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Lab Hits Did Not Mean Spycraft Worked | Remote Viewing C54037 1995 Evaluation" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_1995_evaluation_61f85b_lab_vs_spycraft_30517f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Lab Hits Did Not Mean Spycraft Worked" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lab vs Field</span>
@@ -338,7 +338,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-1995-evaluation-61f85b-hyman-replication-te-6344a2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'replication-a21f03/' | relative_url }}" title="Why One Expert Still Said Not Proven | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why One Expert Still Said Not Proven | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_1995_evaluation_61f85b_hyman_replication_te_6344a2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Expert Still Said Not Proven | Remote Viewing C54037 1995 Evaluation" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_1995_evaluation_61f85b_hyman_replication_te_6344a2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Expert Still Said Not Proven" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Replication</span>
@@ -358,7 +358,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-1995-evaluation-61f85b-actionable-intellige-26d9b7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'actionability/' | relative_url }}" title="Why Vague Accuracy Was Not Enough | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Vague Accuracy Was Not Enough | What the Famous Review Really Said | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_1995_evaluation_61f85b_actionable_intellige_26d9b7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vague Accuracy Was Not Enough | Remote Viewing C54037 1995 Evaluation" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_1995_evaluation_61f85b_actionable_intellige_26d9b7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vague Accuracy Was Not Enough" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Actionability</span>
@@ -380,7 +380,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-remote-viewing-c54037-anecdotes-vs-data-021f48" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'anecdotes/' | relative_url }}" title="Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48-overview.webp' | relative_url }}" alt="Overview image for Why the Best Stories May Not Be Evidence | Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48-overview.webp' | relative_url }}" alt="Overview image for Why the Best Stories May Not Be Evidence" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Anecdotes</span>
@@ -402,7 +402,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-anecdotes-vs-data-021f48-blind-evaluator-test-ed8bdf" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'blind-judges/' | relative_url }}" title="Could a Stranger Pick the Target? | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?" aria-label="Open page: Could a Stranger Pick the Target? | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_blind_evaluator_test_ed8bdf-Illustration-1.webp' | relative_url }}" alt="Overview image for Could a Stranger Pick the Target? | Remote Viewing C54037 Anecdotes Vs Data" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_blind_evaluator_test_ed8bdf-Illustration-1.webp' | relative_url }}" alt="Overview image for Could a Stranger Pick the Target?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Blind Judges</span>
@@ -422,7 +422,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-anecdotes-vs-data-021f48-semipalatinsk-memory-1da937" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'semipalatinsk/' | relative_url }}" title="The Hit That Hid the Misses | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Hit That Hid the Misses | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_semipalatinsk_memory_1da937-Illustration-1.webp' | relative_url }}" alt="Overview image for The Hit That Hid the Misses | Remote Viewing C54037 Anecdotes Vs Data" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_semipalatinsk_memory_1da937-Illustration-1.webp' | relative_url }}" alt="Overview image for The Hit That Hid the Misses" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Semipalatinsk</span>
@@ -442,7 +442,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-anecdotes-vs-data-021f48-hidden-misses-c38ef1" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-misses/' | relative_url }}" title="What Remote Viewing Stories Leave Out | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?" aria-label="Open page: What Remote Viewing Stories Leave Out | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_hidden_misses_c38ef1-Illustration-1.webp' | relative_url }}" alt="Overview image for What Remote Viewing Stories Leave Out | Remote Viewing C54037 Anecdotes Vs Data" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_hidden_misses_c38ef1-Illustration-1.webp' | relative_url }}" alt="Overview image for What Remote Viewing Stories Leave Out" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hidden Misses</span>
@@ -462,7 +462,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-anecdotes-vs-data-021f48-lab-vs-operations-7b97ea" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lab-vs-ops/' | relative_url }}" title="When Lab Results Meet Real Targets | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Lab Results Meet Real Targets | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_lab_vs_operations_7b97ea-Illustration-1.webp' | relative_url }}" alt="Overview image for When Lab Results Meet Real Targets | Remote Viewing C54037 Anecdotes Vs Data" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_lab_vs_operations_7b97ea-Illustration-1.webp' | relative_url }}" alt="Overview image for When Lab Results Meet Real Targets" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lab vs Ops</span>
@@ -482,7 +482,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-anecdotes-vs-data-021f48-water-nearby-matches-2dd9c4" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'water-cue/' | relative_url }}" title="Why One Vague Detail Can Feel Exact | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why One Vague Detail Can Feel Exact | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_water_nearby_matches_2dd9c4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Vague Detail Can Feel Exact | Remote Viewing C54037 Anecdotes Vs Data" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_water_nearby_matches_2dd9c4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Vague Detail Can Feel Exact" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Water Cue</span>
@@ -502,7 +502,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-anecdotes-vs-data-021f48-story-bias-98e2a4" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'story-bias/' | relative_url }}" title="Why the Story Wins First | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why the Story Wins First | Why the Best Stories May Not Be Evidence | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_story_bias_98e2a4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Story Wins First | Remote Viewing C54037 Anecdotes Vs Data" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_story_bias_98e2a4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Story Wins First" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Story Bias</span>
@@ -524,7 +524,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-remote-viewing-c54037-cia-archive-myths-32e017" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'cia-myths/' | relative_url }}" title="What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?" aria-label="Open page: What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_cia_archive_myths_32e017-overview.webp' | relative_url }}" alt="Overview image for What the CIA Files Do Not Prove | Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_cia_archive_myths_32e017-overview.webp' | relative_url }}" alt="Overview image for What the CIA Files Do Not Prove" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">CIA Myths</span>
@@ -546,7 +546,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-cia-archive-myths-32e017-ark-file-proof-claim-62a132" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'ark-claims/' | relative_url }}" title="Did a CIA File Really Confirm the Ark? | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?" aria-label="Open page: Did a CIA File Really Confirm the Ark? | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_cia_archive_myths_32e017_ark_file_proof_claim_62a132-Illustration-1.webp' | relative_url }}" alt="Overview image for Did a CIA File Really Confirm the Ark? | Remote Viewing C54037 Cia Archive Myths" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_cia_archive_myths_32e017_ark_file_proof_claim_62a132-Illustration-1.webp' | relative_url }}" alt="Overview image for Did a CIA File Really Confirm the Ark?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Ark Claims</span>
@@ -566,7 +566,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-cia-archive-myths-32e017-crest-viral-misreadi-eacb00" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'crest-spread/' | relative_url }}" title="How CREST Turned Archive Pages Viral | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?" aria-label="Open page: How CREST Turned Archive Pages Viral | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_cia_archive_myths_32e017_crest_viral_misreadi_eacb00-Illustration-1.webp' | relative_url }}" alt="Overview image for How CREST Turned Archive Pages Viral | Remote Viewing C54037 Cia Archive Myths" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_cia_archive_myths_32e017_crest_viral_misreadi_eacb00-Illustration-1.webp' | relative_url }}" alt="Overview image for How CREST Turned Archive Pages Viral" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">CREST Spread</span>
@@ -586,7 +586,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-cia-archive-myths-32e017-declassified-vs-veri-55a4ef" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'file-meaning/' | relative_url }}" title="What a Declassified CIA File Really Proves | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?" aria-label="Open page: What a Declassified CIA File Really Proves | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_cia_archive_myths_32e017_declassified_vs_veri_55a4ef-Illustration-1.webp' | relative_url }}" alt="Overview image for What a Declassified CIA File Really Proves | Remote Viewing C54037 Cia Archive Myths" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_cia_archive_myths_32e017_declassified_vs_veri_55a4ef-Illustration-1.webp' | relative_url }}" alt="Overview image for What a Declassified CIA File Really Proves" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">File Meaning</span>
@@ -606,7 +606,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-cia-archive-myths-32e017-uri-geller-selective-05d755" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'geller-files/' | relative_url }}" title="What the Uri Geller Files Leave Unsettled | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?" aria-label="Open page: What the Uri Geller Files Leave Unsettled | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_cia_archive_myths_32e017_uri_geller_selective_05d755-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Uri Geller Files Leave Unsettled | Remote Viewing C54037 Cia Archive Myths" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_cia_archive_myths_32e017_uri_geller_selective_05d755-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Uri Geller Files Leave Unsettled" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Geller Files</span>
@@ -626,7 +626,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-cia-archive-myths-32e017-stargate-actionable-b49259" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'final-review/' | relative_url }}" title="Why STAR GATE Failed the Intelligence Test | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why STAR GATE Failed the Intelligence Test | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_cia_archive_myths_32e017_stargate_actionable_b49259-Illustration-1.webp' | relative_url }}" alt="Overview image for Why STAR GATE Failed the Intelligence Test | Remote Viewing C54037 Cia Archive Myths" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_cia_archive_myths_32e017_stargate_actionable_b49259-Illustration-1.webp' | relative_url }}" alt="Overview image for Why STAR GATE Failed the Intelligence Test" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Final Review</span>
@@ -646,7 +646,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-cia-archive-myths-32e017-mars-ground-truth-pr-65ece2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'mars-session/' | relative_url }}" title="Why the Mars File Cannot Prove Martian History | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why the Mars File Cannot Prove Martian History | What the CIA Files Do Not Prove | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_cia_archive_myths_32e017_mars_ground_truth_pr_65ece2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Mars File Cannot Prove Martian History | Remote Viewing C54037 Cia Archive Myths" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_cia_archive_myths_32e017_mars_ground_truth_pr_65ece2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Mars File Cannot Prove Martian History" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Mars Session</span>
@@ -690,7 +690,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-cold-war-psychics-a74d67-czechoslovak-psychot-dd368b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'czech-trail/' | relative_url }}" title="The Czechoslovak Clue in Psychic Research | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Czechoslovak Clue in Psychic Research | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_czechoslovak_psychot_dd368b-Illustration-1.webp' | relative_url }}" alt="Overview image for The Czechoslovak Clue in Psychic Research | Remote Viewing C54037 Cold War Psychics" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_czechoslovak_psychot_dd368b-Illustration-1.webp' | relative_url }}" alt="Overview image for The Czechoslovak Clue in Psychic Research" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Czech Trail</span>
@@ -710,7 +710,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-cold-war-psychics-a74d67-psychic-arms-race-my-8e713e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'race-myth/' | relative_url }}" title="Was There Really a Psychic Arms Race? | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?" aria-label="Open page: Was There Really a Psychic Arms Race? | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_psychic_arms_race_my_8e713e-Illustration-1.webp' | relative_url }}" alt="Overview image for Was There Really a Psychic Arms Race? | Remote Viewing C54037 Cold War Psychics" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_psychic_arms_race_my_8e713e-Illustration-1.webp' | relative_url }}" alt="Overview image for Was There Really a Psychic Arms Race?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Race Myth</span>
@@ -730,7 +730,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-cold-war-psychics-a74d67-psychoenergetics-lan-cd0312" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'language-gap/' | relative_url }}" title="When Strange Words Became Intelligence Signals | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Strange Words Became Intelligence Signals | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_psychoenergetics_lan_cd0312-Illustration-1.webp' | relative_url }}" alt="Overview image for When Strange Words Became Intelligence Signals | Remote Viewing C54037 Cold War Psychics" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_psychoenergetics_lan_cd0312-Illustration-1.webp' | relative_url }}" alt="Overview image for When Strange Words Became Intelligence Signals" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Language Gap</span>
@@ -750,7 +750,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-cold-war-psychics-a74d67-fear-surprise-fundin-0039f5" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'fear-logic/' | relative_url }}" title="Why Fear Can Fund Unlikely Experiments | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Fear Can Fund Unlikely Experiments | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_fear_surprise_fundin_0039f5-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Fear Can Fund Unlikely Experiments | Remote Viewing C54037 Cold War Psychics" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_fear_surprise_fundin_0039f5-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Fear Can Fund Unlikely Experiments" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Fear Logic</span>
@@ -770,7 +770,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-cold-war-psychics-a74d67-soviet-psychotronics-2f61e2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'psychotronics/' | relative_url }}" title="Why Psychotronics Worried Western Analysts | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Psychotronics Worried Western Analysts | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_soviet_psychotronics_2f61e2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Psychotronics Worried Western Analysts | Remote Viewing C54037 Cold War Psychics" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_soviet_psychotronics_2f61e2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Psychotronics Worried Western Analysts" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Psychotronics</span>
@@ -790,7 +790,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-cold-war-psychics-a74d67-foreign-assessment-d-cdc24a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'foreign-watch/' | relative_url }}" title="Why Watching the Soviets Changed the Test | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Watching the Soviets Changed the Test | The Cold War Fear Behind Remote Viewing | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_foreign_assessment_d_cdc24a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Watching the Soviets Changed the Test | Remote Viewing C54037 Cold War Psychics" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_foreign_assessment_d_cdc24a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Watching the Soviets Changed the Test" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Foreign Watch</span>
@@ -834,7 +834,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-rv-vs-esp-1ce106-psychic-spying-rebra-5c6ebd" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'psychic-spying/' | relative_url }}" title="How Psychic Spying Rebranded ESP | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?" aria-label="Open page: How Psychic Spying Rebranded ESP | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_psychic_spying_rebra_5c6ebd-Illustration-1.webp' | relative_url }}" alt="Overview image for How Psychic Spying Rebranded ESP | Remote Viewing C54037 Rv Vs Esp" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_psychic_spying_rebra_5c6ebd-Illustration-1.webp' | relative_url }}" alt="Overview image for How Psychic Spying Rebranded ESP" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Psychic Spying</span>
@@ -854,7 +854,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-rv-vs-esp-1ce106-not-just-psychic-rea-8f7689" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'not-psychic/' | relative_url }}" title="Is Remote Viewing Just Psychic Reading? | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?" aria-label="Open page: Is Remote Viewing Just Psychic Reading? | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_not_just_psychic_rea_8f7689-Illustration-1.webp' | relative_url }}" alt="Overview image for Is Remote Viewing Just Psychic Reading? | Remote Viewing C54037 Rv Vs Esp" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_not_just_psychic_rea_8f7689-Illustration-1.webp' | relative_url }}" alt="Overview image for Is Remote Viewing Just Psychic Reading?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Not Psychic</span>
@@ -874,7 +874,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-rv-vs-esp-1ce106-remote-viewing-preco-40755d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'precognition/' | relative_url }}" title="When Remote Viewing Becomes Future Knowing | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Remote Viewing Becomes Future Knowing | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_remote_viewing_preco_40755d-Illustration-1.webp' | relative_url }}" alt="Overview image for When Remote Viewing Becomes Future Knowing | Remote Viewing C54037 Rv Vs Esp" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_remote_viewing_preco_40755d-Illustration-1.webp' | relative_url }}" alt="Overview image for When Remote Viewing Becomes Future Knowing" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Precognition</span>
@@ -894,7 +894,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-rv-vs-esp-1ce106-esp-types-in-remote-d202ee" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'esp-types/' | relative_url }}" title="Which Kind of ESP Is Remote Viewing? | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?" aria-label="Open page: Which Kind of ESP Is Remote Viewing? | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_esp_types_in_remote_d202ee-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Kind of ESP Is Remote Viewing? | Remote Viewing C54037 Rv Vs Esp" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_esp_types_in_remote_d202ee-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Kind of ESP Is Remote Viewing?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">ESP Types</span>
@@ -914,7 +914,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-rv-vs-esp-1ce106-target-identifiers-s-597e25" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'target-ids/' | relative_url }}" title="Why Did Remote Viewing Use Target Numbers? | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Did Remote Viewing Use Target Numbers? | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_target_identifiers_s_597e25-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did Remote Viewing Use Target Numbers? | Remote Viewing C54037 Rv Vs Esp" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_target_identifiers_s_597e25-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did Remote Viewing Use Target Numbers?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Target IDs</span>
@@ -934,7 +934,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-rv-vs-esp-1ce106-before-feedback-reco-b68100" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'before-feedback/' | relative_url }}" title="Why Notes Before Feedback Matter So Much | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Notes Before Feedback Matter So Much | Is Remote Viewing Just ESP? | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_before_feedback_reco_b68100-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Notes Before Feedback Matter So Much | Remote Viewing C54037 Rv Vs Esp" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_before_feedback_reco_b68100-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Notes Before Feedback Matter So Much" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Before Feedback</span>
@@ -978,7 +978,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-fair-test-design-3c771f-transcript-cleaning-13557e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'clean-transcripts/' | relative_url }}" title="Can the Transcript Give the Game Away? | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?" aria-label="Open page: Can the Transcript Give the Game Away? | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_fair_test_design_3c771f_transcript_cleaning_13557e-Illustration-1.webp' | relative_url }}" alt="Overview image for Can the Transcript Give the Game Away? | Remote Viewing C54037 Fair Test Design" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_fair_test_design_3c771f_transcript_cleaning_13557e-Illustration-1.webp' | relative_url }}" alt="Overview image for Can the Transcript Give the Game Away?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Clean Transcripts</span>
@@ -998,7 +998,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-fair-test-design-3c771f-preregistered-rv-tes-1d6e8f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'preregistration/' | relative_url }}" title="Lock the Rules Before the Reveal | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?" aria-label="Open page: Lock the Rules Before the Reveal | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_fair_test_design_3c771f_preregistered_rv_tes_1d6e8f-Illustration-1.webp' | relative_url }}" alt="Overview image for Lock the Rules Before the Reveal | Remote Viewing C54037 Fair Test Design" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_fair_test_design_3c771f_preregistered_rv_tes_1d6e8f-Illustration-1.webp' | relative_url }}" alt="Overview image for Lock the Rules Before the Reveal" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Preregistration</span>
@@ -1018,7 +1018,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-fair-test-design-3c771f-feedback-timing-carr-155e64" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'feedback-timing/' | relative_url }}" title="The Hidden Risk of Early Feedback | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Hidden Risk of Early Feedback | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_fair_test_design_3c771f_feedback_timing_carr_155e64-Illustration-1.webp' | relative_url }}" alt="Overview image for The Hidden Risk of Early Feedback | Remote Viewing C54037 Fair Test Design" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_fair_test_design_3c771f_feedback_timing_carr_155e64-Illustration-1.webp' | relative_url }}" alt="Overview image for The Hidden Risk of Early Feedback" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Feedback Timing</span>
@@ -1038,7 +1038,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-fair-test-design-3c771f-random-target-pools-9827a9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'target-pools/' | relative_url }}" title="When Random Targets Are Not Random Enough | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Random Targets Are Not Random Enough | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_fair_test_design_3c771f_random_target_pools_9827a9-Illustration-1.webp' | relative_url }}" alt="Overview image for When Random Targets Are Not Random Enough | Remote Viewing C54037 Fair Test Design" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_fair_test_design_3c771f_random_target_pools_9827a9-Illustration-1.webp' | relative_url }}" alt="Overview image for When Random Targets Are Not Random Enough" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Target Pools</span>
@@ -1058,7 +1058,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-fair-test-design-3c771f-triple-blind-session-e66ea8" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'triple-blind/' | relative_url }}" title="Who Really Needs to Be Blind? | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?" aria-label="Open page: Who Really Needs to Be Blind? | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_fair_test_design_3c771f_triple_blind_session_e66ea8-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Really Needs to Be Blind? | Remote Viewing C54037 Fair Test Design" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_fair_test_design_3c771f_triple_blind_session_e66ea8-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Really Needs to Be Blind?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Triple Blind</span>
@@ -1078,7 +1078,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-fair-test-design-3c771f-rank-order-judging-a1482c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rank-judging/' | relative_url }}" title="Why Decoys Matter More Than Hits | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Decoys Matter More Than Hits | What a Strong Remote Viewing Test Needs | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_fair_test_design_3c771f_rank_order_judging_a1482c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Decoys Matter More Than Hits | Remote Viewing C54037 Fair Test Design" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_fair_test_design_3c771f_rank_order_judging_a1482c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Decoys Matter More Than Hits" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Rank Judging</span>
@@ -1122,7 +1122,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-fort-meade-unit-96aedd-stargate-secrecy-dbd6e4" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'secrecy/' | relative_url }}" title="Did Secrecy Make Stargate More Convincing? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?" aria-label="Open page: Did Secrecy Make Stargate More Convincing? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_stargate_secrecy_dbd6e4-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Secrecy Make Stargate More Convincing? | Remote Viewing C54037 Fort Meade Unit" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_stargate_secrecy_dbd6e4-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Secrecy Make Stargate More Convincing?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Secrecy</span>
@@ -1142,7 +1142,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-fort-meade-unit-96aedd-rv-tasking-workflow-b51d5b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'tasking/' | relative_url }}" title="How Did a Psychic Spy Assignment Work? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?" aria-label="Open page: How Did a Psychic Spy Assignment Work? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_rv_tasking_workflow_b51d5b-Illustration-1.webp' | relative_url }}" alt="Overview image for How Did a Psychic Spy Assignment Work? | Remote Viewing C54037 Fort Meade Unit" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_rv_tasking_workflow_b51d5b-Illustration-1.webp' | relative_url }}" alt="Overview image for How Did a Psychic Spy Assignment Work?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Tasking</span>
@@ -1162,7 +1162,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-fort-meade-unit-96aedd-detachment-g-unit-5ab04e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'detachment-g/' | relative_url }}" title="What Was Detachment G Really Built To Do? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?" aria-label="Open page: What Was Detachment G Really Built To Do? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_detachment_g_unit_5ab04e-Illustration-1.webp' | relative_url }}" alt="Overview image for What Was Detachment G Really Built To Do? | Remote Viewing C54037 Fort Meade Unit" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_detachment_g_unit_5ab04e-Illustration-1.webp' | relative_url }}" alt="Overview image for What Was Detachment G Really Built To Do?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Detachment G</span>
@@ -1182,7 +1182,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-fort-meade-unit-96aedd-military-viewers-rol-9ea3c7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'viewers/' | relative_url }}" title="Who Were the Military Viewers? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?" aria-label="Open page: Who Were the Military Viewers? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_military_viewers_rol_9ea3c7-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Were the Military Viewers? | Remote Viewing C54037 Fort Meade Unit" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_military_viewers_rol_9ea3c7-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Were the Military Viewers?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Viewers</span>
@@ -1202,7 +1202,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-fort-meade-unit-96aedd-code-names-program-eaae1a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'code-names/' | relative_url }}" title="Why Did Stargate Have So Many Names? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Did Stargate Have So Many Names? | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_code_names_program_eaae1a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did Stargate Have So Many Names? | Remote Viewing C54037 Fort Meade Unit" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_code_names_program_eaae1a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did Stargate Have So Many Names?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Code Names</span>
@@ -1222,7 +1222,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-fort-meade-unit-96aedd-operational-usefulne-1e6231" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'usefulness/' | relative_url }}" title="Why Striking Impressions Still Failed Analysts | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Striking Impressions Still Failed Analysts | Inside the Military Remote Viewing Unit | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_operational_usefulne_1e6231-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Striking Impressions Still Failed Analysts | Remote Viewing C54037 Fort Meade Unit" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_operational_usefulne_1e6231-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Striking Impressions Still Failed Analysts" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Usefulness</span>
@@ -1266,7 +1266,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-future-targets-783060-future-selected-timi-93006e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'timing-test/' | relative_url }}" title="Can a Future Target Anchor an Earlier Session? | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?" aria-label="Open page: Can a Future Target Anchor an Earlier Session? | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_future_targets_783060_future_selected_timi_93006e-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Future Target Anchor an Earlier Session? | Remote Viewing C54037 Future Targets" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_future_targets_783060_future_selected_timi_93006e-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Future Target Anchor an Earlier Session?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Timing Test</span>
@@ -1286,7 +1286,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-future-targets-783060-cia-delayed-targets-1c52af" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'cia-protocols/' | relative_url }}" title="Inside the CIA Records on Future Targets | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?" aria-label="Open page: Inside the CIA Records on Future Targets | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_future_targets_783060_cia_delayed_targets_1c52af-Illustration-1.webp' | relative_url }}" alt="Overview image for Inside the CIA Records on Future Targets | Remote Viewing C54037 Future Targets" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_future_targets_783060_cia_delayed_targets_1c52af-Illustration-1.webp' | relative_url }}" alt="Overview image for Inside the CIA Records on Future Targets" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">CIA Protocols</span>
@@ -1306,7 +1306,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-future-targets-783060-chicago-precognition-1acc9e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'chicago-trial/' | relative_url }}" title="What the Chicago Precognition Trial Really Tested | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?" aria-label="Open page: What the Chicago Precognition Trial Really Tested | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_future_targets_783060_chicago_precognition_1acc9e-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Chicago Precognition Trial Really Tested | Remote Viewing C54037 Future Targets" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_future_targets_783060_chicago_precognition_1acc9e-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Chicago Precognition Trial Really Tested" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Chicago Trial</span>
@@ -1326,7 +1326,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-future-targets-783060-arv-rater-reliabilit-95b77f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rater-reliability/' | relative_url }}" title="When Blind Judges Do Not Agree | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Blind Judges Do Not Agree | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_future_targets_783060_arv_rater_reliabilit_95b77f-Illustration-1.webp' | relative_url }}" alt="Overview image for When Blind Judges Do Not Agree | Remote Viewing C54037 Future Targets" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_future_targets_783060_arv_rater_reliabilit_95b77f-Illustration-1.webp' | relative_url }}" alt="Overview image for When Blind Judges Do Not Agree" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Rater Reliability</span>
@@ -1346,7 +1346,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-future-targets-783060-arv-prediction-choic-9e91c6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'associative-remote-viewing-arv/' | relative_url }}" title="Why Future Predictions Become Image Matches | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Future Predictions Become Image Matches | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_future_targets_783060_arv_prediction_choic_9e91c6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Future Predictions Become Image Matches | Remote Viewing C54037 Future Targets" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_future_targets_783060_arv_prediction_choic_9e91c6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Future Predictions Become Image Matches" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Associative Remote Viewing (ARV)</span>
@@ -1366,7 +1366,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-future-targets-783060-selective-hits-preco-08dfc2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'selective-hits/' | relative_url }}" title="Why Winning Streaks Can Mislead | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Winning Streaks Can Mislead | Can Remote Viewing Claim the Future? | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_future_targets_783060_selective_hits_preco_08dfc2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Winning Streaks Can Mislead | Remote Viewing C54037 Future Targets" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_future_targets_783060_selective_hits_preco_08dfc2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Winning Streaks Can Mislead" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Selective Hits</span>
@@ -1410,7 +1410,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-problem-of-hits-32ccc5-blind-judges-decoys-eed9d2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'blind-judging/' | relative_url }}" title="Can Blind Judges Separate Hits From Hindsight? | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?" aria-label="Open page: Can Blind Judges Separate Hits From Hindsight? | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_blind_judges_decoys_eed9d2-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Blind Judges Separate Hits From Hindsight? | Remote Viewing C54037 Problem Of Hits" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_blind_judges_decoys_eed9d2-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Blind Judges Separate Hits From Hindsight?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Blind Judging</span>
@@ -1430,7 +1430,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-problem-of-hits-32ccc5-after-fact-target-fi-878d8d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'after-fit/' | relative_url }}" title="How Target Photos Create After the Fact Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?" aria-label="Open page: How Target Photos Create After the Fact Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_after_fact_target_fi_878d8d-Illustration-1.webp' | relative_url }}" alt="Overview image for How Target Photos Create After the Fact Hits | Remote Viewing C54037 Problem Of Hits" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_after_fact_target_fi_878d8d-Illustration-1.webp' | relative_url }}" alt="Overview image for How Target Photos Create After the Fact Hits" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">After Fit</span>
@@ -1450,7 +1450,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-problem-of-hits-32ccc5-subjective-validatio-cfdc0c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'barnum-hits/' | relative_url }}" title="The Psychology Behind Flexible Remote Viewing Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Psychology Behind Flexible Remote Viewing Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_subjective_validatio_cfdc0c-Illustration-1.webp' | relative_url }}" alt="Overview image for The Psychology Behind Flexible Remote Viewing Hits | Remote Viewing C54037 Problem Of Hits" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_subjective_validatio_cfdc0c-Illustration-1.webp' | relative_url }}" alt="Overview image for The Psychology Behind Flexible Remote Viewing Hits" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Barnum Hits</span>
@@ -1470,7 +1470,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-problem-of-hits-32ccc5-sensory-cueing-false-ab2315" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'sensory-cues/' | relative_url }}" title="When Ordinary Clues Create Psychic Looking Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Ordinary Clues Create Psychic Looking Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_sensory_cueing_false_ab2315-Illustration-1.webp' | relative_url }}" alt="Overview image for When Ordinary Clues Create Psychic Looking Hits | Remote Viewing C54037 Problem Of Hits" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_sensory_cueing_false_ab2315-Illustration-1.webp' | relative_url }}" alt="Overview image for When Ordinary Clues Create Psychic Looking Hits" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Sensory Cues</span>
@@ -1490,7 +1490,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-problem-of-hits-32ccc5-counting-misses-sess-a02066" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'counting-misses/' | relative_url }}" title="Why Misses Matter as Much as Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Misses Matter as Much as Hits | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_counting_misses_sess_a02066-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Misses Matter as Much as Hits | Remote Viewing C54037 Problem Of Hits" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_counting_misses_sess_a02066-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Misses Matter as Much as Hits" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Counting Misses</span>
@@ -1510,7 +1510,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-problem-of-hits-32ccc5-vague-impressions-hi-ade098" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'vague-hits/' | relative_url }}" title="Why Vague Impressions Can Feel So Accurate | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Vague Impressions Can Feel So Accurate | Why Remote Viewing Hits Can Mislead | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_vague_impressions_hi_ade098-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vague Impressions Can Feel So Accurate | Remote Viewing C54037 Problem Of Hits" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_vague_impressions_hi_ade098-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vague Impressions Can Feel So Accurate" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Vague Hits</span>
@@ -1532,7 +1532,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-remote-viewing-c54037-hyman-replication-do-a37b91" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hyman-review/' | relative_url }}" title="Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_hyman_replication_do_a37b91-overview.webp' | relative_url }}" alt="Overview image for Why Unusual Results Were Not Enough | Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_hyman_replication_do_a37b91-overview.webp' | relative_url }}" alt="Overview image for Why Unusual Results Were Not Enough" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hyman Review</span>
@@ -1554,7 +1554,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-hyman-replication-do-a37b91-single-judge-problem-5ab8e1" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'single-judge/' | relative_url }}" title="Could One Judge Make the Effect Look Real? | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?" aria-label="Open page: Could One Judge Make the Effect Look Real? | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_single_judge_problem_5ab8e1-Illustration-1.webp' | relative_url }}" alt="Overview image for Could One Judge Make the Effect Look Real? | Remote Viewing C54037 Hyman Replication" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_single_judge_problem_5ab8e1-Illustration-1.webp' | relative_url }}" alt="Overview image for Could One Judge Make the Effect Look Real?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Single Judge</span>
@@ -1574,7 +1574,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-hyman-replication-do-a37b91-independent-rejudgin-7f2089" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rejudging/' | relative_url }}" title="The First Test Hyman Wanted Run Again | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?" aria-label="Open page: The First Test Hyman Wanted Run Again | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_independent_rejudgin_7f2089-Illustration-1.webp' | relative_url }}" alt="Overview image for The First Test Hyman Wanted Run Again | Remote Viewing C54037 Hyman Replication" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_independent_rejudgin_7f2089-Illustration-1.webp' | relative_url }}" alt="Overview image for The First Test Hyman Wanted Run Again" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Rejudging</span>
@@ -1594,7 +1594,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-hyman-replication-do-a37b91-experiment-one-reche-f1b4f1" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'experiment-one-aa40bd/' | relative_url }}" title="The SAIC Study That Looked Stronger on Paper | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?" aria-label="Open page: The SAIC Study That Looked Stronger on Paper | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_experiment_one_reche_f1b4f1-Illustration-1.webp' | relative_url }}" alt="Overview image for The SAIC Study That Looked Stronger on Paper | Remote Viewing C54037 Hyman Replication" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_experiment_one_reche_f1b4f1-Illustration-1.webp' | relative_url }}" alt="Overview image for The SAIC Study That Looked Stronger on Paper" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Experiment One</span>
@@ -1614,7 +1614,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-hyman-replication-do-a37b91-replication-beyond-l-be2980" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'replication-8e1e3f/' | relative_url }}" title="What Would Count as Real Replication? | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?" aria-label="Open page: What Would Count as Real Replication? | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_replication_beyond_l_be2980-Illustration-1.webp' | relative_url }}" alt="Overview image for What Would Count as Real Replication? | Remote Viewing C54037 Hyman Replication" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_replication_beyond_l_be2980-Illustration-1.webp' | relative_url }}" alt="Overview image for What Would Count as Real Replication?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Replication</span>
@@ -1634,7 +1634,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-hyman-replication-do-a37b91-monomethod-bias-saic-61c2db" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'monomethod-bias-d88f67/' | relative_url }}" title="When One Method Can Fool a Whole Program | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?" aria-label="Open page: When One Method Can Fool a Whole Program | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_monomethod_bias_saic_61c2db-Illustration-1.webp' | relative_url }}" alt="Overview image for When One Method Can Fool a Whole Program | Remote Viewing C54037 Hyman Replication" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_monomethod_bias_saic_61c2db-Illustration-1.webp' | relative_url }}" alt="Overview image for When One Method Can Fool a Whole Program" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Monomethod Bias</span>
@@ -1654,7 +1654,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-hyman-replication-do-a37b91-stats-not-proof-448dc1" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'stats-doubt/' | relative_url }}" title="Why Above Chance Did Not Prove Remote Viewing | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Above Chance Did Not Prove Remote Viewing | Why Unusual Results Were Not Enough | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_stats_not_proof_448dc1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Above Chance Did Not Prove Remote Viewing | Remote Viewing C54037 Hyman Replication" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_stats_not_proof_448dc1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Above Chance Did Not Prove Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Stats Doubt</span>
@@ -1676,7 +1676,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-remote-viewing-c54037-intelligence-value-ce5153" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'intel-value/' | relative_url }}" title="Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_intelligence_value_ce5153-overview.webp' | relative_url }}" alt="Overview image for Why Vague Hits Failed Intelligence Work | Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_intelligence_value_ce5153-overview.webp' | relative_url }}" alt="Overview image for Why Vague Hits Failed Intelligence Work" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Intel Value</span>
@@ -1698,7 +1698,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-intelligence-value-ce5153-background-informati-eb3034" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'background-leakage/' | relative_url }}" title="Did Background Clues Create Better Hits? | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?" aria-label="Open page: Did Background Clues Create Better Hits? | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_intelligence_value_ce5153_background_informati_eb3034-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Background Clues Create Better Hits? | Remote Viewing C54037 Intelligence Value" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_intelligence_value_ce5153_background_informati_eb3034-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Background Clues Create Better Hits?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Background Leakage</span>
@@ -1718,7 +1718,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-intelligence-value-ce5153-blind-alleys-wrong-c-b7080a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'blind-alleys/' | relative_url }}" title="How Bad Clues Could Waste Real Resources | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?" aria-label="Open page: How Bad Clues Could Waste Real Resources | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_intelligence_value_ce5153_blind_alleys_wrong_c_b7080a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Bad Clues Could Waste Real Resources | Remote Viewing C54037 Intelligence Value" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_intelligence_value_ce5153_blind_alleys_wrong_c_b7080a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Bad Clues Could Waste Real Resources" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Blind Alleys</span>
@@ -1738,7 +1738,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-intelligence-value-ce5153-conflicting-viewers-46ae04" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'conflicting-reports/' | relative_url }}" title="What If the Psychic Sources Disagreed? | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?" aria-label="Open page: What If the Psychic Sources Disagreed? | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_intelligence_value_ce5153_conflicting_viewers_46ae04-Illustration-1.webp' | relative_url }}" alt="Overview image for What If the Psychic Sources Disagreed? | Remote Viewing C54037 Intelligence Value" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_intelligence_value_ce5153_conflicting_viewers_46ae04-Illustration-1.webp' | relative_url }}" alt="Overview image for What If the Psychic Sources Disagreed?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Conflicting Reports</span>
@@ -1758,7 +1758,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-intelligence-value-ce5153-actionable-vs-intere-a3f3e2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'actionable-info/' | relative_url }}" title="When Psychic Impressions Failed the Action Test | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Psychic Impressions Failed the Action Test | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_intelligence_value_ce5153_actionable_vs_intere_a3f3e2-Illustration-1.webp' | relative_url }}" alt="Overview image for When Psychic Impressions Failed the Action Test | Remote Viewing C54037 Intelligence Value" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_intelligence_value_ce5153_actionable_vs_intere_a3f3e2-Illustration-1.webp' | relative_url }}" alt="Overview image for When Psychic Impressions Failed the Action Test" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Actionable Info</span>
@@ -1778,7 +1778,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-intelligence-value-ce5153-lab-hits-field-failu-f296e9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lab-to-field/' | relative_url }}" title="Why Lab Hits Did Not Become Field Value | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Lab Hits Did Not Become Field Value | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_intelligence_value_ce5153_lab_hits_field_failu_f296e9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Lab Hits Did Not Become Field Value | Remote Viewing C54037 Intelligence Value" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_intelligence_value_ce5153_lab_hits_field_failu_f296e9-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Lab Hits Did Not Become Field Value" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lab to Field</span>
@@ -1798,7 +1798,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-intelligence-value-ce5153-vague-hindsight-matc-867371" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'vague-matches-2816ef/' | relative_url }}" title="Why Vague Hits Look Better in Hindsight | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Vague Hits Look Better in Hindsight | Why Vague Hits Failed Intelligence Work | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_intelligence_value_ce5153_vague_hindsight_matc_867371-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vague Hits Look Better in Hindsight | Remote Viewing C54037 Intelligence Value" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_intelligence_value_ce5153_vague_hindsight_matc_867371-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vague Hits Look Better in Hindsight" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Vague Matches</span>
@@ -1842,7 +1842,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-blind-judging-7f10d3-arv-feedback-photo-b-21c706" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-bias/' | relative_url }}" title="Can One Photo Steal the Signal? | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?" aria-label="Open page: Can One Photo Steal the Signal? | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_blind_judging_7f10d3_arv_feedback_photo_b_21c706-Illustration-1.webp' | relative_url }}" alt="Overview image for Can One Photo Steal the Signal? | Remote Viewing C54037 Blind Judging" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_blind_judging_7f10d3_arv_feedback_photo_b_21c706-Illustration-1.webp' | relative_url }}" alt="Overview image for Can One Photo Steal the Signal?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Photo Bias</span>
@@ -1862,7 +1862,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-blind-judging-7f10d3-decoy-photo-problem-fda7cc" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'decoy-photos/' | relative_url }}" title="The Hidden Power of the Wrong Photos | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Hidden Power of the Wrong Photos | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_blind_judging_7f10d3_decoy_photo_problem_fda7cc-Illustration-1.webp' | relative_url }}" alt="Overview image for The Hidden Power of the Wrong Photos | Remote Viewing C54037 Blind Judging" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_blind_judging_7f10d3_decoy_photo_problem_fda7cc-Illustration-1.webp' | relative_url }}" alt="Overview image for The Hidden Power of the Wrong Photos" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Decoy Photos</span>
@@ -1882,7 +1882,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-blind-judging-7f10d3-rank-order-judging-a1482c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rank-order-judging/' | relative_url }}" title="When a First Place Match Is Not Enough | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?" aria-label="Open page: When a First Place Match Is Not Enough | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_blind_judging_7f10d3_rank_order_judging_a1482c-Illustration-1.webp' | relative_url }}" alt="Overview image for When a First Place Match Is Not Enough | Remote Viewing C54037 Blind Judging" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_blind_judging_7f10d3_rank_order_judging_a1482c-Illustration-1.webp' | relative_url }}" alt="Overview image for When a First Place Match Is Not Enough" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Rank Order Judging</span>
@@ -1902,7 +1902,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-blind-judging-7f10d3-air-review-operation-167b04" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'air-review-bf9b3d/' | relative_url }}" title="When Analysts Had to Find the Target | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Analysts Had to Find the Target | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_blind_judging_7f10d3_air_review_operation_167b04-Illustration-1.webp' | relative_url }}" alt="Overview image for When Analysts Had to Find the Target | Remote Viewing C54037 Blind Judging" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_blind_judging_7f10d3_air_review_operation_167b04-Illustration-1.webp' | relative_url }}" alt="Overview image for When Analysts Had to Find the Target" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">AIR Review</span>
@@ -1922,7 +1922,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-blind-judging-7f10d3-hindsight-matching-0db28a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hindsight/' | relative_url }}" title="Why Matches Look Better After Reveal | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Matches Look Better After Reveal | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_blind_judging_7f10d3_hindsight_matching_0db28a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Matches Look Better After Reveal | Remote Viewing C54037 Blind Judging" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_blind_judging_7f10d3_hindsight_matching_0db28a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Matches Look Better After Reveal" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hindsight</span>
@@ -1942,7 +1942,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-blind-judging-7f10d3-selective-matching-r-7d22a5" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'long-reports/' | relative_url }}" title="Why Rich Impressions Are So Easy to Match | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Rich Impressions Are So Easy to Match | Why Scoring Remote Viewing Is So Hard | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_blind_judging_7f10d3_selective_matching_r_7d22a5-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Rich Impressions Are So Easy to Match | Remote Viewing C54037 Blind Judging" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_blind_judging_7f10d3_selective_matching_r_7d22a5-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Rich Impressions Are So Easy to Match" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Long Reports</span>
@@ -1964,7 +1964,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-remote-viewing-c54037-lab-vs-real-world-03811d" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lab-vs-real/' | relative_url }}" title="Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_lab_vs_real_world_03811d-overview.webp' | relative_url }}" alt="Overview image for Why Lab Signals May Not Become Useful | Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_lab_vs_real_world_03811d-overview.webp' | relative_url }}" alt="Overview image for Why Lab Signals May Not Become Useful" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lab vs Real</span>
@@ -1986,7 +1986,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-lab-vs-real-world-03811d-ranked-photos-action-69b2be" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-targets-fa5b60/' | relative_url }}" title="Photo Matching Is Not Field Accuracy | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?" aria-label="Open page: Photo Matching Is Not Field Accuracy | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_ranked_photos_action_69b2be-Illustration-1.webp' | relative_url }}" alt="Overview image for Photo Matching Is Not Field Accuracy | Remote Viewing C54037 Lab Vs Real World" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_ranked_photos_action_69b2be-Illustration-1.webp' | relative_url }}" alt="Overview image for Photo Matching Is Not Field Accuracy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Photo Targets</span>
@@ -2006,7 +2006,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-lab-vs-real-world-03811d-feedback-gaps-operat-f98402" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'feedback-gaps/' | relative_url }}" title="The Problem With No Feedback | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Problem With No Feedback | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_feedback_gaps_operat_f98402-Illustration-1.webp' | relative_url }}" alt="Overview image for The Problem With No Feedback | Remote Viewing C54037 Lab Vs Real World" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_feedback_gaps_operat_f98402-Illustration-1.webp' | relative_url }}" alt="Overview image for The Problem With No Feedback" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Feedback Gaps</span>
@@ -2026,7 +2026,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-lab-vs-real-world-03811d-air-operational-warn-0bae14" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'air-warning/' | relative_url }}" title="What the Official Review Warned About | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?" aria-label="Open page: What the Official Review Warned About | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_air_operational_warn_0bae14-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Official Review Warned About | Remote Viewing C54037 Lab Vs Real World" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_air_operational_warn_0bae14-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Official Review Warned About" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">AIR Warning</span>
@@ -2046,7 +2046,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-lab-vs-real-world-03811d-lab-hits-real-decisi-324ebe" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lab-hits/' | relative_url }}" title="When a Lab Hit Is Not Useful | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?" aria-label="Open page: When a Lab Hit Is Not Useful | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_lab_hits_real_decisi_324ebe-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Lab Hit Is Not Useful | Remote Viewing C54037 Lab Vs Real World" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_lab_hits_real_decisi_324ebe-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Lab Hit Is Not Useful" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lab Hits</span>
@@ -2066,7 +2066,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-lab-vs-real-world-03811d-accurate-fragments-b-ee7a0d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'bad-leads/' | relative_url }}" title="When Correct Details Still Mislead | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Correct Details Still Mislead | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_accurate_fragments_b_ee7a0d-Illustration-1.webp' | relative_url }}" alt="Overview image for When Correct Details Still Mislead | Remote Viewing C54037 Lab Vs Real World" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_accurate_fragments_b_ee7a0d-Illustration-1.webp' | relative_url }}" alt="Overview image for When Correct Details Still Mislead" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Bad Leads</span>
@@ -2086,7 +2086,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-lab-vs-real-world-03811d-open-targets-specifi-85ead6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'open-targets/' | relative_url }}" title="Why Open Targets Are So Hard | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Open Targets Are So Hard | Why Lab Signals May Not Become Useful | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_open_targets_specifi_85ead6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Open Targets Are So Hard | Remote Viewing C54037 Lab Vs Real World" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_open_targets_specifi_85ead6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Open Targets Are So Hard" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Open Targets</span>
@@ -2108,7 +2108,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-remote-viewing-c54037-sensory-leakage-a1a139" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'leakage/' | relative_url }}" title="How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?" aria-label="Open page: How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_sensory_leakage_a1a139-overview.webp' | relative_url }}" alt="Overview image for How Ordinary Clues Can Mimic Psychic Hits | Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_sensory_leakage_a1a139-overview.webp' | relative_url }}" alt="Overview image for How Ordinary Clues Can Mimic Psychic Hits" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Leakage</span>
@@ -2130,7 +2130,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-sensory-leakage-a1a139-monitor-prompt-steer-dfab33" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'monitor-prompts/' | relative_url }}" title="Can the Monitor Accidentally Lead the Viewer? | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?" aria-label="Open page: Can the Monitor Accidentally Lead the Viewer? | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_sensory_leakage_a1a139_monitor_prompt_steer_dfab33-Illustration-1.webp' | relative_url }}" alt="Overview image for Can the Monitor Accidentally Lead the Viewer? | Remote Viewing C54037 Sensory Leakage" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_sensory_leakage_a1a139_monitor_prompt_steer_dfab33-Illustration-1.webp' | relative_url }}" alt="Overview image for Can the Monitor Accidentally Lead the Viewer?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Monitor Prompts</span>
@@ -2150,7 +2150,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-sensory-leakage-a1a139-target-selection-odd-c5e8c5" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'target-odds/' | relative_url }}" title="How One Clue Can Shift the Odds | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?" aria-label="Open page: How One Clue Can Shift the Odds | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_sensory_leakage_a1a139_target_selection_odd_c5e8c5-Illustration-1.webp' | relative_url }}" alt="Overview image for How One Clue Can Shift the Odds | Remote Viewing C54037 Sensory Leakage" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_sensory_leakage_a1a139_target_selection_odd_c5e8c5-Illustration-1.webp' | relative_url }}" alt="Overview image for How One Clue Can Shift the Odds" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Target Odds</span>
@@ -2170,7 +2170,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-sensory-leakage-a1a139-marks-kammann-sri-ju-29f96f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'marks-critique-7e25e4/' | relative_url }}" title="The Critique That Changed Remote Viewing | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Critique That Changed Remote Viewing | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_sensory_leakage_a1a139_marks_kammann_sri_ju_29f96f-Illustration-1.webp' | relative_url }}" alt="Overview image for The Critique That Changed Remote Viewing | Remote Viewing C54037 Sensory Leakage" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_sensory_leakage_a1a139_marks_kammann_sri_ju_29f96f-Illustration-1.webp' | relative_url }}" alt="Overview image for The Critique That Changed Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Marks Critique</span>
@@ -2190,7 +2190,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-sensory-leakage-a1a139-feedback-timing-cont-6fd5fd" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'feedback-risk/' | relative_url }}" title="When Feedback Contaminates the Next Session | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Feedback Contaminates the Next Session | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_sensory_leakage_a1a139_feedback_timing_cont_6fd5fd-Illustration-1.webp' | relative_url }}" alt="Overview image for When Feedback Contaminates the Next Session | Remote Viewing C54037 Sensory Leakage" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_sensory_leakage_a1a139_feedback_timing_cont_6fd5fd-Illustration-1.webp' | relative_url }}" alt="Overview image for When Feedback Contaminates the Next Session" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Feedback Risk</span>
@@ -2210,7 +2210,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-sensory-leakage-a1a139-transcript-order-clu-db0752" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'transcript-clues/' | relative_url }}" title="When Transcripts Give the Game Away | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Transcripts Give the Game Away | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_sensory_leakage_a1a139_transcript_order_clu_db0752-Illustration-1.webp' | relative_url }}" alt="Overview image for When Transcripts Give the Game Away | Remote Viewing C54037 Sensory Leakage" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_sensory_leakage_a1a139_transcript_order_clu_db0752-Illustration-1.webp' | relative_url }}" alt="Overview image for When Transcripts Give the Game Away" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Transcript Clues</span>
@@ -2230,7 +2230,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-sensory-leakage-a1a139-air-vague-reports-9ad5eb" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'air-warnings/' | relative_url }}" title="Why Vague Reports Were Easy to Fit | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Vague Reports Were Easy to Fit | How Ordinary Clues Can Mimic Psychic Hits | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_sensory_leakage_a1a139_air_vague_reports_9ad5eb-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vague Reports Were Easy to Fit | Remote Viewing C54037 Sensory Leakage" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_sensory_leakage_a1a139_air_vague_reports_9ad5eb-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vague Reports Were Easy to Fit" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">AIR Warnings</span>
@@ -2252,7 +2252,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-remote-viewing-c54037-marks-kammann-critiq-6a283f" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'marks-critique/' | relative_url }}" title="The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f-overview.webp' | relative_url }}" alt="Overview image for The Critique That Shook the Early Claims | Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f-overview.webp' | relative_url }}" alt="Overview image for The Critique That Shook the Early Claims" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Marks Critique</span>
@@ -2274,7 +2274,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-marks-kammann-critiq-6a283f-transcript-clues-fde96b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'transcript-clues-59e2d5/' | relative_url }}" title="Could Paperwork Explain the Hits? | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?" aria-label="Open page: Could Paperwork Explain the Hits? | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_transcript_clues_fde96b-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Paperwork Explain the Hits? | Remote Viewing C54037 Marks Kammann Critiq" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_transcript_clues_fde96b-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Paperwork Explain the Hits?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Transcript Clues</span>
@@ -2294,7 +2294,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-marks-kammann-critiq-6a283f-nature-cueing-debate-0a78d4" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'nature-debate/' | relative_url }}" title="The Journal Fight Over Cues | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Journal Fight Over Cues | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_nature_cueing_debate_0a78d4-Illustration-1.webp' | relative_url }}" alt="Overview image for The Journal Fight Over Cues | Remote Viewing C54037 Marks Kammann Critiq" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_nature_cueing_debate_0a78d4-Illustration-1.webp' | relative_url }}" alt="Overview image for The Journal Fight Over Cues" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Nature Debate</span>
@@ -2314,7 +2314,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-marks-kammann-critiq-6a283f-blind-judging-failur-b359a9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'blind-judging-4dedb3/' | relative_url }}" title="Were the Judges Really Blind? | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?" aria-label="Open page: Were the Judges Really Blind? | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_blind_judging_failur_b359a9-Illustration-1.webp' | relative_url }}" alt="Overview image for Were the Judges Really Blind? | Remote Viewing C54037 Marks Kammann Critiq" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_blind_judging_failur_b359a9-Illustration-1.webp' | relative_url }}" alt="Overview image for Were the Judges Really Blind?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Blind Judging</span>
@@ -2334,7 +2334,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-marks-kammann-critiq-6a283f-cleaner-test-control-740e29" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'better-controls/' | relative_url }}" title="What a Cleaner Test Would Require | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?" aria-label="Open page: What a Cleaner Test Would Require | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_cleaner_test_control_740e29-Illustration-1.webp' | relative_url }}" alt="Overview image for What a Cleaner Test Would Require | Remote Viewing C54037 Marks Kammann Critiq" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_cleaner_test_control_740e29-Illustration-1.webp' | relative_url }}" alt="Overview image for What a Cleaner Test Would Require" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Better Controls</span>
@@ -2354,7 +2354,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-marks-kammann-critiq-6a283f-failed-duplication-c-851f19" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'failed-duplication/' | relative_url }}" title="Why Replication Changed the Argument | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Replication Changed the Argument | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_failed_duplication_c_851f19-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Replication Changed the Argument | Remote Viewing C54037 Marks Kammann Critiq" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_failed_duplication_c_851f19-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Replication Changed the Argument" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Failed Duplication</span>
@@ -2374,7 +2374,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-marks-kammann-critiq-6a283f-flexible-matching-42f2af" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'flexible-match/' | relative_url }}" title="Why Vague Impressions Can Look Striking | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Vague Impressions Can Look Striking | The Critique That Shook the Early Claims | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_flexible_matching_42f2af-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vague Impressions Can Look Striking | Remote Viewing C54037 Marks Kammann Critiq" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_flexible_matching_42f2af-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vague Impressions Can Look Striking" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Flexible Match</span>
@@ -2418,7 +2418,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-meaning-misconceptio-9ffb32-monitor-leakage-risk-c940ad" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'leakage-risks/' | relative_url }}" title="How Remote Viewing Tests Can Go Wrong | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?" aria-label="Open page: How Remote Viewing Tests Can Go Wrong | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_monitor_leakage_risk_c940ad-Illustration-1.webp' | relative_url }}" alt="Overview image for How Remote Viewing Tests Can Go Wrong | Remote Viewing C54037 Meaning Misconceptio" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_monitor_leakage_risk_c940ad-Illustration-1.webp' | relative_url }}" alt="Overview image for How Remote Viewing Tests Can Go Wrong" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Leakage Risks</span>
@@ -2438,7 +2438,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-meaning-misconceptio-9ffb32-anomalous-cognition-9883d5" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'not-clairvoyance/' | relative_url }}" title="Is Remote Viewing Really Seeing? | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?" aria-label="Open page: Is Remote Viewing Really Seeing? | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_anomalous_cognition_9883d5-Illustration-1.webp' | relative_url }}" alt="Overview image for Is Remote Viewing Really Seeing? | Remote Viewing C54037 Meaning Misconceptio" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_anomalous_cognition_9883d5-Illustration-1.webp' | relative_url }}" alt="Overview image for Is Remote Viewing Really Seeing?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Not Clairvoyance</span>
@@ -2458,7 +2458,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-meaning-misconceptio-9ffb32-free-response-sessio-4e3681" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'session-notes/' | relative_url }}" title="What Remote Viewers Actually Record | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?" aria-label="Open page: What Remote Viewers Actually Record | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_free_response_sessio_4e3681-Illustration-1.webp' | relative_url }}" alt="Overview image for What Remote Viewers Actually Record | Remote Viewing C54037 Meaning Misconceptio" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_free_response_sessio_4e3681-Illustration-1.webp' | relative_url }}" alt="Overview image for What Remote Viewers Actually Record" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Session Notes</span>
@@ -2478,7 +2478,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-meaning-misconceptio-9ffb32-star-gate-meaning-di-26f723" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'star-gate/' | relative_url }}" title="What Star Gate Changed About Remote Viewing | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?" aria-label="Open page: What Star Gate Changed About Remote Viewing | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_star_gate_meaning_di_26f723-Illustration-1.webp' | relative_url }}" alt="Overview image for What Star Gate Changed About Remote Viewing | Remote Viewing C54037 Meaning Misconceptio" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_star_gate_meaning_di_26f723-Illustration-1.webp' | relative_url }}" alt="Overview image for What Star Gate Changed About Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Star Gate</span>
@@ -2498,7 +2498,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-meaning-misconceptio-9ffb32-blind-judging-guessi-b73745" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'blind-judging-569aa6/' | relative_url }}" title="When Is It More Than Guessing? | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Is It More Than Guessing? | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_blind_judging_guessi_b73745-Illustration-1.webp' | relative_url }}" alt="Overview image for When Is It More Than Guessing? | Remote Viewing C54037 Meaning Misconceptio" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_blind_judging_guessi_b73745-Illustration-1.webp' | relative_url }}" alt="Overview image for When Is It More Than Guessing?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Blind Judging</span>
@@ -2518,7 +2518,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-meaning-misconceptio-9ffb32-hidden-targets-6b744d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-targets/' | relative_url }}" title="Why Remote Viewing Needs a Hidden Target | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Remote Viewing Needs a Hidden Target | What Remote Viewing Actually Claims | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_hidden_targets_6b744d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Remote Viewing Needs a Hidden Target | Remote Viewing C54037 Meaning Misconceptio" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_hidden_targets_6b744d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Remote Viewing Needs a Hidden Target" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hidden Targets</span>
@@ -2540,7 +2540,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-remote-viewing-c54037-balanced-position-cf7354" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'middle-view/' | relative_url }}" title="What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?" aria-label="Open page: What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_balanced_position_cf7354-overview.webp' | relative_url }}" alt="Overview image for What a Balanced View Actually Says | Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_balanced_position_cf7354-overview.webp' | relative_url }}" alt="Overview image for What a Balanced View Actually Says" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Middle View</span>
@@ -2562,7 +2562,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-balanced-position-cf7354-secrecy-cost-science-5e8a1a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'secrecy-cost/' | relative_url }}" title="Did Secrecy Hurt the Science? | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?" aria-label="Open page: Did Secrecy Hurt the Science? | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_balanced_position_cf7354_secrecy_cost_science_5e8a1a-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Secrecy Hurt the Science? | Remote Viewing C54037 Balanced Position" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_balanced_position_cf7354_secrecy_cost_science_5e8a1a-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Secrecy Hurt the Science?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Secrecy Cost</span>
@@ -2582,7 +2582,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-balanced-position-cf7354-air-review-split-ver-1c05ec" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'air-verdict/' | relative_url }}" title="The Review That Split the Debate | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Review That Split the Debate | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_balanced_position_cf7354_air_review_split_ver_1c05ec-Illustration-1.webp' | relative_url }}" alt="Overview image for The Review That Split the Debate | Remote Viewing C54037 Balanced Position" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_balanced_position_cf7354_air_review_split_ver_1c05ec-Illustration-1.webp' | relative_url }}" alt="Overview image for The Review That Split the Debate" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">AIR Verdict</span>
@@ -2602,7 +2602,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-balanced-position-cf7354-statistical-hits-not-fae00f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'statistical-hits/' | relative_url }}" title="When Does a Hit Become Proof? | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Does a Hit Become Proof? | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_balanced_position_cf7354_statistical_hits_not_fae00f-Illustration-1.webp' | relative_url }}" alt="Overview image for When Does a Hit Become Proof? | Remote Viewing C54037 Balanced Position" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_balanced_position_cf7354_statistical_hits_not_fae00f-Illustration-1.webp' | relative_url }}" alt="Overview image for When Does a Hit Become Proof?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Statistical Hits</span>
@@ -2622,7 +2622,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-balanced-position-cf7354-operational-intellig-4977c0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'actionable-intelligence/' | relative_url }}" title="Why Psychic Spying Failed End Users | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Psychic Spying Failed End Users | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_balanced_position_cf7354_operational_intellig_4977c0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Psychic Spying Failed End Users | Remote Viewing C54037 Balanced Position" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_balanced_position_cf7354_operational_intellig_4977c0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Psychic Spying Failed End Users" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Actionable Intelligence</span>
@@ -2642,7 +2642,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-balanced-position-cf7354-meta-analyses-reopen-d921a3" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'meta-analyses/' | relative_url }}" title="Why the Debate Keeps Coming Back | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why the Debate Keeps Coming Back | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_balanced_position_cf7354_meta_analyses_reopen_d921a3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Debate Keeps Coming Back | Remote Viewing C54037 Balanced Position" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_balanced_position_cf7354_meta_analyses_reopen_d921a3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Debate Keeps Coming Back" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Meta Analyses</span>
@@ -2662,7 +2662,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-balanced-position-cf7354-vague-impressions-af-67efd1" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'vague-matches/' | relative_url }}" title="Why Vague Impressions Can Feel Accurate | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Vague Impressions Can Feel Accurate | What a Balanced View Actually Says | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_balanced_position_cf7354_vague_impressions_af_67efd1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vague Impressions Can Feel Accurate | Remote Viewing C54037 Balanced Position" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_balanced_position_cf7354_vague_impressions_af_67efd1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vague Impressions Can Feel Accurate" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Vague Matches</span>
@@ -2706,7 +2706,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-popular-culture-e23cba-target-pools-feedbac-58b33c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'target-pools-98ff48/' | relative_url }}" title="Can Online Targets Really Test Viewers? | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?" aria-label="Open page: Can Online Targets Really Test Viewers? | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_popular_culture_e23cba_target_pools_feedbac_58b33c-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Online Targets Really Test Viewers? | Remote Viewing C54037 Popular Culture" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_popular_culture_e23cba_target_pools_feedbac_58b33c-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Online Targets Really Test Viewers?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Target Pools</span>
@@ -2726,7 +2726,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-popular-culture-e23cba-goats-military-weird-c5907a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'goats-story/' | relative_url }}" title="How Goats Turned Psychic Spies Mainstream | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?" aria-label="Open page: How Goats Turned Psychic Spies Mainstream | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_popular_culture_e23cba_goats_military_weird_c5907a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Goats Turned Psychic Spies Mainstream | Remote Viewing C54037 Popular Culture" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_popular_culture_e23cba_goats_military_weird_c5907a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Goats Turned Psychic Spies Mainstream" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Goats Story</span>
@@ -2746,7 +2746,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-popular-culture-e23cba-psychic-spy-memoirs-bdbdf0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'viewer-legends/' | relative_url }}" title="How Psychic Spies Became Characters | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?" aria-label="Open page: How Psychic Spies Became Characters | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_popular_culture_e23cba_psychic_spy_memoirs_bdbdf0-Illustration-1.webp' | relative_url }}" alt="Overview image for How Psychic Spies Became Characters | Remote Viewing C54037 Popular Culture" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_popular_culture_e23cba_psychic_spy_memoirs_bdbdf0-Illustration-1.webp' | relative_url }}" alt="Overview image for How Psychic Spies Became Characters" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Viewer Legends</span>
@@ -2766,7 +2766,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-popular-culture-e23cba-third-eye-spies-angl-afa5a2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'third-eye-spies/' | relative_url }}" title="When Remote Viewing Becomes Insider History | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Remote Viewing Becomes Insider History | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_popular_culture_e23cba_third_eye_spies_angl_afa5a2-Illustration-1.webp' | relative_url }}" alt="Overview image for When Remote Viewing Becomes Insider History | Remote Viewing C54037 Popular Culture" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_popular_culture_e23cba_third_eye_spies_angl_afa5a2-Illustration-1.webp' | relative_url }}" alt="Overview image for When Remote Viewing Becomes Insider History" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Third Eye Spies</span>
@@ -2786,7 +2786,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-popular-culture-e23cba-cia-files-pop-proof-74ef86" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'cia-files/' | relative_url }}" title="Why CIA Files Made the Myth Stick | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why CIA Files Made the Myth Stick | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_popular_culture_e23cba_cia_files_pop_proof_74ef86-Illustration-1.webp' | relative_url }}" alt="Overview image for Why CIA Files Made the Myth Stick | Remote Viewing C54037 Popular Culture" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_popular_culture_e23cba_cia_files_pop_proof_74ef86-Illustration-1.webp' | relative_url }}" alt="Overview image for Why CIA Files Made the Myth Stick" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">CIA Files</span>
@@ -2806,7 +2806,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-popular-culture-e23cba-reddit-diy-practice-06dd42" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'reddit-practice/' | relative_url }}" title="Why People Still Try It Online | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why People Still Try It Online | Why Remote Viewing Became a Modern Myth | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_popular_culture_e23cba_reddit_diy_practice_06dd42-Illustration-1.webp' | relative_url }}" alt="Overview image for Why People Still Try It Online | Remote Viewing C54037 Popular Culture" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_popular_culture_e23cba_reddit_diy_practice_06dd42-Illustration-1.webp' | relative_url }}" alt="Overview image for Why People Still Try It Online" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Reddit Practice</span>
@@ -2850,7 +2850,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-beginner-protocols-a53763-random-target-pools-9827a9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'target-pools-f0cde5/' | relative_url }}" title="Can a Target Number Leak the Answer? | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?" aria-label="Open page: Can a Target Number Leak the Answer? | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_beginner_protocols_a53763_random_target_pools_9827a9-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Target Number Leak the Answer? | Remote Viewing C54037 Beginner Protocols" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_beginner_protocols_a53763_random_target_pools_9827a9-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Target Number Leak the Answer?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Target Pools</span>
@@ -2870,7 +2870,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-beginner-protocols-a53763-first-two-person-ses-54751c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'first-session/' | relative_url }}" title="How to Run a Clean First Session | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?" aria-label="Open page: How to Run a Clean First Session | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_beginner_protocols_a53763_first_two_person_ses_54751c-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Run a Clean First Session | Remote Viewing C54037 Beginner Protocols" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_beginner_protocols_a53763_first_two_person_ses_54751c-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Run a Clean First Session" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">First Session</span>
@@ -2890,7 +2890,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-beginner-protocols-a53763-clean-feedback-recor-eae16c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'clean-feedback/' | relative_url }}" title="The Moment Beginners Most Often Fool Themselves | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Moment Beginners Most Often Fool Themselves | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_beginner_protocols_a53763_clean_feedback_recor_eae16c-Illustration-1.webp' | relative_url }}" alt="Overview image for The Moment Beginners Most Often Fool Themselves | Remote Viewing C54037 Beginner Protocols" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_beginner_protocols_a53763_clean_feedback_recor_eae16c-Illustration-1.webp' | relative_url }}" alt="Overview image for The Moment Beginners Most Often Fool Themselves" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Clean Feedback</span>
@@ -2910,7 +2910,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-beginner-protocols-a53763-monitor-prompt-cuein-3eebad" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'monitor-cues/' | relative_url }}" title="When Helping Becomes Hinting | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Helping Becomes Hinting | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_beginner_protocols_a53763_monitor_prompt_cuein_3eebad-Illustration-1.webp' | relative_url }}" alt="Overview image for When Helping Becomes Hinting | Remote Viewing C54037 Beginner Protocols" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_beginner_protocols_a53763_monitor_prompt_cuein_3eebad-Illustration-1.webp' | relative_url }}" alt="Overview image for When Helping Becomes Hinting" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Monitor Cues</span>
@@ -2930,7 +2930,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-beginner-protocols-a53763-raw-impressions-gues-3e4aac" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'raw-notes-0659b6/' | relative_url }}" title="Why First Impressions Beat Clever Guesses | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why First Impressions Beat Clever Guesses | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_beginner_protocols_a53763_raw_impressions_gues_3e4aac-Illustration-1.webp' | relative_url }}" alt="Overview image for Why First Impressions Beat Clever Guesses | Remote Viewing C54037 Beginner Protocols" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_beginner_protocols_a53763_raw_impressions_gues_3e4aac-Illustration-1.webp' | relative_url }}" alt="Overview image for Why First Impressions Beat Clever Guesses" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Raw Notes</span>
@@ -2950,7 +2950,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-beginner-protocols-a53763-decoy-target-judging-627411" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'decoy-judging/' | relative_url }}" title="Would Your Notes Fit Other Targets Too? | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?" aria-label="Open page: Would Your Notes Fit Other Targets Too? | How a Remote Viewing Session Is Supposed to Work | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_beginner_protocols_a53763_decoy_target_judging_627411-Illustration-1.webp' | relative_url }}" alt="Overview image for Would Your Notes Fit Other Targets Too? | Remote Viewing C54037 Beginner Protocols" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_beginner_protocols_a53763_decoy_target_judging_627411-Illustration-1.webp' | relative_url }}" alt="Overview image for Would Your Notes Fit Other Targets Too?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Decoy Judging</span>
@@ -2994,7 +2994,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-reading-declassified-c1b5f3-declassification-not-b4a857" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'declassification/' | relative_url }}" title="Released Is Not the Same as Proven | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?" aria-label="Open page: Released Is Not the Same as Proven | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_declassification_not_b4a857-Illustration-1.webp' | relative_url }}" alt="Overview image for Released Is Not the Same as Proven | Remote Viewing C54037 Reading Declassified" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_declassification_not_b4a857-Illustration-1.webp' | relative_url }}" alt="Overview image for Released Is Not the Same as Proven" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Declassification</span>
@@ -3014,7 +3014,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-reading-declassified-c1b5f3-tasking-sheet-contex-93a762" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'tasking-clues/' | relative_url }}" title="Was the Target Really Hidden? | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?" aria-label="Open page: Was the Target Really Hidden? | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_tasking_sheet_contex_93a762-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the Target Really Hidden? | Remote Viewing C54037 Reading Declassified" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_tasking_sheet_contex_93a762-Illustration-1.webp' | relative_url }}" alt="Overview image for Was the Target Really Hidden?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Tasking Clues</span>
@@ -3034,7 +3034,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-reading-declassified-c1b5f3-session-transcript-l-526a5c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'transcripts/' | relative_url }}" title="What a Session Transcript Really Shows | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?" aria-label="Open page: What a Session Transcript Really Shows | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_session_transcript_l_526a5c-Illustration-1.webp' | relative_url }}" alt="Overview image for What a Session Transcript Really Shows | Remote Viewing C54037 Reading Declassified" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_session_transcript_l_526a5c-Illustration-1.webp' | relative_url }}" alt="Overview image for What a Session Transcript Really Shows" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Transcripts</span>
@@ -3054,7 +3054,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-reading-declassified-c1b5f3-checkable-claims-b4aec1" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'checkable-claims/' | relative_url }}" title="Which Details Can Actually Be Checked? | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?" aria-label="Open page: Which Details Can Actually Be Checked? | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_checkable_claims_b4aec1-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Details Can Actually Be Checked? | Remote Viewing C54037 Reading Declassified" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_checkable_claims_b4aec1-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Details Can Actually Be Checked?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Checkable Claims</span>
@@ -3074,7 +3074,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-reading-declassified-c1b5f3-evaluation-protocol-5cfbf4" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'scoring/' | relative_url }}" title="Who Decided It Was a Match? | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?" aria-label="Open page: Who Decided It Was a Match? | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_evaluation_protocol_5cfbf4-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Decided It Was a Match? | Remote Viewing C54037 Reading Declassified" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_evaluation_protocol_5cfbf4-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Decided It Was a Match?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Scoring</span>
@@ -3094,7 +3094,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-reading-declassified-c1b5f3-air-review-calibrati-5fa992" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'air-review-8864ce/' | relative_url }}" title="Why the AIR Review Still Matters | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why the AIR Review Still Matters | How to Read Remote Viewing Files Carefully | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_air_review_calibrati_5fa992-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the AIR Review Still Matters | Remote Viewing C54037 Reading Declassified" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_air_review_calibrati_5fa992-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the AIR Review Still Matters" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">AIR Review</span>
@@ -3116,7 +3116,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-remote-viewing-c54037-repeatability-scienc-dc20ac" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'replication/' | relative_url }}" title="Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac-overview.webp' | relative_url }}" alt="Overview image for Why Mainstream Science Remains Unconvinced | Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac-overview.webp' | relative_url }}" alt="Overview image for Why Mainstream Science Remains Unconvinced" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Replication</span>
@@ -3138,7 +3138,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-repeatability-scienc-dc20ac-meta-analysis-bias-060472" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'meta-analysis/' | relative_url }}" title="Can Pooled Results Prove the Effect? | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?" aria-label="Open page: Can Pooled Results Prove the Effect? | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_meta_analysis_bias_060472-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Pooled Results Prove the Effect? | Remote Viewing C54037 Repeatability Scienc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_meta_analysis_bias_060472-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Pooled Results Prove the Effect?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Meta Analysis</span>
@@ -3158,7 +3158,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-repeatability-scienc-dc20ac-failure-accounting-a6bd18" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'misses-count/' | relative_url }}" title="What Happens to the Failed Sessions? | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?" aria-label="Open page: What Happens to the Failed Sessions? | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_failure_accounting_a6bd18-Illustration-1.webp' | relative_url }}" alt="Overview image for What Happens to the Failed Sessions? | Remote Viewing C54037 Repeatability Scienc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_failure_accounting_a6bd18-Illustration-1.webp' | relative_url }}" alt="Overview image for What Happens to the Failed Sessions?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Misses Count</span>
@@ -3178,7 +3178,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-repeatability-scienc-dc20ac-blind-judging-overma-d948bd" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'over-matching/' | relative_url }}" title="When Vague Hits Look Too Good | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Vague Hits Look Too Good | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_blind_judging_overma_d948bd-Illustration-1.webp' | relative_url }}" alt="Overview image for When Vague Hits Look Too Good | Remote Viewing C54037 Repeatability Scienc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_blind_judging_overma_d948bd-Illustration-1.webp' | relative_url }}" alt="Overview image for When Vague Hits Look Too Good" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Over Matching</span>
@@ -3198,7 +3198,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-repeatability-scienc-dc20ac-replication-gaps-60e717" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'replication-gaps/' | relative_url }}" title="Why Does Remote Viewing Fail to Travel? | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Does Remote Viewing Fail to Travel? | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_replication_gaps_60e717-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Does Remote Viewing Fail to Travel? | Remote Viewing C54037 Repeatability Scienc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_replication_gaps_60e717-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Does Remote Viewing Fail to Travel?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Replication Gaps</span>
@@ -3218,7 +3218,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-repeatability-scienc-dc20ac-air-review-limits-c28ed0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'air-review-831437/' | relative_url }}" title="Why Positive Numbers Were Not Enough | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Positive Numbers Were Not Enough | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_air_review_limits_c28ed0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Positive Numbers Were Not Enough | Remote Viewing C54037 Repeatability Scienc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_air_review_limits_c28ed0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Positive Numbers Were Not Enough" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">AIR Review</span>
@@ -3238,7 +3238,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-repeatability-scienc-dc20ac-predeclared-methods-23642c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'pre-declared-rules/' | relative_url }}" title="Why Rules Must Come Before Results | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Rules Must Come Before Results | Why Mainstream Science Remains Unconvinced | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_predeclared_methods_23642c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Rules Must Come Before Results | Remote Viewing C54037 Repeatability Scienc" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_predeclared_methods_23642c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Rules Must Come Before Results" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Pre Declared Rules</span>
@@ -3260,7 +3260,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-remote-viewing-c54037-saic-experiments-cc6edf" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'saic-tests/' | relative_url }}" title="The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_saic_experiments_cc6edf-overview.webp' | relative_url }}" alt="Overview image for The Later Tests Behind the 1995 Debate | Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_saic_experiments_cc6edf-overview.webp' | relative_url }}" alt="Overview image for The Later Tests Behind the 1995 Debate" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">SAIC Tests</span>
@@ -3282,7 +3282,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-saic-experiments-cc6edf-rank-order-judging-a1482c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rank-judging-0abb10/' | relative_url }}" title="Can Five Targets Make Psychic Claims Testable? | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?" aria-label="Open page: Can Five Targets Make Psychic Claims Testable? | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_saic_experiments_cc6edf_rank_order_judging_a1482c-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Five Targets Make Psychic Claims Testable? | Remote Viewing C54037 Saic Experiments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_saic_experiments_cc6edf_rank_order_judging_a1482c-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Five Targets Make Psychic Claims Testable?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Rank Judging</span>
@@ -3302,7 +3302,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-saic-experiments-cc6edf-static-dynamic-targe-ee5463" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'target-types/' | relative_url }}" title="Did Moving Targets Help or Hurt? | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?" aria-label="Open page: Did Moving Targets Help or Hurt? | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_saic_experiments_cc6edf_static_dynamic_targe_ee5463-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Moving Targets Help or Hurt? | Remote Viewing C54037 Saic Experiments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_saic_experiments_cc6edf_static_dynamic_targe_ee5463-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Moving Targets Help or Hurt?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Target Types</span>
@@ -3322,7 +3322,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-saic-experiments-cc6edf-saic-monomethod-bias-0b8c84" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'monomethod-bias/' | relative_url }}" title="When One Lab Setup Does Too Much Work | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?" aria-label="Open page: When One Lab Setup Does Too Much Work | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_saic_experiments_cc6edf_saic_monomethod_bias_0b8c84-Illustration-1.webp' | relative_url }}" alt="Overview image for When One Lab Setup Does Too Much Work | Remote Viewing C54037 Saic Experiments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_saic_experiments_cc6edf_saic_monomethod_bias_0b8c84-Illustration-1.webp' | relative_url }}" alt="Overview image for When One Lab Setup Does Too Much Work" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Monomethod Bias</span>
@@ -3342,7 +3342,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-saic-experiments-cc6edf-experiment-one-home-0bd9d1" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'experiment-one/' | relative_url }}" title="Why Experiment One Became So Contested | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Experiment One Became So Contested | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_saic_experiments_cc6edf_experiment_one_home_0bd9d1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Experiment One Became So Contested | Remote Viewing C54037 Saic Experiments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_saic_experiments_cc6edf_experiment_one_home_0bd9d1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Experiment One Became So Contested" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Experiment One</span>
@@ -3362,7 +3362,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-saic-experiments-cc6edf-independent-judges-r-6d173c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'independent-judges/' | relative_url }}" title="Why New Judges Mattered So Much | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why New Judges Mattered So Much | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_saic_experiments_cc6edf_independent_judges_r_6d173c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why New Judges Mattered So Much | Remote Viewing C54037 Saic Experiments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_saic_experiments_cc6edf_independent_judges_r_6d173c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why New Judges Mattered So Much" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Independent Judges</span>
@@ -3382,7 +3382,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-saic-experiments-cc6edf-significance-program-d4723a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'significance-gap/' | relative_url }}" title="Why Significant Results Still Fell Short | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Significant Results Still Fell Short | The Later Tests Behind the 1995 Debate | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_saic_experiments_cc6edf_significance_program_d4723a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Significant Results Still Fell Short | Remote Viewing C54037 Saic Experiments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_saic_experiments_cc6edf_significance_program_d4723a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Significant Results Still Fell Short" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Significance Gap</span>
@@ -3426,7 +3426,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-program-shutdown-43abab-background-knowledge-2a4466" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'contamination/' | relative_url }}" title="Did Background Clues Make Hits Look Better? | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?" aria-label="Open page: Did Background Clues Make Hits Look Better? | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_program_shutdown_43abab_background_knowledge_2a4466-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Background Clues Make Hits Look Better? | Remote Viewing C54037 Program Shutdown" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_program_shutdown_43abab_background_knowledge_2a4466-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Background Clues Make Hits Look Better?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Contamination</span>
@@ -3446,7 +3446,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-program-shutdown-43abab-air-review-shutdown-fdc553" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'air-review-e7b2ab/' | relative_url }}" title="The Review That Made Star Gate Hard to Defend | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Review That Made Star Gate Hard to Defend | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_program_shutdown_43abab_air_review_shutdown_fdc553-Illustration-1.webp' | relative_url }}" alt="Overview image for The Review That Made Star Gate Hard to Defend | Remote Viewing C54037 Program Shutdown" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_program_shutdown_43abab_air_review_shutdown_fdc553-Illustration-1.webp' | relative_url }}" alt="Overview image for The Review That Made Star Gate Hard to Defend" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">AIR Review</span>
@@ -3466,7 +3466,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-program-shutdown-43abab-viewer-reliability-d-0c1995" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'viewer-reliability/' | relative_url }}" title="When Multiple Viewers Did Not Agree | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Multiple Viewers Did Not Agree | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_program_shutdown_43abab_viewer_reliability_d_0c1995-Illustration-1.webp' | relative_url }}" alt="Overview image for When Multiple Viewers Did Not Agree | Remote Viewing C54037 Program Shutdown" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_program_shutdown_43abab_viewer_reliability_d_0c1995-Illustration-1.webp' | relative_url }}" alt="Overview image for When Multiple Viewers Did Not Agree" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Viewer Reliability</span>
@@ -3486,7 +3486,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-program-shutdown-43abab-actionable-intellige-ae2787" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'actionable-intel/' | relative_url }}" title="Why 'Actionable Intelligence' Became the Deciding Test | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why 'Actionable Intelligence' Became the Deciding Test | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_program_shutdown_43abab_actionable_intellige_ae2787-Illustration-1.webp' | relative_url }}" alt="Overview image for Why &#x27;Actionable Intelligence&#x27; Became the Deciding Test | Remote Viewing C54037 Program Shutdown" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_program_shutdown_43abab_actionable_intellige_ae2787-Illustration-1.webp' | relative_url }}" alt="Overview image for Why 'Actionable Intelligence' Became the Deciding Test" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Actionable Intel</span>
@@ -3506,7 +3506,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-program-shutdown-43abab-fort-meade-closure-p-9ca401" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'final-budget/' | relative_url }}" title="Why a Small Budget Still Needed Proof | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why a Small Budget Still Needed Proof | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_program_shutdown_43abab_fort_meade_closure_p_9ca401-Illustration-1.webp' | relative_url }}" alt="Overview image for Why a Small Budget Still Needed Proof | Remote Viewing C54037 Program Shutdown" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_program_shutdown_43abab_fort_meade_closure_p_9ca401-Illustration-1.webp' | relative_url }}" alt="Overview image for Why a Small Budget Still Needed Proof" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Final Budget</span>
@@ -3526,7 +3526,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-program-shutdown-43abab-signal-noise-problem-d16515" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'signal-noise/' | relative_url }}" title="Why Correct Details Still Were Not Enough | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Correct Details Still Were Not Enough | Why Remote Viewing Lost Government Support | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_program_shutdown_43abab_signal_noise_problem_d16515-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Correct Details Still Were Not Enough | Remote Viewing C54037 Program Shutdown" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_program_shutdown_43abab_signal_noise_problem_d16515-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Correct Details Still Were Not Enough" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Signal Noise</span>
@@ -3570,7 +3570,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-viewer-sketches-2996c7-sketches-preserve-sh-8b07f7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'sketch-value/' | relative_url }}" title="Can Sketches Say More Than Words? | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?" aria-label="Open page: Can Sketches Say More Than Words? | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_viewer_sketches_2996c7_sketches_preserve_sh_8b07f7-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Sketches Say More Than Words? | Remote Viewing C54037 Viewer Sketches" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_viewer_sketches_2996c7_sketches_preserve_sh_8b07f7-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Sketches Say More Than Words?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Sketch Value</span>
@@ -3590,7 +3590,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-viewer-sketches-2996c7-photo-targets-decoy-32ab32" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-targets/' | relative_url }}" title="How Decoys Tested Remote Viewing Sketches | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?" aria-label="Open page: How Decoys Tested Remote Viewing Sketches | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_viewer_sketches_2996c7_photo_targets_decoy_32ab32-Illustration-1.webp' | relative_url }}" alt="Overview image for How Decoys Tested Remote Viewing Sketches | Remote Viewing C54037 Viewer Sketches" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_viewer_sketches_2996c7_photo_targets_decoy_32ab32-Illustration-1.webp' | relative_url }}" alt="Overview image for How Decoys Tested Remote Viewing Sketches" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Photo Targets</span>
@@ -3610,7 +3610,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-viewer-sketches-2996c7-rinconada-mixed-hit-b9acb7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rinconada/' | relative_url }}" title="The Pool Case That Cuts Both Ways | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Pool Case That Cuts Both Ways | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_viewer_sketches_2996c7_rinconada_mixed_hit_b9acb7-Illustration-1.webp' | relative_url }}" alt="Overview image for The Pool Case That Cuts Both Ways | Remote Viewing C54037 Viewer Sketches" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_viewer_sketches_2996c7_rinconada_mixed_hit_b9acb7-Illustration-1.webp' | relative_url }}" alt="Overview image for The Pool Case That Cuts Both Ways" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Rinconada</span>
@@ -3630,7 +3630,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-viewer-sketches-2996c7-blind-judging-sketch-ddc1dd" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'judging-rules/' | relative_url }}" title="When Does a Sketch Count as Evidence? | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Does a Sketch Count as Evidence? | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_viewer_sketches_2996c7_blind_judging_sketch_ddc1dd-Illustration-1.webp' | relative_url }}" alt="Overview image for When Does a Sketch Count as Evidence? | Remote Viewing C54037 Viewer Sketches" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_viewer_sketches_2996c7_blind_judging_sketch_ddc1dd-Illustration-1.webp' | relative_url }}" alt="Overview image for When Does a Sketch Count as Evidence?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Judging Rules</span>
@@ -3650,7 +3650,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-viewer-sketches-2996c7-raw-impressions-vs-l-bccf15" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'raw-notes/' | relative_url }}" title="Why First Impressions Can Beat Confident Labels | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why First Impressions Can Beat Confident Labels | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_viewer_sketches_2996c7_raw_impressions_vs_l_bccf15-Illustration-1.webp' | relative_url }}" alt="Overview image for Why First Impressions Can Beat Confident Labels | Remote Viewing C54037 Viewer Sketches" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_viewer_sketches_2996c7_raw_impressions_vs_l_bccf15-Illustration-1.webp' | relative_url }}" alt="Overview image for Why First Impressions Can Beat Confident Labels" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Raw Notes</span>
@@ -3670,7 +3670,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-viewer-sketches-2996c7-simple-marks-retrofi-582ca0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'retrofit-risk/' | relative_url }}" title="Why One Circle Can Match Too Much | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why One Circle Can Match Too Much | What Remote Viewing Sketches Can and Cannot Show | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_viewer_sketches_2996c7_simple_marks_retrofi_582ca0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Circle Can Match Too Much | Remote Viewing C54037 Viewer Sketches" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_viewer_sketches_2996c7_simple_marks_retrofi_582ca0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Circle Can Match Too Much" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Retrofit Risk</span>
@@ -3714,7 +3714,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-sri-experiments-26c4ca-sensory-cueing-marks-d00977" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'cueing-dispute/' | relative_url }}" title="Could Hidden Clues Explain the Hits? | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?" aria-label="Open page: Could Hidden Clues Explain the Hits? | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_sri_experiments_26c4ca_sensory_cueing_marks_d00977-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Hidden Clues Explain the Hits? | Remote Viewing C54037 Sri Experiments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_sri_experiments_26c4ca_sensory_cueing_marks_d00977-Illustration-1.webp' | relative_url }}" alt="Overview image for Could Hidden Clues Explain the Hits?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Cueing Dispute</span>
@@ -3734,7 +3734,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-sri-experiments-26c4ca-pat-price-judging-abd07a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'pat-price/' | relative_url }}" title="Did Pat Price Really Match the Targets? | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?" aria-label="Open page: Did Pat Price Really Match the Targets? | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_sri_experiments_26c4ca_pat_price_judging_abd07a-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Pat Price Really Match the Targets? | Remote Viewing C54037 Sri Experiments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_sri_experiments_26c4ca_pat_price_judging_abd07a-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Pat Price Really Match the Targets?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Pat Price</span>
@@ -3754,7 +3754,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-sri-experiments-26c4ca-sri-local-targets-006aa6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'local-targets/' | relative_url }}" title="How SRI Made Remote Viewing Testable | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?" aria-label="Open page: How SRI Made Remote Viewing Testable | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_sri_experiments_26c4ca_sri_local_targets_006aa6-Illustration-1.webp' | relative_url }}" alt="Overview image for How SRI Made Remote Viewing Testable | Remote Viewing C54037 Sri Experiments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_sri_experiments_26c4ca_sri_local_targets_006aa6-Illustration-1.webp' | relative_url }}" alt="Overview image for How SRI Made Remote Viewing Testable" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Local Targets</span>
@@ -3774,7 +3774,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-sri-experiments-26c4ca-urdf3-crane-claim-9f264e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'urdf-3/' | relative_url }}" title="The Soviet Crane Claim Behind the Legend | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Soviet Crane Claim Behind the Legend | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_sri_experiments_26c4ca_urdf3_crane_claim_9f264e-Illustration-1.webp' | relative_url }}" alt="Overview image for The Soviet Crane Claim Behind the Legend | Remote Viewing C54037 Sri Experiments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_sri_experiments_26c4ca_urdf3_crane_claim_9f264e-Illustration-1.webp' | relative_url }}" alt="Overview image for The Soviet Crane Claim Behind the Legend" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">URDF 3</span>
@@ -3794,7 +3794,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-sri-experiments-26c4ca-swann-jupiter-sessio-1e0533" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'jupiter-session/' | relative_url }}" title="What Did Ingo Swann Really Predict? | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?" aria-label="Open page: What Did Ingo Swann Really Predict? | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_sri_experiments_26c4ca_swann_jupiter_sessio_1e0533-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did Ingo Swann Really Predict? | Remote Viewing C54037 Sri Experiments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_sri_experiments_26c4ca_swann_jupiter_sessio_1e0533-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did Ingo Swann Really Predict?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Jupiter Session</span>
@@ -3814,7 +3814,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-sri-experiments-26c4ca-nature-paper-afterli-11c97d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'nature-paper/' | relative_url }}" title="Why One Nature Paper Changed Remote Viewing | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why One Nature Paper Changed Remote Viewing | The Experiments That Made Remote Viewing Famous | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_sri_experiments_26c4ca_nature_paper_afterli_11c97d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Nature Paper Changed Remote Viewing | Remote Viewing C54037 Sri Experiments" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_sri_experiments_26c4ca_nature_paper_afterli_11c97d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Nature Paper Changed Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Nature Paper</span>
@@ -3836,7 +3836,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-remote-viewing-c54037-stargate-program-7bc3fb" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'stargate/' | relative_url }}" title="Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_stargate_program_7bc3fb-overview.webp' | relative_url }}" alt="Overview image for Why the Government Tested Psychic Spying | Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_stargate_program_7bc3fb-overview.webp' | relative_url }}" alt="Overview image for Why the Government Tested Psychic Spying" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Stargate</span>
@@ -3858,7 +3858,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-stargate-program-7bc3fb-utts-hyman-dispute-2195c3" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'expert-dispute/' | relative_url }}" title="Did the Evidence Prove Anything Paranormal? | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?" aria-label="Open page: Did the Evidence Prove Anything Paranormal? | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_stargate_program_7bc3fb_utts_hyman_dispute_2195c3-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Evidence Prove Anything Paranormal? | Remote Viewing C54037 Stargate Program" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_stargate_program_7bc3fb_utts_hyman_dispute_2195c3-Illustration-1.webp' | relative_url }}" alt="Overview image for Did the Evidence Prove Anything Paranormal?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Expert Dispute</span>
@@ -3878,7 +3878,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-stargate-program-7bc3fb-sri-saic-lab-evidenc-c4066c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lab-evidence/' | relative_url }}" title="What Did the Lab Tests Actually Show? | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?" aria-label="Open page: What Did the Lab Tests Actually Show? | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_stargate_program_7bc3fb_sri_saic_lab_evidenc_c4066c-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did the Lab Tests Actually Show? | Remote Viewing C54037 Stargate Program" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_stargate_program_7bc3fb_sri_saic_lab_evidenc_c4066c-Illustration-1.webp' | relative_url }}" alt="Overview image for What Did the Lab Tests Actually Show?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lab Evidence</span>
@@ -3898,7 +3898,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-stargate-program-7bc3fb-cold-war-testing-mot-d08015" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'cold-war-bet/' | relative_url }}" title="Why Did Intelligence Agencies Take This Seriously? | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Did Intelligence Agencies Take This Seriously? | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_stargate_program_7bc3fb_cold_war_testing_mot_d08015-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did Intelligence Agencies Take This Seriously? | Remote Viewing C54037 Stargate Program" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_stargate_program_7bc3fb_cold_war_testing_mot_d08015-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Did Intelligence Agencies Take This Seriously?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Cold War Bet</span>
@@ -3918,7 +3918,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-stargate-program-7bc3fb-photo-targets-intell-a9da9c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-targets-a470b8/' | relative_url }}" title="Why Lab Success Was Hard to Use | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Lab Success Was Hard to Use | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_stargate_program_7bc3fb_photo_targets_intell_a9da9c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Lab Success Was Hard to Use | Remote Viewing C54037 Stargate Program" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_stargate_program_7bc3fb_photo_targets_intell_a9da9c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Lab Success Was Hard to Use" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Photo Targets</span>
@@ -3938,7 +3938,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-stargate-program-7bc3fb-operational-reports-c2bd16" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'vague-reports/' | relative_url }}" title="Why Psychic Spying Did Not Become Actionable | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Psychic Spying Did Not Become Actionable | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_stargate_program_7bc3fb_operational_reports_c2bd16-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Psychic Spying Did Not Become Actionable | Remote Viewing C54037 Stargate Program" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_stargate_program_7bc3fb_operational_reports_c2bd16-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Psychic Spying Did Not Become Actionable" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Vague Reports</span>
@@ -3958,7 +3958,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-stargate-program-7bc3fb-agencies-code-names-32bb31" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'code-names-a9eef2/' | relative_url }}" title="Why Stargate Was Not One Neat Programme | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Stargate Was Not One Neat Programme | Why the Government Tested Psychic Spying | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_stargate_program_7bc3fb_agencies_code_names_32bb31-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Stargate Was Not One Neat Programme | Remote Viewing C54037 Stargate Program" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_stargate_program_7bc3fb_agencies_code_names_32bb31-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Stargate Was Not One Neat Programme" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Code Names</span>
@@ -3980,7 +3980,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-remote-viewing-c54037-statistics-vs-proof-189f52" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'statistics/' | relative_url }}" title="What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?" aria-label="Open page: What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_statistics_vs_proof_189f52-overview.webp' | relative_url }}" alt="Overview image for What Above Chance Results Really Mean | Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_statistics_vs_proof_189f52-overview.webp' | relative_url }}" alt="Overview image for What Above Chance Results Really Mean" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Statistics</span>
@@ -4002,7 +4002,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-statistics-vs-proof-189f52-above-chance-actiona-25857b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'actionable-info-89412f/' | relative_url }}" title="Can Remote Viewing Ever Be Actionable? | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?" aria-label="Open page: Can Remote Viewing Ever Be Actionable? | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_above_chance_actiona_25857b-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Remote Viewing Ever Be Actionable? | Remote Viewing C54037 Statistics Vs Proof" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_above_chance_actiona_25857b-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Remote Viewing Ever Be Actionable?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Actionable Info</span>
@@ -4022,7 +4022,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-statistics-vs-proof-189f52-replication-after-ut-aa40c9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'replication-1c6a4d/' | relative_url }}" title="What Would Count as Strong Replication? | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?" aria-label="Open page: What Would Count as Strong Replication? | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_replication_after_ut_aa40c9-Illustration-1.webp' | relative_url }}" alt="Overview image for What Would Count as Strong Replication? | Remote Viewing C54037 Statistics Vs Proof" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_replication_after_ut_aa40c9-Illustration-1.webp' | relative_url }}" alt="Overview image for What Would Count as Strong Replication?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Replication</span>
@@ -4042,7 +4042,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-statistics-vs-proof-189f52-effect-size-translat-e703a8" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'effect-size/' | relative_url }}" title="When a Small Effect Is Still Not Useful | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?" aria-label="Open page: When a Small Effect Is Still Not Useful | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_effect_size_translat_e703a8-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Small Effect Is Still Not Useful | Remote Viewing C54037 Statistics Vs Proof" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_effect_size_translat_e703a8-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Small Effect Is Still Not Useful" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Effect Size</span>
@@ -4062,7 +4062,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-statistics-vs-proof-189f52-low-p-values-not-pro-df8e9d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'p-values/' | relative_url }}" title="Why Better Than Chance Is Not Proof | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Better Than Chance Is Not Proof | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_low_p_values_not_pro_df8e9d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Better Than Chance Is Not Proof | Remote Viewing C54037 Statistics Vs Proof" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_low_p_values_not_pro_df8e9d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Better Than Chance Is Not Proof" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">P Values</span>
@@ -4082,7 +4082,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-statistics-vs-proof-189f52-air-review-operation-684a7e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'air-review-07ed9d/' | relative_url }}" title="Why the Government Still Walked Away | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why the Government Still Walked Away | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_air_review_operation_684a7e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Government Still Walked Away | Remote Viewing C54037 Statistics Vs Proof" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_air_review_operation_684a7e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Government Still Walked Away" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">AIR Review</span>
@@ -4102,7 +4102,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-statistics-vs-proof-189f52-subjective-matching-209c2b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'matching/' | relative_url }}" title="Why Vague Hits Can Look Strong | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Vague Hits Can Look Strong | What Above Chance Results Really Mean | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_subjective_matching_209c2b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vague Hits Can Look Strong | Remote Viewing C54037 Statistics Vs Proof" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_subjective_matching_209c2b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vague Hits Can Look Strong" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Matching</span>
@@ -4146,7 +4146,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-targ-puthoff-legacy-be1e3f-cia-proof-misconcept-6abfe2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'cia-interest/' | relative_url }}" title="Did CIA Interest Prove Remote Viewing Worked? | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?" aria-label="Open page: Did CIA Interest Prove Remote Viewing Worked? | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_cia_proof_misconcept_6abfe2-Illustration-1.webp' | relative_url }}" alt="Overview image for Did CIA Interest Prove Remote Viewing Worked? | Remote Viewing C54037 Targ Puthoff Legacy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_cia_proof_misconcept_6abfe2-Illustration-1.webp' | relative_url }}" alt="Overview image for Did CIA Interest Prove Remote Viewing Worked?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">CIA Interest</span>
@@ -4166,7 +4166,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-targ-puthoff-legacy-be1e3f-physics-authority-pr-36faa4" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'authority-problem/' | relative_url }}" title="Did Physics Credentials Make Remote Viewing Credible? | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?" aria-label="Open page: Did Physics Credentials Make Remote Viewing Credible? | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_physics_authority_pr_36faa4-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Physics Credentials Make Remote Viewing Credible? | Remote Viewing C54037 Targ Puthoff Legacy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_physics_authority_pr_36faa4-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Physics Credentials Make Remote Viewing Credible?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Authority Problem</span>
@@ -4186,7 +4186,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-targ-puthoff-legacy-be1e3f-mind-reach-popular-i-0d121f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'mind-reach/' | relative_url }}" title="How Mind Reach Sold Remote Viewing to Readers | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?" aria-label="Open page: How Mind Reach Sold Remote Viewing to Readers | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_mind_reach_popular_i_0d121f-Illustration-1.webp' | relative_url }}" alt="Overview image for How Mind Reach Sold Remote Viewing to Readers | Remote Viewing C54037 Targ Puthoff Legacy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_mind_reach_popular_i_0d121f-Illustration-1.webp' | relative_url }}" alt="Overview image for How Mind Reach Sold Remote Viewing to Readers" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Mind Reach</span>
@@ -4206,7 +4206,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-targ-puthoff-legacy-be1e3f-sri-stargate-legacy-dc0d49" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'legacy-chain/' | relative_url }}" title="How SRI Became the Remote Viewing Origin Story | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?" aria-label="Open page: How SRI Became the Remote Viewing Origin Story | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_sri_stargate_legacy_dc0d49-Illustration-1.webp' | relative_url }}" alt="Overview image for How SRI Became the Remote Viewing Origin Story | Remote Viewing C54037 Targ Puthoff Legacy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_sri_stargate_legacy_dc0d49-Illustration-1.webp' | relative_url }}" alt="Overview image for How SRI Became the Remote Viewing Origin Story" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Legacy Chain</span>
@@ -4226,7 +4226,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-targ-puthoff-legacy-be1e3f-viewer-language-trai-bfd0d7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'viewer-language/' | relative_url }}" title="Why Calling Psychics 'Viewers' Changed the Story | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Calling Psychics 'Viewers' Changed the Story | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_viewer_language_trai_bfd0d7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Calling Psychics &#x27;Viewers&#x27; Changed the Story | Remote Viewing C54037 Targ Puthoff Legacy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_viewer_language_trai_bfd0d7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Calling Psychics 'Viewers' Changed the Story" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Viewer Language</span>
@@ -4246,7 +4246,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-targ-puthoff-legacy-be1e3f-geller-public-backla-8b01a6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'geller-testing/' | relative_url }}" title="Why Uri Geller Made SRI More Controversial | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Uri Geller Made SRI More Controversial | The Physicists Behind Remote Viewing's Rise | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_geller_public_backla_8b01a6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Uri Geller Made SRI More Controversial | Remote Viewing C54037 Targ Puthoff Legacy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_geller_public_backla_8b01a6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Uri Geller Made SRI More Controversial" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Geller Testing</span>
@@ -4268,7 +4268,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-remote-viewing-c54037-target-types-9f606e" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'targets/' | relative_url }}" title="What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?" aria-label="Open page: What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_target_types_9f606e-overview.webp' | relative_url }}" alt="Overview image for What Remote Viewers Try to Describe | Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_target_types_9f606e-overview.webp' | relative_url }}" alt="Overview image for What Remote Viewers Try to Describe" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Targets</span>
@@ -4290,7 +4290,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-target-types-9f606e-future-targets-displ-16756e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'future-targets-8e4634/' | relative_url }}" title="Can a Target Be Chosen Later? | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?" aria-label="Open page: Can a Target Be Chosen Later? | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_target_types_9f606e_future_targets_displ_16756e-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Target Be Chosen Later? | Remote Viewing C54037 Target Types" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_target_types_9f606e_future_targets_displ_16756e-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Target Be Chosen Later?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Future Targets</span>
@@ -4310,7 +4310,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-target-types-9f606e-photo-target-pools-615bfb" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-pools/' | relative_url }}" title="Did Photo Targets Make Results Cleaner? | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?" aria-label="Open page: Did Photo Targets Make Results Cleaner? | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_target_types_9f606e_photo_target_pools_615bfb-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Photo Targets Make Results Cleaner? | Remote Viewing C54037 Target Types" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_target_types_9f606e_photo_target_pools_615bfb-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Photo Targets Make Results Cleaner?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Photo Pools</span>
@@ -4330,7 +4330,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-target-types-9f606e-hammid-judging-clues-ce7123" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hammid-clues/' | relative_url }}" title="The Target Clues Hidden in Transcripts | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?" aria-label="Open page: The Target Clues Hidden in Transcripts | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_target_types_9f606e_hammid_judging_clues_ce7123-Illustration-1.webp' | relative_url }}" alt="Overview image for The Target Clues Hidden in Transcripts | Remote Viewing C54037 Target Types" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_target_types_9f606e_hammid_judging_clues_ce7123-Illustration-1.webp' | relative_url }}" alt="Overview image for The Target Clues Hidden in Transcripts" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hammid Clues</span>
@@ -4350,7 +4350,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-target-types-9f606e-target-pool-bandwidt-16ad1a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'pool-bandwidth/' | relative_url }}" title="When Target Pools Tilt the Test | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Target Pools Tilt the Test | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_target_types_9f606e_target_pool_bandwidt_16ad1a-Illustration-1.webp' | relative_url }}" alt="Overview image for When Target Pools Tilt the Test | Remote Viewing C54037 Target Types" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_target_types_9f606e_target_pool_bandwidt_16ad1a-Illustration-1.webp' | relative_url }}" alt="Overview image for When Target Pools Tilt the Test" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Pool Bandwidth</span>
@@ -4370,7 +4370,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-target-types-9f606e-object-target-scorin-968f89" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'object-targets/' | relative_url }}" title="Why Hidden Objects Were Not Simple | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Hidden Objects Were Not Simple | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_target_types_9f606e_object_target_scorin_968f89-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Hidden Objects Were Not Simple | Remote Viewing C54037 Target Types" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_target_types_9f606e_object_target_scorin_968f89-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Hidden Objects Were Not Simple" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Object Targets</span>
@@ -4390,7 +4390,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-target-types-9f606e-real-site-leakage-b47958" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'real-sites/' | relative_url }}" title="Why Real Places Made Testing Harder | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Real Places Made Testing Harder | What Remote Viewers Try to Describe | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_target_types_9f606e_real_site_leakage_b47958-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Real Places Made Testing Harder | Remote Viewing C54037 Target Types" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_target_types_9f606e_real_site_leakage_b47958-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Real Places Made Testing Harder" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Real Sites</span>
@@ -4412,7 +4412,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-remote-viewing-c54037-utts-statistical-cla-2af604" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'utts-review/' | relative_url }}" title="Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_utts_statistical_cla_2af604-overview.webp' | relative_url }}" alt="Overview image for Why Some Statisticians Took Results Seriously | Remote Viewing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_utts_statistical_cla_2af604-overview.webp' | relative_url }}" alt="Overview image for Why Some Statisticians Took Results Seriously" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Utts Review</span>
@@ -4434,7 +4434,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-utts-statistical-cla-2af604-experienced-vs-novic-be051a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'viewers-7e0a9f/' | relative_url }}" title="Did Practice Make Remote Viewing Stronger? | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?" aria-label="Open page: Did Practice Make Remote Viewing Stronger? | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_experienced_vs_novic_be051a-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Practice Make Remote Viewing Stronger? | Remote Viewing C54037 Utts Statistical Cla" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_experienced_vs_novic_be051a-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Practice Make Remote Viewing Stronger?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Viewers</span>
@@ -4454,7 +4454,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-utts-statistical-cla-2af604-small-effect-sizes-8ec30b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'effect-sizes/' | relative_url }}" title="How Small Effects Became a Big Argument | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?" aria-label="Open page: How Small Effects Became a Big Argument | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_small_effect_sizes_8ec30b-Illustration-1.webp' | relative_url }}" alt="Overview image for How Small Effects Became a Big Argument | Remote Viewing C54037 Utts Statistical Cla" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_small_effect_sizes_8ec30b-Illustration-1.webp' | relative_url }}" alt="Overview image for How Small Effects Became a Big Argument" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Effect Sizes</span>
@@ -4474,7 +4474,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-utts-statistical-cla-2af604-significance-vs-proo-e0bf07" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'significance/' | relative_url }}" title="When Significant Numbers Still Fall Short | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?" aria-label="Open page: When Significant Numbers Still Fall Short | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_significance_vs_proo_e0bf07-Illustration-1.webp' | relative_url }}" alt="Overview image for When Significant Numbers Still Fall Short | Remote Viewing C54037 Utts Statistical Cla" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_significance_vs_proo_e0bf07-Illustration-1.webp' | relative_url }}" alt="Overview image for When Significant Numbers Still Fall Short" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Significance</span>
@@ -4494,7 +4494,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-utts-statistical-cla-2af604-ganzfeld-comparison-281a73" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'ganzfeld/' | relative_url }}" title="Why Ganzfeld Studies Entered the Debate | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Ganzfeld Studies Entered the Debate | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_ganzfeld_comparison_281a73-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Ganzfeld Studies Entered the Debate | Remote Viewing C54037 Utts Statistical Cla" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_ganzfeld_comparison_281a73-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Ganzfeld Studies Entered the Debate" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Ganzfeld</span>
@@ -4514,7 +4514,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-utts-statistical-cla-2af604-lab-scores-vs-intell-5d3a0c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'usefulness-de1206/' | relative_url }}" title="Why Lab Hits Did Not Become Intelligence | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Lab Hits Did Not Become Intelligence | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_lab_scores_vs_intell_5d3a0c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Lab Hits Did Not Become Intelligence | Remote Viewing C54037 Utts Statistical Cla" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_lab_scores_vs_intell_5d3a0c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Lab Hits Did Not Become Intelligence" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Usefulness</span>
@@ -4534,7 +4534,7 @@ site_image_description: A person sits at a plain desk sketching impressions besi
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-remote-viewing-c54037-utts-statistical-cla-2af604-saic-static-targets-90eba0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'static-targets/' | relative_url }}" title="Why Photos Scored Better Than Videos | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?" aria-label="Open page: Why Photos Scored Better Than Videos | Why Some Statisticians Took Results Seriously | Did Psychic Spying Ever Really Work?">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_saic_static_targets_90eba0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Photos Scored Better Than Videos | Remote Viewing C54037 Utts Statistical Cla" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_saic_static_targets_90eba0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Photos Scored Better Than Videos" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Static Targets</span>
