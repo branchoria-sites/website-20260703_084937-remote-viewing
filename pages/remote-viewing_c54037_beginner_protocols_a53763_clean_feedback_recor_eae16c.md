@@ -266,6 +266,7 @@ next_link:
   short_title: Decoy Judging
   heading_title: Would Your Notes Fit Other Targets Too?
 date: '2026-07-03 08:43:02 '
+last_modified_at: '2026-07-03 08:43:02 '
 header:
   og_image: /assets/images/remote-viewing_c54037_beginner_protocols_a53763_clean_feedback_recor_eae16c-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_beginner_protocols_a53763_clean_feedback_recor_eae16c-Illustration-1.webp

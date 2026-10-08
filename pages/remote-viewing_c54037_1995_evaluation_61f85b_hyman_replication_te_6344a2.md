@@ -272,6 +272,7 @@ next_link:
   short_title: Utts Claim
   heading_title: How a Positive Finding Still Lost Funding
 date: '2026-07-03 08:41:47 '
+last_modified_at: '2026-07-03 08:41:47 '
 header:
   og_image: /assets/images/remote-viewing_c54037_1995_evaluation_61f85b_hyman_replication_te_6344a2-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_1995_evaluation_61f85b_hyman_replication_te_6344a2-Illustration-1.webp

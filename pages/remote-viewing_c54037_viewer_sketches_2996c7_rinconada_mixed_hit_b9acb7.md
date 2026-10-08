@@ -272,6 +272,7 @@ next_link:
   short_title: Sketch Value
   heading_title: Can Sketches Say More Than Words?
 date: '2026-07-03 08:41:45 '
+last_modified_at: '2026-07-03 08:41:45 '
 header:
   og_image: /assets/images/remote-viewing_c54037_viewer_sketches_2996c7_rinconada_mixed_hit_b9acb7-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_viewer_sketches_2996c7_rinconada_mixed_hit_b9acb7-Illustration-1.webp

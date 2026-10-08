@@ -272,6 +272,7 @@ next_link:
   short_title: Feedback Gaps
   heading_title: The Problem With No Feedback
 date: '2026-07-03 08:42:52 '
+last_modified_at: '2026-07-03 08:42:52 '
 header:
   og_image: /assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_accurate_fragments_b_ee7a0d-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_accurate_fragments_b_ee7a0d-Illustration-1.webp

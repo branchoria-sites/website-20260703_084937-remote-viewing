@@ -272,6 +272,7 @@ next_link:
   short_title: Monomethod Bias
   heading_title: When One Lab Setup Does Too Much Work
 date: '2026-07-03 08:42:27 '
+last_modified_at: '2026-07-03 08:42:27 '
 header:
   og_image: /assets/images/remote-viewing_c54037_saic_experiments_cc6edf_independent_judges_r_6d173c-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_saic_experiments_cc6edf_independent_judges_r_6d173c-Illustration-1.webp

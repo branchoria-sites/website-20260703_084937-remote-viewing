@@ -266,6 +266,7 @@ prev_link:
   short_title: Raw Notes
   heading_title: Why First Impressions Beat Clever Guesses
 date: '2026-07-03 08:42:41 '
+last_modified_at: '2026-07-03 08:42:41 '
 header:
   og_image: /assets/images/remote-viewing_c54037_beginner_protocols_a53763_random_target_pools_9827a9-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_beginner_protocols_a53763_random_target_pools_9827a9-Illustration-1.webp

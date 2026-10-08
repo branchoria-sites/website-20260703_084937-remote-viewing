@@ -272,6 +272,7 @@ next_link:
   short_title: Rank Judging
   heading_title: Can Five Targets Make Psychic Claims Testable?
 date: '2026-07-03 08:42:28 '
+last_modified_at: '2026-07-03 08:42:28 '
 header:
   og_image: /assets/images/remote-viewing_c54037_saic_experiments_cc6edf_saic_monomethod_bias_0b8c84-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_saic_experiments_cc6edf_saic_monomethod_bias_0b8c84-Illustration-1.webp

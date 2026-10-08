@@ -266,6 +266,7 @@ prev_link:
   short_title: Story Bias
   heading_title: Why the Story Wins First
 date: '2026-07-03 08:42:37 '
+last_modified_at: '2026-07-03 08:42:37 '
 header:
   og_image: /assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_water_nearby_matches_2dd9c4-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_water_nearby_matches_2dd9c4-Illustration-1.webp

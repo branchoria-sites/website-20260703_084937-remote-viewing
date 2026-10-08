@@ -266,6 +266,7 @@ next_link:
   short_title: Bad Leads
   heading_title: When Correct Details Still Mislead
 date: '2026-07-03 08:42:54 '
+last_modified_at: '2026-07-03 08:42:54 '
 header:
   og_image: /assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_air_operational_warn_0bae14-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_air_operational_warn_0bae14-Illustration-1.webp

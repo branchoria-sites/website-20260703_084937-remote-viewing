@@ -266,6 +266,7 @@ next_link:
   short_title: Checkable Claims
   heading_title: Which Details Can Actually Be Checked?
 date: '2026-07-03 08:43:37 '
+last_modified_at: '2026-07-03 08:43:37 '
 header:
   og_image: /assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_air_review_calibrati_5fa992-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_air_review_calibrati_5fa992-Illustration-1.webp

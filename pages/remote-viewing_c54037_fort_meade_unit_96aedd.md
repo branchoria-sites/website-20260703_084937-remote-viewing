@@ -440,6 +440,7 @@ next_link:
   short_title: Future Targets
   heading_title: Can Remote Viewing Claim the Future?
 date: '2026-07-03 08:40:33 '
+last_modified_at: '2026-07-03 08:40:33 '
 header:
   og_image: /assets/images/remote-viewing_c54037_fort_meade_unit_96aedd-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_fort_meade_unit_96aedd-overview.webp

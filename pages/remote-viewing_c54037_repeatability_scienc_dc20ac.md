@@ -440,6 +440,7 @@ next_link:
   short_title: SAIC Tests
   heading_title: The Later Tests Behind the 1995 Debate
 date: '2026-07-03 08:41:00 '
+last_modified_at: '2026-07-03 08:41:00 '
 header:
   og_image: /assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac-overview.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Photo Targets
   heading_title: How Decoys Tested Remote Viewing Sketches
 date: '2026-07-03 08:42:08 '
+last_modified_at: '2026-07-03 08:42:08 '
 header:
   og_image: /assets/images/remote-viewing_c54037_viewer_sketches_2996c7_blind_judging_sketch_ddc1dd-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_viewer_sketches_2996c7_blind_judging_sketch_ddc1dd-Illustration-1.webp

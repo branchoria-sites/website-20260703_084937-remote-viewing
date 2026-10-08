@@ -440,6 +440,7 @@ next_link:
   short_title: Meaning
   heading_title: What Remote Viewing Actually Claims
 date: '2026-07-03 08:40:58 '
+last_modified_at: '2026-07-03 08:40:58 '
 header:
   og_image: /assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f-overview.webp

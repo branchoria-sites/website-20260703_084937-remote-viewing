@@ -272,6 +272,7 @@ next_link:
   short_title: Preregistration
   heading_title: Lock the Rules Before the Reveal
 date: '2026-07-03 08:42:12 '
+last_modified_at: '2026-07-03 08:42:12 '
 header:
   og_image: /assets/images/remote-viewing_c54037_fair_test_design_3c771f_feedback_timing_carr_155e64-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_fair_test_design_3c771f_feedback_timing_carr_155e64-Illustration-1.webp

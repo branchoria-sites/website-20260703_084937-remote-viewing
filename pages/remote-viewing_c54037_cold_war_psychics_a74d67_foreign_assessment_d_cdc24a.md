@@ -272,6 +272,7 @@ next_link:
   short_title: Language Gap
   heading_title: When Strange Words Became Intelligence Signals
 date: '2026-07-03 08:42:48 '
+last_modified_at: '2026-07-03 08:42:48 '
 header:
   og_image: /assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_foreign_assessment_d_cdc24a-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_foreign_assessment_d_cdc24a-Illustration-1.webp

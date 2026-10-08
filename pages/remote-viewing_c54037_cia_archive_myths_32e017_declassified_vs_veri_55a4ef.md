@@ -272,6 +272,7 @@ next_link:
   short_title: Final Review
   heading_title: Why STAR GATE Failed the Intelligence Test
 date: '2026-07-03 08:42:44 '
+last_modified_at: '2026-07-03 08:42:44 '
 header:
   og_image: /assets/images/remote-viewing_c54037_cia_archive_myths_32e017_declassified_vs_veri_55a4ef-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_cia_archive_myths_32e017_declassified_vs_veri_55a4ef-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Viewer Language
   heading_title: Why Calling Psychics 'Viewers' Changed the Story
 date: '2026-07-03 08:43:24 '
+last_modified_at: '2026-07-03 08:43:24 '
 header:
   og_image: /assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_mind_reach_popular_i_0d121f-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_mind_reach_popular_i_0d121f-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: AIR Review
   heading_title: What Did the 1995 Review Actually Examine?
 date: '2026-07-03 08:41:46 '
+last_modified_at: '2026-07-03 08:41:46 '
 header:
   og_image: /assets/images/remote-viewing_c54037_1995_evaluation_61f85b_actionable_intellige_26d9b7-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_1995_evaluation_61f85b_actionable_intellige_26d9b7-Illustration-1.webp

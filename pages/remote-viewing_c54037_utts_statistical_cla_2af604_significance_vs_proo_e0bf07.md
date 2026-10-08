@@ -272,6 +272,7 @@ next_link:
   short_title: Static Targets
   heading_title: Why Photos Scored Better Than Videos
 date: '2026-07-03 08:43:49 '
+last_modified_at: '2026-07-03 08:43:49 '
 header:
   og_image: /assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_significance_vs_proo_e0bf07-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_significance_vs_proo_e0bf07-Illustration-1.webp

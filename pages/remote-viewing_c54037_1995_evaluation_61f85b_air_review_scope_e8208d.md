@@ -272,6 +272,7 @@ next_link:
   short_title: End Users
   heading_title: What Did Intelligence Users Say Went Wrong?
 date: '2026-07-03 08:41:16 '
+last_modified_at: '2026-07-03 08:41:16 '
 header:
   og_image: /assets/images/remote-viewing_c54037_1995_evaluation_61f85b_air_review_scope_e8208d-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_1995_evaluation_61f85b_air_review_scope_e8208d-Illustration-1.webp

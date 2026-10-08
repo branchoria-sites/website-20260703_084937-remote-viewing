@@ -272,6 +272,7 @@ next_link:
   short_title: Usefulness
   heading_title: Why Lab Hits Did Not Become Intelligence
 date: '2026-07-03 08:43:27 '
+last_modified_at: '2026-07-03 08:43:27 '
 header:
   og_image: /assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_saic_static_targets_90eba0-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_saic_static_targets_90eba0-Illustration-1.webp

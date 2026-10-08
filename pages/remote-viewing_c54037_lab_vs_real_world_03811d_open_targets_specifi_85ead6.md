@@ -272,6 +272,7 @@ next_link:
   short_title: Photo Targets
   heading_title: Photo Matching Is Not Field Accuracy
 date: '2026-07-03 08:42:57 '
+last_modified_at: '2026-07-03 08:42:57 '
 header:
   og_image: /assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_open_targets_specifi_85ead6-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_open_targets_specifi_85ead6-Illustration-1.webp

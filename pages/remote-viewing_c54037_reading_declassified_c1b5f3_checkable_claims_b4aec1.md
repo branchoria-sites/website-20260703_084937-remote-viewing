@@ -272,6 +272,7 @@ next_link:
   short_title: Declassification
   heading_title: Released Is Not the Same as Proven
 date: '2026-07-03 08:42:24 '
+last_modified_at: '2026-07-03 08:42:24 '
 header:
   og_image: /assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_checkable_claims_b4aec1-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_checkable_claims_b4aec1-Illustration-1.webp

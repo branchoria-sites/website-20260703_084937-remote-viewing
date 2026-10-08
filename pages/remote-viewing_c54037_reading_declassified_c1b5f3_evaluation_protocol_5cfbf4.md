@@ -272,6 +272,7 @@ next_link:
   short_title: Tasking Clues
   heading_title: Was the Target Really Hidden?
 date: '2026-07-03 08:43:15 '
+last_modified_at: '2026-07-03 08:43:15 '
 header:
   og_image: /assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_evaluation_protocol_5cfbf4-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_evaluation_protocol_5cfbf4-Illustration-1.webp

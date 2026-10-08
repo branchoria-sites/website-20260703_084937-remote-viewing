@@ -266,6 +266,7 @@ prev_link:
   short_title: Pre Declared Rules
   heading_title: Why Rules Must Come Before Results
 date: '2026-07-03 08:42:26 '
+last_modified_at: '2026-07-03 08:42:26 '
 header:
   og_image: /assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_replication_gaps_60e717-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_replication_gaps_60e717-Illustration-1.webp

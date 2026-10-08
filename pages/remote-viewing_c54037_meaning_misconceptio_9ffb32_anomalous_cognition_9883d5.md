@@ -272,6 +272,7 @@ next_link:
   short_title: Session Notes
   heading_title: What Remote Viewers Actually Record
 date: '2026-07-03 08:43:15 '
+last_modified_at: '2026-07-03 08:43:15 '
 header:
   og_image: /assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_anomalous_cognition_9883d5-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_anomalous_cognition_9883d5-Illustration-1.webp

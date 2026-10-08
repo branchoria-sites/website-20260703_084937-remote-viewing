@@ -272,6 +272,7 @@ next_link:
   short_title: Blind Judging
   heading_title: Can Blind Judges Separate Hits From Hindsight?
 date: '2026-07-03 08:41:56 '
+last_modified_at: '2026-07-03 08:41:56 '
 header:
   og_image: /assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_subjective_validatio_cfdc0c-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_subjective_validatio_cfdc0c-Illustration-1.webp

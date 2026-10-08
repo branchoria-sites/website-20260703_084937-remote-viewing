@@ -272,6 +272,7 @@ next_link:
   short_title: Foreign Watch
   heading_title: Why Watching the Soviets Changed the Test
 date: '2026-07-03 08:42:47 '
+last_modified_at: '2026-07-03 08:42:47 '
 header:
   og_image: /assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_fear_surprise_fundin_0039f5-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_fear_surprise_fundin_0039f5-Illustration-1.webp

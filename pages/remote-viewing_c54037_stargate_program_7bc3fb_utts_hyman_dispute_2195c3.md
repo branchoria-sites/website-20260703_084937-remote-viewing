@@ -272,6 +272,7 @@ next_link:
   short_title: Lab Evidence
   heading_title: What Did the Lab Tests Actually Show?
 date: '2026-07-03 08:41:43 '
+last_modified_at: '2026-07-03 08:41:43 '
 header:
   og_image: /assets/images/remote-viewing_c54037_stargate_program_7bc3fb_utts_hyman_dispute_2195c3-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_stargate_program_7bc3fb_utts_hyman_dispute_2195c3-Illustration-1.webp

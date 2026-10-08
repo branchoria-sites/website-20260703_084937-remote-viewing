@@ -272,6 +272,7 @@ next_link:
   short_title: Vague Matches
   heading_title: Why Vague Hits Look Better in Hindsight
 date: '2026-07-03 08:43:09 '
+last_modified_at: '2026-07-03 08:43:09 '
 header:
   og_image: /assets/images/remote-viewing_c54037_intelligence_value_ce5153_lab_hits_field_failu_f296e9-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_intelligence_value_ce5153_lab_hits_field_failu_f296e9-Illustration-1.webp

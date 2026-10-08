@@ -272,6 +272,7 @@ next_link:
   short_title: Target Pools
   heading_title: Can Online Targets Really Test Viewers?
 date: '2026-07-03 08:41:40 '
+last_modified_at: '2026-07-03 08:41:40 '
 header:
   og_image: /assets/images/remote-viewing_c54037_popular_culture_e23cba_reddit_diy_practice_06dd42-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_popular_culture_e23cba_reddit_diy_practice_06dd42-Illustration-1.webp

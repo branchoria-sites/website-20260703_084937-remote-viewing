@@ -272,6 +272,7 @@ next_link:
   short_title: Viewer Reliability
   heading_title: When Multiple Viewers Did Not Agree
 date: '2026-07-03 08:42:20 '
+last_modified_at: '2026-07-03 08:42:20 '
 header:
   og_image: /assets/images/remote-viewing_c54037_program_shutdown_43abab_signal_noise_problem_d16515-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_program_shutdown_43abab_signal_noise_problem_d16515-Illustration-1.webp

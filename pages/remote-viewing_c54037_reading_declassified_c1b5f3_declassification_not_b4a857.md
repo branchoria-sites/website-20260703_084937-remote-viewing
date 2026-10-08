@@ -272,6 +272,7 @@ next_link:
   short_title: Scoring
   heading_title: Who Decided It Was a Match?
 date: '2026-07-03 08:43:38 '
+last_modified_at: '2026-07-03 08:43:38 '
 header:
   og_image: /assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_declassification_not_b4a857-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_declassification_not_b4a857-Illustration-1.webp

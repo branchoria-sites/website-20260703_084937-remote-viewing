@@ -440,6 +440,7 @@ next_link:
   short_title: Cold War
   heading_title: The Cold War Fear Behind Remote Viewing
 date: '2026-07-03 08:40:48 '
+last_modified_at: '2026-07-03 08:40:48 '
 header:
   og_image: /assets/images/remote-viewing_c54037_cia_archive_myths_32e017-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_cia_archive_myths_32e017-overview.webp

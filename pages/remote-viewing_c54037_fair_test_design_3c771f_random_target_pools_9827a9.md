@@ -272,6 +272,7 @@ next_link:
   short_title: Triple Blind
   heading_title: Who Really Needs to Be Blind?
 date: '2026-07-03 08:41:47 '
+last_modified_at: '2026-07-03 08:41:47 '
 header:
   og_image: /assets/images/remote-viewing_c54037_fair_test_design_3c771f_random_target_pools_9827a9-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_fair_test_design_3c771f_random_target_pools_9827a9-Illustration-1.webp

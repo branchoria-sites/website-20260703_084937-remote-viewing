@@ -272,6 +272,7 @@ next_link:
   short_title: Lab vs Ops
   heading_title: When Lab Results Meet Real Targets
 date: '2026-07-03 08:41:14 '
+last_modified_at: '2026-07-03 08:41:14 '
 header:
   og_image: /assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_hidden_misses_c38ef1-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_hidden_misses_c38ef1-Illustration-1.webp

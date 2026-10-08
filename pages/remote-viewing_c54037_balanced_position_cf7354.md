@@ -440,6 +440,7 @@ next_link:
   short_title: Pop Culture
   heading_title: Why Remote Viewing Became a Modern Myth
 date: '2026-07-03 08:40:47 '
+last_modified_at: '2026-07-03 08:40:47 '
 header:
   og_image: /assets/images/remote-viewing_c54037_balanced_position_cf7354-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_balanced_position_cf7354-overview.webp

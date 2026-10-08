@@ -440,6 +440,7 @@ next_link:
   short_title: Statistics
   heading_title: What Above Chance Results Really Mean
 date: '2026-07-03 08:40:43 '
+last_modified_at: '2026-07-03 08:40:43 '
 header:
   og_image: /assets/images/remote-viewing_c54037_stargate_program_7bc3fb-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_stargate_program_7bc3fb-overview.webp

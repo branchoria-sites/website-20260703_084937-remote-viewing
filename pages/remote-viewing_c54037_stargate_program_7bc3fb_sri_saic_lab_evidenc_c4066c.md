@@ -272,6 +272,7 @@ next_link:
   short_title: Photo Targets
   heading_title: Why Lab Success Was Hard to Use
 date: '2026-07-03 08:42:33 '
+last_modified_at: '2026-07-03 08:42:33 '
 header:
   og_image: /assets/images/remote-viewing_c54037_stargate_program_7bc3fb_sri_saic_lab_evidenc_c4066c-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_stargate_program_7bc3fb_sri_saic_lab_evidenc_c4066c-Illustration-1.webp

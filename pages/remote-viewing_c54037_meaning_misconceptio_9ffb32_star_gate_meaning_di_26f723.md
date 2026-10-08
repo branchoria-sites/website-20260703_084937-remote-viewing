@@ -266,6 +266,7 @@ prev_link:
   short_title: Session Notes
   heading_title: What Remote Viewers Actually Record
 date: '2026-07-03 08:43:37 '
+last_modified_at: '2026-07-03 08:43:37 '
 header:
   og_image: /assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_star_gate_meaning_di_26f723-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_star_gate_meaning_di_26f723-Illustration-1.webp

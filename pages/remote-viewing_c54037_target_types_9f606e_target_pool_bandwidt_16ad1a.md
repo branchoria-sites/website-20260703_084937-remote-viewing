@@ -272,6 +272,7 @@ next_link:
   short_title: Real Sites
   heading_title: Why Real Places Made Testing Harder
 date: '2026-07-03 08:41:27 '
+last_modified_at: '2026-07-03 08:41:27 '
 header:
   og_image: /assets/images/remote-viewing_c54037_target_types_9f606e_target_pool_bandwidt_16ad1a-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_target_types_9f606e_target_pool_bandwidt_16ad1a-Illustration-1.webp

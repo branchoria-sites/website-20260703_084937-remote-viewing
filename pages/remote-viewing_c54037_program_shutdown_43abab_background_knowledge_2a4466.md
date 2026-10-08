@@ -272,6 +272,7 @@ next_link:
   short_title: Final Budget
   heading_title: Why a Small Budget Still Needed Proof
 date: '2026-07-03 08:42:16 '
+last_modified_at: '2026-07-03 08:42:16 '
 header:
   og_image: /assets/images/remote-viewing_c54037_program_shutdown_43abab_background_knowledge_2a4466-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_program_shutdown_43abab_background_knowledge_2a4466-Illustration-1.webp

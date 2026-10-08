@@ -266,6 +266,7 @@ prev_link:
   short_title: Statistical Hits
   heading_title: When Does a Hit Become Proof?
 date: '2026-07-03 08:42:41 '
+last_modified_at: '2026-07-03 08:42:41 '
 header:
   og_image: /assets/images/remote-viewing_c54037_balanced_position_cf7354_vague_impressions_af_67efd1-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_balanced_position_cf7354_vague_impressions_af_67efd1-Illustration-1.webp

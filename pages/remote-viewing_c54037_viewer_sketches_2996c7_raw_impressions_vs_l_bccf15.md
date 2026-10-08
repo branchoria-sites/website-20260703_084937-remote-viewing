@@ -272,6 +272,7 @@ next_link:
   short_title: Retrofit Risk
   heading_title: Why One Circle Can Match Too Much
 date: '2026-07-03 08:42:09 '
+last_modified_at: '2026-07-03 08:42:09 '
 header:
   og_image: /assets/images/remote-viewing_c54037_viewer_sketches_2996c7_raw_impressions_vs_l_bccf15-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_viewer_sketches_2996c7_raw_impressions_vs_l_bccf15-Illustration-1.webp

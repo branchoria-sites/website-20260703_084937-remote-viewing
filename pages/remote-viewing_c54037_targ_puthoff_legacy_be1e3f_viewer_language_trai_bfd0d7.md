@@ -266,6 +266,7 @@ prev_link:
   short_title: Mind Reach
   heading_title: How Mind Reach Sold Remote Viewing to Readers
 date: '2026-07-03 08:43:26 '
+last_modified_at: '2026-07-03 08:43:26 '
 header:
   og_image: /assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_viewer_language_trai_bfd0d7-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_viewer_language_trai_bfd0d7-Illustration-1.webp

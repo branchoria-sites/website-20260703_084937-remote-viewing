@@ -272,6 +272,7 @@ next_link:
   short_title: Monitor Cues
   heading_title: When Helping Becomes Hinting
 date: '2026-07-03 08:43:04 '
+last_modified_at: '2026-07-03 08:43:04 '
 header:
   og_image: /assets/images/remote-viewing_c54037_beginner_protocols_a53763_first_two_person_ses_54751c-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_beginner_protocols_a53763_first_two_person_ses_54751c-Illustration-1.webp

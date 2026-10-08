@@ -272,6 +272,7 @@ next_link:
   short_title: Secrecy
   heading_title: Did Secrecy Make Stargate More Convincing?
 date: '2026-07-03 08:41:21 '
+last_modified_at: '2026-07-03 08:41:21 '
 header:
   og_image: /assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_detachment_g_unit_5ab04e-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_detachment_g_unit_5ab04e-Illustration-1.webp

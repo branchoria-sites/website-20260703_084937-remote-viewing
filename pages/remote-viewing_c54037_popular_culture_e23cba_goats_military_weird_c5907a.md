@@ -272,6 +272,7 @@ next_link:
   short_title: Reddit Practice
   heading_title: Why People Still Try It Online
 date: '2026-07-03 08:41:52 '
+last_modified_at: '2026-07-03 08:41:52 '
 header:
   og_image: /assets/images/remote-viewing_c54037_popular_culture_e23cba_goats_military_weird_c5907a-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_popular_culture_e23cba_goats_military_weird_c5907a-Illustration-1.webp

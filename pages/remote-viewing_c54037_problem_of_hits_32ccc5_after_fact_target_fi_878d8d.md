@@ -266,6 +266,7 @@ next_link:
   short_title: Barnum Hits
   heading_title: The Psychology Behind Flexible Remote Viewing Hits
 date: '2026-07-03 08:41:54 '
+last_modified_at: '2026-07-03 08:41:54 '
 header:
   og_image: /assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_after_fact_target_fi_878d8d-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_after_fact_target_fi_878d8d-Illustration-1.webp

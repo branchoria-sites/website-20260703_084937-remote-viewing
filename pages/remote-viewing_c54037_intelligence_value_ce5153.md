@@ -440,6 +440,7 @@ next_link:
   short_title: Judging
   heading_title: Why Scoring Remote Viewing Is So Hard
 date: '2026-07-03 08:40:54 '
+last_modified_at: '2026-07-03 08:40:54 '
 header:
   og_image: /assets/images/remote-viewing_c54037_intelligence_value_ce5153-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_intelligence_value_ce5153-overview.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Replication
   heading_title: What Would Count as Strong Replication?
 date: '2026-07-03 08:43:21 '
+last_modified_at: '2026-07-03 08:43:21 '
 header:
   og_image: /assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_low_p_values_not_pro_df8e9d-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_low_p_values_not_pro_df8e9d-Illustration-1.webp

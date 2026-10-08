@@ -272,6 +272,7 @@ next_link:
   short_title: Flexible Match
   heading_title: Why Vague Impressions Can Look Striking
 date: '2026-07-03 08:43:33 '
+last_modified_at: '2026-07-03 08:43:33 '
 header:
   og_image: /assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_failed_duplication_c_851f19-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_failed_duplication_c_851f19-Illustration-1.webp

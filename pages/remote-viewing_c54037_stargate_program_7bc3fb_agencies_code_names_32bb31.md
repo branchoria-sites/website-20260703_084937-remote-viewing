@@ -266,6 +266,7 @@ next_link:
   short_title: Cold War Bet
   heading_title: Why Did Intelligence Agencies Take This Seriously?
 date: '2026-07-03 08:42:07 '
+last_modified_at: '2026-07-03 08:42:07 '
 header:
   og_image: /assets/images/remote-viewing_c54037_stargate_program_7bc3fb_agencies_code_names_32bb31-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_stargate_program_7bc3fb_agencies_code_names_32bb31-Illustration-1.webp

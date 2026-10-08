@@ -272,6 +272,7 @@ next_link:
   short_title: Not Psychic
   heading_title: Is Remote Viewing Just Psychic Reading?
 date: '2026-07-03 08:41:05 '
+last_modified_at: '2026-07-03 08:41:05 '
 header:
   og_image: /assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_esp_types_in_remote_d202ee-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_esp_types_in_remote_d202ee-Illustration-1.webp

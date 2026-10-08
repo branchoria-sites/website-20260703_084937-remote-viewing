@@ -272,6 +272,7 @@ next_link:
   short_title: Meta Analyses
   heading_title: Why the Debate Keeps Coming Back
 date: '2026-07-03 08:42:37 '
+last_modified_at: '2026-07-03 08:42:37 '
 header:
   og_image: /assets/images/remote-viewing_c54037_balanced_position_cf7354_air_review_split_ver_1c05ec-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_balanced_position_cf7354_air_review_split_ver_1c05ec-Illustration-1.webp

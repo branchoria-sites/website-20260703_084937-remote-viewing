@@ -272,6 +272,7 @@ next_link:
   short_title: Psychotronics
   heading_title: Why Psychotronics Worried Western Analysts
 date: '2026-07-03 08:42:49 '
+last_modified_at: '2026-07-03 08:42:49 '
 header:
   og_image: /assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_psychoenergetics_lan_cd0312-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_psychoenergetics_lan_cd0312-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: ESP Types
   heading_title: Which Kind of ESP Is Remote Viewing?
 date: '2026-07-03 08:41:06 '
+last_modified_at: '2026-07-03 08:41:06 '
 header:
   og_image: /assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_before_feedback_reco_b68100-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_rv_vs_esp_1ce106_before_feedback_reco_b68100-Illustration-1.webp

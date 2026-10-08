@@ -440,6 +440,7 @@ next_link:
   short_title: Targets
   heading_title: What Remote Viewers Try to Describe
 date: '2026-07-03 08:40:56 '
+last_modified_at: '2026-07-03 08:40:56 '
 header:
   og_image: /assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f-overview.webp

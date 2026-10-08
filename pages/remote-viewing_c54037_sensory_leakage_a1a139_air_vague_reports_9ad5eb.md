@@ -266,6 +266,7 @@ next_link:
   short_title: Feedback Risk
   heading_title: When Feedback Contaminates the Next Session
 date: '2026-07-03 08:41:21 '
+last_modified_at: '2026-07-03 08:41:21 '
 header:
   og_image: /assets/images/remote-viewing_c54037_sensory_leakage_a1a139_air_vague_reports_9ad5eb-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_sensory_leakage_a1a139_air_vague_reports_9ad5eb-Illustration-1.webp

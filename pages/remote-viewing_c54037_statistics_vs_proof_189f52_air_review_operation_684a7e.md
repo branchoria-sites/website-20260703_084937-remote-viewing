@@ -272,6 +272,7 @@ next_link:
   short_title: Effect Size
   heading_title: When a Small Effect Is Still Not Useful
 date: '2026-07-03 08:43:18 '
+last_modified_at: '2026-07-03 08:43:18 '
 header:
   og_image: /assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_air_review_operation_684a7e-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_air_review_operation_684a7e-Illustration-1.webp

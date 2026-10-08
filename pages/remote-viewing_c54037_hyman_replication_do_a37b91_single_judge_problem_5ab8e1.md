@@ -272,6 +272,7 @@ next_link:
   short_title: Stats Doubt
   heading_title: Why Above Chance Did Not Prove Remote Viewing
 date: '2026-07-03 08:43:30 '
+last_modified_at: '2026-07-03 08:43:30 '
 header:
   og_image: /assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_single_judge_problem_5ab8e1-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_single_judge_problem_5ab8e1-Illustration-1.webp

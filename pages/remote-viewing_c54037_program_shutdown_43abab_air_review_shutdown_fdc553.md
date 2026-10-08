@@ -272,6 +272,7 @@ next_link:
   short_title: Contamination
   heading_title: Did Background Clues Make Hits Look Better?
 date: '2026-07-03 08:41:57 '
+last_modified_at: '2026-07-03 08:41:57 '
 header:
   og_image: /assets/images/remote-viewing_c54037_program_shutdown_43abab_air_review_shutdown_fdc553-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_program_shutdown_43abab_air_review_shutdown_fdc553-Illustration-1.webp

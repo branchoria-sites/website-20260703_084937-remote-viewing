@@ -272,6 +272,7 @@ next_link:
   short_title: Target Pools
   heading_title: When Random Targets Are Not Random Enough
 date: '2026-07-03 08:41:32 '
+last_modified_at: '2026-07-03 08:41:32 '
 header:
   og_image: /assets/images/remote-viewing_c54037_fair_test_design_3c771f_rank_order_judging_a1482c-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_fair_test_design_3c771f_rank_order_judging_a1482c-Illustration-1.webp

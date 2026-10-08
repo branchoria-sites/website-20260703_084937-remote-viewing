@@ -440,6 +440,7 @@ next_link:
   short_title: ESP Compare
   heading_title: Is Remote Viewing Just ESP?
 date: '2026-07-03 08:40:49 '
+last_modified_at: '2026-07-03 08:40:49 '
 header:
   og_image: /assets/images/remote-viewing_c54037_cold_war_psychics_a74d67-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_cold_war_psychics_a74d67-overview.webp

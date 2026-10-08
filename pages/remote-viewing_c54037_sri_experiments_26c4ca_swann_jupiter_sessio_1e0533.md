@@ -272,6 +272,7 @@ next_link:
   short_title: Local Targets
   heading_title: How SRI Made Remote Viewing Testable
 date: '2026-07-03 08:42:06 '
+last_modified_at: '2026-07-03 08:42:06 '
 header:
   og_image: /assets/images/remote-viewing_c54037_sri_experiments_26c4ca_swann_jupiter_sessio_1e0533-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_sri_experiments_26c4ca_swann_jupiter_sessio_1e0533-Illustration-1.webp

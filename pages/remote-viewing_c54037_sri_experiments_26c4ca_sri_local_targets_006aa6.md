@@ -272,6 +272,7 @@ next_link:
   short_title: Nature Paper
   heading_title: Why One Nature Paper Changed Remote Viewing
 date: '2026-07-03 08:41:23 '
+last_modified_at: '2026-07-03 08:41:23 '
 header:
   og_image: /assets/images/remote-viewing_c54037_sri_experiments_26c4ca_sri_local_targets_006aa6-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_sri_experiments_26c4ca_sri_local_targets_006aa6-Illustration-1.webp

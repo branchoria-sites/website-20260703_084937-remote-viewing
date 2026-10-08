@@ -272,6 +272,7 @@ next_link:
   short_title: Rank Judging
   heading_title: Why Decoys Matter More Than Hits
 date: '2026-07-03 08:42:12 '
+last_modified_at: '2026-07-03 08:42:12 '
 header:
   og_image: /assets/images/remote-viewing_c54037_fair_test_design_3c771f_preregistered_rv_tes_1d6e8f-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_fair_test_design_3c771f_preregistered_rv_tes_1d6e8f-Illustration-1.webp

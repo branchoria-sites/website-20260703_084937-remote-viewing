@@ -440,6 +440,7 @@ next_link:
   short_title: Replication
   heading_title: Why Mainstream Science Remains Unconvinced
 date: '2026-07-03 08:40:59 '
+last_modified_at: '2026-07-03 08:40:59 '
 header:
   og_image: /assets/images/remote-viewing_c54037_reading_declassified_c1b5f3-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_reading_declassified_c1b5f3-overview.webp

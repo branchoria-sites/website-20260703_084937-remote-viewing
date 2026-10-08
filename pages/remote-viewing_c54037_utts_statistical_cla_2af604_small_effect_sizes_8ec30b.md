@@ -266,6 +266,7 @@ next_link:
   short_title: Ganzfeld
   heading_title: Why Ganzfeld Studies Entered the Debate
 date: '2026-07-03 08:43:14 '
+last_modified_at: '2026-07-03 08:43:14 '
 header:
   og_image: /assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_small_effect_sizes_8ec30b-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_utts_statistical_cla_2af604_small_effect_sizes_8ec30b-Illustration-1.webp
