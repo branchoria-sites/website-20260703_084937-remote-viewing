@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /remote-viewing-c54037-cold-war/
 description: Focused pages that expand on Cold War.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: remote-viewing_c54037_cold_war_psychics_a74d67
 parent_title: Cold War

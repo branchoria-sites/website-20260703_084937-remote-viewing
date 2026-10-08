@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /remote-viewing-c54037-sri-experiments/
 description: Focused pages that expand on SRI Tests.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: remote-viewing_c54037_sri_experiments_26c4ca
 parent_title: SRI Tests
