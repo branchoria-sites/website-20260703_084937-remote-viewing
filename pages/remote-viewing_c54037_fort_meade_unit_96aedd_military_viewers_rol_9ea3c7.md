@@ -266,6 +266,7 @@ prev_link:
   short_title: Usefulness
   heading_title: Why Striking Impressions Still Failed Analysts
 date: '2026-07-03 08:41:49 '
+last_modified_at: '2026-07-03 08:41:49 '
 header:
   og_image: /assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_military_viewers_rol_9ea3c7-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_military_viewers_rol_9ea3c7-Illustration-1.webp

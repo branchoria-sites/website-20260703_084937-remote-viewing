@@ -266,6 +266,7 @@ next_link:
   short_title: Hammid Clues
   heading_title: The Target Clues Hidden in Transcripts
 date: '2026-07-03 08:41:24 '
+last_modified_at: '2026-07-03 08:41:24 '
 header:
   og_image: /assets/images/remote-viewing_c54037_target_types_9f606e_future_targets_displ_16756e-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_target_types_9f606e_future_targets_displ_16756e-Illustration-1.webp

@@ -266,6 +266,7 @@ prev_link:
   short_title: Lab to Field
   heading_title: Why Lab Hits Did Not Become Field Value
 date: '2026-07-03 08:43:10 '
+last_modified_at: '2026-07-03 08:43:10 '
 header:
   og_image: /assets/images/remote-viewing_c54037_intelligence_value_ce5153_vague_hindsight_matc_867371-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_intelligence_value_ce5153_vague_hindsight_matc_867371-Illustration-1.webp

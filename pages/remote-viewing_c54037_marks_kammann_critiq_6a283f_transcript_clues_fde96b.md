@@ -266,6 +266,7 @@ prev_link:
   short_title: Nature Debate
   heading_title: The Journal Fight Over Cues
 date: '2026-07-03 08:42:14 '
+last_modified_at: '2026-07-03 08:42:14 '
 header:
   og_image: /assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_transcript_clues_fde96b-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_transcript_clues_fde96b-Illustration-1.webp

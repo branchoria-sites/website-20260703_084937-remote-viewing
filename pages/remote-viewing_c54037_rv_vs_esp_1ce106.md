@@ -440,6 +440,7 @@ next_link:
   short_title: Fair Test
   heading_title: What a Strong Remote Viewing Test Needs
 date: '2026-07-03 08:40:26 '
+last_modified_at: '2026-07-03 08:40:26 '
 header:
   og_image: /assets/images/remote-viewing_c54037_rv_vs_esp_1ce106-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_rv_vs_esp_1ce106-overview.webp

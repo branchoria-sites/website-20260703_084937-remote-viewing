@@ -266,6 +266,7 @@ prev_link:
   short_title: Rinconada
   heading_title: The Pool Case That Cuts Both Ways
 date: '2026-07-03 08:42:10 '
+last_modified_at: '2026-07-03 08:42:10 '
 header:
   og_image: /assets/images/remote-viewing_c54037_viewer_sketches_2996c7_sketches_preserve_sh_8b07f7-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_viewer_sketches_2996c7_sketches_preserve_sh_8b07f7-Illustration-1.webp

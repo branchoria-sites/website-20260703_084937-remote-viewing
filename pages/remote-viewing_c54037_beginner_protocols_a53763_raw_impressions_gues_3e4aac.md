@@ -272,6 +272,7 @@ next_link:
   short_title: Target Pools
   heading_title: Can a Target Number Leak the Answer?
 date: '2026-07-03 08:43:06 '
+last_modified_at: '2026-07-03 08:43:06 '
 header:
   og_image: /assets/images/remote-viewing_c54037_beginner_protocols_a53763_raw_impressions_gues_3e4aac-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_beginner_protocols_a53763_raw_impressions_gues_3e4aac-Illustration-1.webp

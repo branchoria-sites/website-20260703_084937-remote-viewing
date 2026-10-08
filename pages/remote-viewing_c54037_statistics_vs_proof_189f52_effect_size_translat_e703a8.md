@@ -272,6 +272,7 @@ next_link:
   short_title: Matching
   heading_title: Why Vague Hits Can Look Strong
 date: '2026-07-03 08:43:19 '
+last_modified_at: '2026-07-03 08:43:19 '
 header:
   og_image: /assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_effect_size_translat_e703a8-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_effect_size_translat_e703a8-Illustration-1.webp

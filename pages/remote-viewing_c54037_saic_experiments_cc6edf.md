@@ -440,6 +440,7 @@ next_link:
   short_title: Shutdown
   heading_title: Why Remote Viewing Lost Government Support
 date: '2026-07-03 08:40:43 '
+last_modified_at: '2026-07-03 08:40:43 '
 header:
   og_image: /assets/images/remote-viewing_c54037_saic_experiments_cc6edf-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_saic_experiments_cc6edf-overview.webp

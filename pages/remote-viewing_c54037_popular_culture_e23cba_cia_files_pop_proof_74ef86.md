@@ -266,6 +266,7 @@ next_link:
   short_title: Goats Story
   heading_title: How Goats Turned Psychic Spies Mainstream
 date: '2026-07-03 08:41:38 '
+last_modified_at: '2026-07-03 08:41:38 '
 header:
   og_image: /assets/images/remote-viewing_c54037_popular_culture_e23cba_cia_files_pop_proof_74ef86-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_popular_culture_e23cba_cia_files_pop_proof_74ef86-Illustration-1.webp

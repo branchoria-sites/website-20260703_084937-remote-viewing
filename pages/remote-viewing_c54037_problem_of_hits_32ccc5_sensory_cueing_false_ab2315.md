@@ -272,6 +272,7 @@ next_link:
   short_title: Vague Hits
   heading_title: Why Vague Impressions Can Feel So Accurate
 date: '2026-07-03 08:41:55 '
+last_modified_at: '2026-07-03 08:41:55 '
 header:
   og_image: /assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_sensory_cueing_false_ab2315-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_problem_of_hits_32ccc5_sensory_cueing_false_ab2315-Illustration-1.webp

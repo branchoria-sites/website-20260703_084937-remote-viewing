@@ -272,6 +272,7 @@ next_link:
   short_title: Replication Gaps
   heading_title: Why Does Remote Viewing Fail to Travel?
 date: '2026-07-03 08:43:16 '
+last_modified_at: '2026-07-03 08:43:16 '
 header:
   og_image: /assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_predeclared_methods_23642c-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_predeclared_methods_23642c-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Jupiter Session
   heading_title: What Did Ingo Swann Really Predict?
 date: '2026-07-03 08:42:05 '
+last_modified_at: '2026-07-03 08:42:05 '
 header:
   og_image: /assets/images/remote-viewing_c54037_sri_experiments_26c4ca_sensory_cueing_marks_d00977-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_sri_experiments_26c4ca_sensory_cueing_marks_d00977-Illustration-1.webp

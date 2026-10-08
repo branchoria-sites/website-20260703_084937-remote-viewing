@@ -272,6 +272,7 @@ next_link:
   short_title: Timing Test
   heading_title: Can a Future Target Anchor an Earlier Session?
 date: '2026-07-03 08:41:37 '
+last_modified_at: '2026-07-03 08:41:37 '
 header:
   og_image: /assets/images/remote-viewing_c54037_future_targets_783060_selective_hits_preco_08dfc2-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_future_targets_783060_selective_hits_preco_08dfc2-Illustration-1.webp

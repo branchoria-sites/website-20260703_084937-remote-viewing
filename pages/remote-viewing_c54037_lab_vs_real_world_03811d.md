@@ -440,6 +440,7 @@ next_link:
   short_title: Leakage
   heading_title: How Ordinary Clues Can Mimic Psychic Hits
 date: '2026-07-03 08:40:49 '
+last_modified_at: '2026-07-03 08:40:49 '
 header:
   og_image: /assets/images/remote-viewing_c54037_lab_vs_real_world_03811d-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_lab_vs_real_world_03811d-overview.webp

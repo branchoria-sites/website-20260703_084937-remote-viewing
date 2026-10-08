@@ -272,6 +272,7 @@ next_link:
   short_title: Water Cue
   heading_title: Why One Vague Detail Can Feel Exact
 date: '2026-07-03 08:41:02 '
+last_modified_at: '2026-07-03 08:41:02 '
 header:
   og_image: /assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_story_bias_98e2a4-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_story_bias_98e2a4-Illustration-1.webp

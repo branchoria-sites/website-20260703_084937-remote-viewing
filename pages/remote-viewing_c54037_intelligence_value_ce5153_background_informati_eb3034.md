@@ -272,6 +272,7 @@ next_link:
   short_title: Blind Alleys
   heading_title: How Bad Clues Could Waste Real Resources
 date: '2026-07-03 08:43:08 '
+last_modified_at: '2026-07-03 08:43:08 '
 header:
   og_image: /assets/images/remote-viewing_c54037_intelligence_value_ce5153_background_informati_eb3034-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_intelligence_value_ce5153_background_informati_eb3034-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Monomethod Bias
   heading_title: When One Method Can Fool a Whole Program
 date: '2026-07-03 08:43:28 '
+last_modified_at: '2026-07-03 08:43:28 '
 header:
   og_image: /assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_experiment_one_reche_f1b4f1-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_experiment_one_reche_f1b4f1-Illustration-1.webp

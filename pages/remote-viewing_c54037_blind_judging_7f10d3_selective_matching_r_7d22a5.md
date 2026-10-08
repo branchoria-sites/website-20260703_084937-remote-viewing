@@ -272,6 +272,7 @@ next_link:
   short_title: Photo Bias
   heading_title: Can One Photo Steal the Signal?
 date: '2026-07-03 08:41:29 '
+last_modified_at: '2026-07-03 08:41:29 '
 header:
   og_image: /assets/images/remote-viewing_c54037_blind_judging_7f10d3_selective_matching_r_7d22a5-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_blind_judging_7f10d3_selective_matching_r_7d22a5-Illustration-1.webp

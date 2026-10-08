@@ -440,6 +440,7 @@ next_link:
   short_title: Intel Value
   heading_title: Why Vague Hits Failed Intelligence Work
 date: '2026-07-03 08:40:56 '
+last_modified_at: '2026-07-03 08:40:56 '
 header:
   og_image: /assets/images/remote-viewing_c54037_hyman_replication_do_a37b91-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_hyman_replication_do_a37b91-overview.webp

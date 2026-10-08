@@ -266,6 +266,7 @@ next_link:
   short_title: AIR Verdict
   heading_title: The Review That Split the Debate
 date: '2026-07-03 08:42:39 '
+last_modified_at: '2026-07-03 08:42:39 '
 header:
   og_image: /assets/images/remote-viewing_c54037_balanced_position_cf7354_operational_intellig_4977c0-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_balanced_position_cf7354_operational_intellig_4977c0-Illustration-1.webp

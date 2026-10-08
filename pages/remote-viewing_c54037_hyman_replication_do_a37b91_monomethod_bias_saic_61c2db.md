@@ -272,6 +272,7 @@ next_link:
   short_title: Rejudging
   heading_title: The First Test Hyman Wanted Run Again
 date: '2026-07-03 08:43:29 '
+last_modified_at: '2026-07-03 08:43:29 '
 header:
   og_image: /assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_monomethod_bias_saic_61c2db-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_monomethod_bias_saic_61c2db-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Chicago Trial
   heading_title: What the Chicago Precognition Trial Really Tested
 date: '2026-07-03 08:41:34 '
+last_modified_at: '2026-07-03 08:41:34 '
 header:
   og_image: /assets/images/remote-viewing_c54037_future_targets_783060_arv_prediction_choic_9e91c6-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_future_targets_783060_arv_prediction_choic_9e91c6-Illustration-1.webp

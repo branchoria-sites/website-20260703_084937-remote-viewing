@@ -272,6 +272,7 @@ next_link:
   short_title: Mars Session
   heading_title: Why the Mars File Cannot Prove Martian History
 date: '2026-07-03 08:42:46 '
+last_modified_at: '2026-07-03 08:42:46 '
 header:
   og_image: /assets/images/remote-viewing_c54037_cia_archive_myths_32e017_uri_geller_selective_05d755-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_cia_archive_myths_32e017_uri_geller_selective_05d755-Illustration-1.webp

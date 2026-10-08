@@ -272,6 +272,7 @@ next_link:
   short_title: Leakage Risks
   heading_title: How Remote Viewing Tests Can Go Wrong
 date: '2026-07-03 08:41:38 '
+last_modified_at: '2026-07-03 08:41:38 '
 header:
   og_image: /assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_hidden_targets_6b744d-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_hidden_targets_6b744d-Illustration-1.webp

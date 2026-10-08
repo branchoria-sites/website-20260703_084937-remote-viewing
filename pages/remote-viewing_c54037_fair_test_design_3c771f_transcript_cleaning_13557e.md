@@ -266,6 +266,7 @@ next_link:
   short_title: Feedback Timing
   heading_title: The Hidden Risk of Early Feedback
 date: '2026-07-03 08:41:48 '
+last_modified_at: '2026-07-03 08:41:48 '
 header:
   og_image: /assets/images/remote-viewing_c54037_fair_test_design_3c771f_transcript_cleaning_13557e-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_fair_test_design_3c771f_transcript_cleaning_13557e-Illustration-1.webp

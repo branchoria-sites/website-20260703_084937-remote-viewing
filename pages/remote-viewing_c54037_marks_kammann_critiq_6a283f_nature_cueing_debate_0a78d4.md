@@ -272,6 +272,7 @@ next_link:
   short_title: Transcript Clues
   heading_title: Could Paperwork Explain the Hits?
 date: '2026-07-03 08:43:34 '
+last_modified_at: '2026-07-03 08:43:34 '
 header:
   og_image: /assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_nature_cueing_debate_0a78d4-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_nature_cueing_debate_0a78d4-Illustration-1.webp

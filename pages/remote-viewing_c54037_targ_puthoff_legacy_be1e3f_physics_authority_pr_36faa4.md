@@ -266,6 +266,7 @@ next_link:
   short_title: CIA Interest
   heading_title: Did CIA Interest Prove Remote Viewing Worked?
 date: '2026-07-03 08:43:25 '
+last_modified_at: '2026-07-03 08:43:25 '
 header:
   og_image: /assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_physics_authority_pr_36faa4-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_physics_authority_pr_36faa4-Illustration-1.webp

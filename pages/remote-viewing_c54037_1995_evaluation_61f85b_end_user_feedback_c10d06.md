@@ -272,6 +272,7 @@ next_link:
   short_title: Lab vs Field
   heading_title: Why Lab Hits Did Not Mean Spycraft Worked
 date: '2026-07-03 08:41:19 '
+last_modified_at: '2026-07-03 08:41:19 '
 header:
   og_image: /assets/images/remote-viewing_c54037_1995_evaluation_61f85b_end_user_feedback_c10d06-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_1995_evaluation_61f85b_end_user_feedback_c10d06-Illustration-1.webp

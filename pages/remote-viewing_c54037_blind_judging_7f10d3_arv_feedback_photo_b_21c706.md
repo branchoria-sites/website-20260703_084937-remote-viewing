@@ -272,6 +272,7 @@ next_link:
   short_title: Rank Order Judging
   heading_title: When a First Place Match Is Not Enough
 date: '2026-07-03 08:41:28 '
+last_modified_at: '2026-07-03 08:41:28 '
 header:
   og_image: /assets/images/remote-viewing_c54037_blind_judging_7f10d3_arv_feedback_photo_b_21c706-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_blind_judging_7f10d3_arv_feedback_photo_b_21c706-Illustration-1.webp

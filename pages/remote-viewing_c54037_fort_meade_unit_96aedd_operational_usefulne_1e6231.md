@@ -272,6 +272,7 @@ next_link:
   short_title: Viewers
   heading_title: Who Were the Military Viewers?
 date: '2026-07-03 08:41:50 '
+last_modified_at: '2026-07-03 08:41:50 '
 header:
   og_image: /assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_operational_usefulne_1e6231-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_operational_usefulne_1e6231-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Transcripts
   heading_title: What a Session Transcript Really Shows
 date: '2026-07-03 08:43:44 '
+last_modified_at: '2026-07-03 08:43:44 '
 header:
   og_image: /assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_tasking_sheet_contex_93a762-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_reading_declassified_c1b5f3_tasking_sheet_contex_93a762-Illustration-1.webp

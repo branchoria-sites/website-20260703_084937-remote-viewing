@@ -272,6 +272,7 @@ next_link:
   short_title: Marks Critique
   heading_title: The Critique That Changed Remote Viewing
 date: '2026-07-03 08:41:59 '
+last_modified_at: '2026-07-03 08:41:59 '
 header:
   og_image: /assets/images/remote-viewing_c54037_sensory_leakage_a1a139_feedback_timing_cont_6fd5fd-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_sensory_leakage_a1a139_feedback_timing_cont_6fd5fd-Illustration-1.webp

@@ -434,6 +434,7 @@ next_link:
   short_title: Anecdotes
   heading_title: Why the Best Stories May Not Be Evidence
 date: '2026-07-03 08:40:32 '
+last_modified_at: '2026-07-03 08:40:32 '
 header:
   og_image: /assets/images/remote-viewing_c54037_1995_evaluation_61f85b-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_1995_evaluation_61f85b-overview.webp

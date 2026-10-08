@@ -440,6 +440,7 @@ next_link:
   short_title: Marks Critique
   heading_title: The Critique That Shook the Early Claims
 date: '2026-07-03 08:40:37 '
+last_modified_at: '2026-07-03 08:40:37 '
 header:
   og_image: /assets/images/remote-viewing_c54037_sensory_leakage_a1a139-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_sensory_leakage_a1a139-overview.webp

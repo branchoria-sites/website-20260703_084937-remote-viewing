@@ -272,6 +272,7 @@ next_link:
   short_title: Rater Reliability
   heading_title: When Blind Judges Do Not Agree
 date: '2026-07-03 08:41:31 '
+last_modified_at: '2026-07-03 08:41:31 '
 header:
   og_image: /assets/images/remote-viewing_c54037_future_targets_783060_cia_delayed_targets_1c52af-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_future_targets_783060_cia_delayed_targets_1c52af-Illustration-1.webp

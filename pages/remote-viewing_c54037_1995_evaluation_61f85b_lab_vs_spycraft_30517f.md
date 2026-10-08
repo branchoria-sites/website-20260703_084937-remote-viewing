@@ -272,6 +272,7 @@ next_link:
   short_title: Replication
   heading_title: Why One Expert Still Said Not Proven
 date: '2026-07-03 08:41:13 '
+last_modified_at: '2026-07-03 08:41:13 '
 header:
   og_image: /assets/images/remote-viewing_c54037_1995_evaluation_61f85b_lab_vs_spycraft_30517f-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_1995_evaluation_61f85b_lab_vs_spycraft_30517f-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Detachment G
   heading_title: What Was Detachment G Really Built To Do?
 date: '2026-07-03 08:41:30 '
+last_modified_at: '2026-07-03 08:41:30 '
 header:
   og_image: /assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_code_names_program_eaae1a-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_code_names_program_eaae1a-Illustration-1.webp

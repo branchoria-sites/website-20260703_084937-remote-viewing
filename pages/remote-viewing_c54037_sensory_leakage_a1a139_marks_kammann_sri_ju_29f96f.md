@@ -272,6 +272,7 @@ next_link:
   short_title: Monitor Prompts
   heading_title: Can the Monitor Accidentally Lead the Viewer?
 date: '2026-07-03 08:42:01 '
+last_modified_at: '2026-07-03 08:42:01 '
 header:
   og_image: /assets/images/remote-viewing_c54037_sensory_leakage_a1a139_marks_kammann_sri_ju_29f96f-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_sensory_leakage_a1a139_marks_kammann_sri_ju_29f96f-Illustration-1.webp

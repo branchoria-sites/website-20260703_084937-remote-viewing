@@ -272,6 +272,7 @@ next_link:
   short_title: Target Types
   heading_title: Did Moving Targets Help or Hurt?
 date: '2026-07-03 08:42:29 '
+last_modified_at: '2026-07-03 08:42:29 '
 header:
   og_image: /assets/images/remote-viewing_c54037_saic_experiments_cc6edf_significance_program_d4723a-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_saic_experiments_cc6edf_significance_program_d4723a-Illustration-1.webp

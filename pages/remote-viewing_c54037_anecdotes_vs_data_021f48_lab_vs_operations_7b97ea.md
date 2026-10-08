@@ -272,6 +272,7 @@ next_link:
   short_title: Semipalatinsk
   heading_title: The Hit That Hid the Misses
 date: '2026-07-03 08:41:32 '
+last_modified_at: '2026-07-03 08:41:32 '
 header:
   og_image: /assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_lab_vs_operations_7b97ea-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_anecdotes_vs_data_021f48_lab_vs_operations_7b97ea-Illustration-1.webp

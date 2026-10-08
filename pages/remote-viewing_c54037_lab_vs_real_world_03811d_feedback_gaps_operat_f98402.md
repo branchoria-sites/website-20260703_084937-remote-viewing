@@ -272,6 +272,7 @@ next_link:
   short_title: Lab Hits
   heading_title: When a Lab Hit Is Not Useful
 date: '2026-07-03 08:42:54 '
+last_modified_at: '2026-07-03 08:42:54 '
 header:
   og_image: /assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_feedback_gaps_operat_f98402-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_lab_vs_real_world_03811d_feedback_gaps_operat_f98402-Illustration-1.webp

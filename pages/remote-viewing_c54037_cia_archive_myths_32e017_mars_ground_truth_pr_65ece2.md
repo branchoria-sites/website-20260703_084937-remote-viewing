@@ -266,6 +266,7 @@ prev_link:
   short_title: Geller Files
   heading_title: What the Uri Geller Files Leave Unsettled
 date: '2026-07-03 08:42:44 '
+last_modified_at: '2026-07-03 08:42:44 '
 header:
   og_image: /assets/images/remote-viewing_c54037_cia_archive_myths_32e017_mars_ground_truth_pr_65ece2-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_cia_archive_myths_32e017_mars_ground_truth_pr_65ece2-Illustration-1.webp

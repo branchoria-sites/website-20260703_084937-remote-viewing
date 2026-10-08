@@ -266,6 +266,7 @@ next_link:
   short_title: Meta Analysis
   heading_title: Can Pooled Results Prove the Effect?
 date: '2026-07-03 08:43:01 '
+last_modified_at: '2026-07-03 08:43:01 '
 header:
   og_image: /assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_air_review_limits_c28ed0-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_repeatability_scienc_dc20ac_air_review_limits_c28ed0-Illustration-1.webp

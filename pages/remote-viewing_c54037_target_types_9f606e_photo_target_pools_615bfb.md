@@ -272,6 +272,7 @@ next_link:
   short_title: Pool Bandwidth
   heading_title: When Target Pools Tilt the Test
 date: '2026-07-03 08:41:15 '
+last_modified_at: '2026-07-03 08:41:15 '
 header:
   og_image: /assets/images/remote-viewing_c54037_target_types_9f606e_photo_target_pools_615bfb-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_target_types_9f606e_photo_target_pools_615bfb-Illustration-1.webp

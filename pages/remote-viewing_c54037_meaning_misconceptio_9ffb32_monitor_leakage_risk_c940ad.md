@@ -272,6 +272,7 @@ next_link:
   short_title: Not Clairvoyance
   heading_title: Is Remote Viewing Really Seeing?
 date: '2026-07-03 08:43:36 '
+last_modified_at: '2026-07-03 08:43:36 '
 header:
   og_image: /assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_monitor_leakage_risk_c940ad-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_monitor_leakage_risk_c940ad-Illustration-1.webp

@@ -440,6 +440,7 @@ next_link:
   short_title: Stargate
   heading_title: Why the Government Tested Psychic Spying
 date: '2026-07-03 08:40:39 '
+last_modified_at: '2026-07-03 08:40:39 '
 header:
   og_image: /assets/images/remote-viewing_c54037_sri_experiments_26c4ca-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_sri_experiments_26c4ca-overview.webp

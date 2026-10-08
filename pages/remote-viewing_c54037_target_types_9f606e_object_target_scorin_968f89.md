@@ -272,6 +272,7 @@ next_link:
   short_title: Photo Pools
   heading_title: Did Photo Targets Make Results Cleaner?
 date: '2026-07-03 08:41:26 '
+last_modified_at: '2026-07-03 08:41:26 '
 header:
   og_image: /assets/images/remote-viewing_c54037_target_types_9f606e_object_target_scorin_968f89-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_target_types_9f606e_object_target_scorin_968f89-Illustration-1.webp

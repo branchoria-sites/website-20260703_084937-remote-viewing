@@ -272,6 +272,7 @@ next_link:
   short_title: Third Eye Spies
   heading_title: When Remote Viewing Becomes Insider History
 date: '2026-07-03 08:41:52 '
+last_modified_at: '2026-07-03 08:41:52 '
 header:
   og_image: /assets/images/remote-viewing_c54037_popular_culture_e23cba_target_pools_feedbac_58b33c-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_popular_culture_e23cba_target_pools_feedbac_58b33c-Illustration-1.webp

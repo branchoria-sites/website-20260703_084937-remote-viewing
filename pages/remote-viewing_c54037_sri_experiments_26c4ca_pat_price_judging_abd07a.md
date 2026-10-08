@@ -272,6 +272,7 @@ next_link:
   short_title: URDF 3
   heading_title: The Soviet Crane Claim Behind the Legend
 date: '2026-07-03 08:41:22 '
+last_modified_at: '2026-07-03 08:41:22 '
 header:
   og_image: /assets/images/remote-viewing_c54037_sri_experiments_26c4ca_pat_price_judging_abd07a-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_sri_experiments_26c4ca_pat_price_judging_abd07a-Illustration-1.webp

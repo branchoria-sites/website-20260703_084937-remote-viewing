@@ -272,6 +272,7 @@ next_link:
   short_title: Secrecy Cost
   heading_title: Did Secrecy Hurt the Science?
 date: '2026-07-03 08:42:38 '
+last_modified_at: '2026-07-03 08:42:38 '
 header:
   og_image: /assets/images/remote-viewing_c54037_balanced_position_cf7354_meta_analyses_reopen_d921a3-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_balanced_position_cf7354_meta_analyses_reopen_d921a3-Illustration-1.webp

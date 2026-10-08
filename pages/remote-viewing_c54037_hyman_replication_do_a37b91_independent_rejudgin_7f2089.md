@@ -272,6 +272,7 @@ next_link:
   short_title: Replication
   heading_title: What Would Count as Real Replication?
 date: '2026-07-03 08:43:28 '
+last_modified_at: '2026-07-03 08:43:28 '
 header:
   og_image: /assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_independent_rejudgin_7f2089-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_hyman_replication_do_a37b91_independent_rejudgin_7f2089-Illustration-1.webp

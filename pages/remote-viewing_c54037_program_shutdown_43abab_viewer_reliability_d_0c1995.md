@@ -266,6 +266,7 @@ prev_link:
   short_title: Signal Noise
   heading_title: Why Correct Details Still Were Not Enough
 date: '2026-07-03 08:42:23 '
+last_modified_at: '2026-07-03 08:42:23 '
 header:
   og_image: /assets/images/remote-viewing_c54037_program_shutdown_43abab_viewer_reliability_d_0c1995-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_program_shutdown_43abab_viewer_reliability_d_0c1995-Illustration-1.webp

@@ -440,6 +440,7 @@ next_link:
   short_title: Sketches
   heading_title: What Remote Viewing Sketches Can and Cannot Show
 date: '2026-07-03 08:40:42 '
+last_modified_at: '2026-07-03 08:40:42 '
 header:
   og_image: /assets/images/remote-viewing_c54037_program_shutdown_43abab-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_program_shutdown_43abab-overview.webp

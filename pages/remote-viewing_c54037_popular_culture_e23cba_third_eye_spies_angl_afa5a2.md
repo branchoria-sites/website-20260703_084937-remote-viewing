@@ -272,6 +272,7 @@ next_link:
   short_title: Viewer Legends
   heading_title: How Psychic Spies Became Characters
 date: '2026-07-03 08:41:53 '
+last_modified_at: '2026-07-03 08:41:53 '
 header:
   og_image: /assets/images/remote-viewing_c54037_popular_culture_e23cba_third_eye_spies_angl_afa5a2-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_popular_culture_e23cba_third_eye_spies_angl_afa5a2-Illustration-1.webp

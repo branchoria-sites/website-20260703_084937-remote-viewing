@@ -272,6 +272,7 @@ next_link:
   short_title: Expert Dispute
   heading_title: Did the Evidence Prove Anything Paranormal?
 date: '2026-07-03 08:42:30 '
+last_modified_at: '2026-07-03 08:42:30 '
 header:
   og_image: /assets/images/remote-viewing_c54037_stargate_program_7bc3fb_cold_war_testing_mot_d08015-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_stargate_program_7bc3fb_cold_war_testing_mot_d08015-Illustration-1.webp

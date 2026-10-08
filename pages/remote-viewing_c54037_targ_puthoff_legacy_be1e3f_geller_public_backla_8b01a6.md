@@ -272,6 +272,7 @@ next_link:
   short_title: Legacy Chain
   heading_title: How SRI Became the Remote Viewing Origin Story
 date: '2026-07-03 08:43:23 '
+last_modified_at: '2026-07-03 08:43:23 '
 header:
   og_image: /assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_geller_public_backla_8b01a6-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_targ_puthoff_legacy_be1e3f_geller_public_backla_8b01a6-Illustration-1.webp

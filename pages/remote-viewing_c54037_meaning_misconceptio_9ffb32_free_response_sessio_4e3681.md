@@ -272,6 +272,7 @@ next_link:
   short_title: Star Gate
   heading_title: What Star Gate Changed About Remote Viewing
 date: '2026-07-03 08:43:35 '
+last_modified_at: '2026-07-03 08:43:35 '
 header:
   og_image: /assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_free_response_sessio_4e3681-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_free_response_sessio_4e3681-Illustration-1.webp

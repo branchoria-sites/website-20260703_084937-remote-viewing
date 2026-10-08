@@ -272,6 +272,7 @@ next_link:
   short_title: Vague Reports
   heading_title: Why Psychic Spying Did Not Become Actionable
 date: '2026-07-03 08:42:32 '
+last_modified_at: '2026-07-03 08:42:32 '
 header:
   og_image: /assets/images/remote-viewing_c54037_stargate_program_7bc3fb_photo_targets_intell_a9da9c-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_stargate_program_7bc3fb_photo_targets_intell_a9da9c-Illustration-1.webp

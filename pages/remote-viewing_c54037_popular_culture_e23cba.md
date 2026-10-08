@@ -440,6 +440,7 @@ next_link:
   short_title: Protocol
   heading_title: How a Remote Viewing Session Is Supposed to Work
 date: '2026-07-03 08:40:34 '
+last_modified_at: '2026-07-03 08:40:34 '
 header:
   og_image: /assets/images/remote-viewing_c54037_popular_culture_e23cba-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_popular_culture_e23cba-overview.webp

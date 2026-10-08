@@ -440,6 +440,7 @@ next_link:
   short_title: Hits
   heading_title: Why Remote Viewing Hits Can Mislead
 date: '2026-07-03 08:40:32 '
+last_modified_at: '2026-07-03 08:40:32 '
 header:
   og_image: /assets/images/remote-viewing_c54037_future_targets_783060-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_future_targets_783060-overview.webp

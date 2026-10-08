@@ -266,6 +266,7 @@ next_link:
   short_title: Fear Logic
   heading_title: Why Fear Can Fund Unlikely Experiments
 date: '2026-07-03 08:42:46 '
+last_modified_at: '2026-07-03 08:42:46 '
 header:
   og_image: /assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_czechoslovak_psychot_dd368b-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_cold_war_psychics_a74d67_czechoslovak_psychot_dd368b-Illustration-1.webp

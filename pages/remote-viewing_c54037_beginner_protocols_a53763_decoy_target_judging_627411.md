@@ -272,6 +272,7 @@ next_link:
   short_title: First Session
   heading_title: How to Run a Clean First Session
 date: '2026-07-03 08:43:03 '
+last_modified_at: '2026-07-03 08:43:03 '
 header:
   og_image: /assets/images/remote-viewing_c54037_beginner_protocols_a53763_decoy_target_judging_627411-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_beginner_protocols_a53763_decoy_target_judging_627411-Illustration-1.webp

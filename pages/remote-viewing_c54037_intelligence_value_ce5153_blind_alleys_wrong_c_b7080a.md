@@ -272,6 +272,7 @@ next_link:
   short_title: Conflicting Reports
   heading_title: What If the Psychic Sources Disagreed?
 date: '2026-07-03 08:43:08 '
+last_modified_at: '2026-07-03 08:43:08 '
 header:
   og_image: /assets/images/remote-viewing_c54037_intelligence_value_ce5153_blind_alleys_wrong_c_b7080a-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_intelligence_value_ce5153_blind_alleys_wrong_c_b7080a-Illustration-1.webp

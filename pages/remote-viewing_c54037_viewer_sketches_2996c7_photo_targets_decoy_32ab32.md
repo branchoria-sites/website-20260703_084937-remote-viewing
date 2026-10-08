@@ -272,6 +272,7 @@ next_link:
   short_title: Raw Notes
   heading_title: Why First Impressions Can Beat Confident Labels
 date: '2026-07-03 08:41:44 '
+last_modified_at: '2026-07-03 08:41:44 '
 header:
   og_image: /assets/images/remote-viewing_c54037_viewer_sketches_2996c7_photo_targets_decoy_32ab32-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_viewer_sketches_2996c7_photo_targets_decoy_32ab32-Illustration-1.webp

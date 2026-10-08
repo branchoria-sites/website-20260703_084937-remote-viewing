@@ -440,6 +440,7 @@ next_link:
   short_title: Hyman Review
   heading_title: Why Unusual Results Were Not Enough
 date: '2026-07-03 08:40:35 '
+last_modified_at: '2026-07-03 08:40:35 '
 header:
   og_image: /assets/images/remote-viewing_c54037_problem_of_hits_32ccc5-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_problem_of_hits_32ccc5-overview.webp

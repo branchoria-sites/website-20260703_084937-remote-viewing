@@ -266,6 +266,7 @@ prev_link:
   short_title: P Values
   heading_title: Why Better Than Chance Is Not Proof
 date: '2026-07-03 08:43:22 '
+last_modified_at: '2026-07-03 08:43:22 '
 header:
   og_image: /assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_replication_after_ut_aa40c9-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_statistics_vs_proof_189f52_replication_after_ut_aa40c9-Illustration-1.webp

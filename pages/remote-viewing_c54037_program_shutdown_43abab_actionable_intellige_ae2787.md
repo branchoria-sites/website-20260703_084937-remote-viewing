@@ -266,6 +266,7 @@ next_link:
   short_title: AIR Review
   heading_title: The Review That Made Star Gate Hard to Defend
 date: '2026-07-03 08:42:15 '
+last_modified_at: '2026-07-03 08:42:15 '
 header:
   og_image: /assets/images/remote-viewing_c54037_program_shutdown_43abab_actionable_intellige_ae2787-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_program_shutdown_43abab_actionable_intellige_ae2787-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Hidden Targets
   heading_title: Why Remote Viewing Needs a Hidden Target
 date: '2026-07-03 08:43:35 '
+last_modified_at: '2026-07-03 08:43:35 '
 header:
   og_image: /assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_blind_judging_guessi_b73745-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_meaning_misconceptio_9ffb32_blind_judging_guessi_b73745-Illustration-1.webp

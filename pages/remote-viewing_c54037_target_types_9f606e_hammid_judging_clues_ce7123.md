@@ -272,6 +272,7 @@ next_link:
   short_title: Object Targets
   heading_title: Why Hidden Objects Were Not Simple
 date: '2026-07-03 08:41:25 '
+last_modified_at: '2026-07-03 08:41:25 '
 header:
   og_image: /assets/images/remote-viewing_c54037_target_types_9f606e_hammid_judging_clues_ce7123-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_target_types_9f606e_hammid_judging_clues_ce7123-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Transcript Clues
   heading_title: When Transcripts Give the Game Away
 date: '2026-07-03 08:42:03 '
+last_modified_at: '2026-07-03 08:42:03 '
 header:
   og_image: /assets/images/remote-viewing_c54037_sensory_leakage_a1a139_target_selection_odd_c5e8c5-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_sensory_leakage_a1a139_target_selection_odd_c5e8c5-Illustration-1.webp

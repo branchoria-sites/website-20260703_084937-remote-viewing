@@ -266,6 +266,7 @@ next_link:
   short_title: Blind Judging
   heading_title: Were the Judges Really Blind?
 date: '2026-07-03 08:43:32 '
+last_modified_at: '2026-07-03 08:43:32 '
 header:
   og_image: /assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_cleaner_test_control_740e29-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_cleaner_test_control_740e29-Illustration-1.webp

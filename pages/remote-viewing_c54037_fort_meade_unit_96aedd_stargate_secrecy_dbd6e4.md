@@ -272,6 +272,7 @@ next_link:
   short_title: Tasking
   heading_title: How Did a Psychic Spy Assignment Work?
 date: '2026-07-03 08:41:18 '
+last_modified_at: '2026-07-03 08:41:18 '
 header:
   og_image: /assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_stargate_secrecy_dbd6e4-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_fort_meade_unit_96aedd_stargate_secrecy_dbd6e4-Illustration-1.webp

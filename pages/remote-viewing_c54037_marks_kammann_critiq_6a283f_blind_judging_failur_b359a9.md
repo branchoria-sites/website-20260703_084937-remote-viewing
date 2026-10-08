@@ -272,6 +272,7 @@ next_link:
   short_title: Failed Duplication
   heading_title: Why Replication Changed the Argument
 date: '2026-07-03 08:43:32 '
+last_modified_at: '2026-07-03 08:43:32 '
 header:
   og_image: /assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_blind_judging_failur_b359a9-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_marks_kammann_critiq_6a283f_blind_judging_failur_b359a9-Illustration-1.webp

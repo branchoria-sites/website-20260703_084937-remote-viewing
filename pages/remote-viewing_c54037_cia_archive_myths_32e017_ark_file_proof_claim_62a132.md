@@ -266,6 +266,7 @@ next_link:
   short_title: CREST Spread
   heading_title: How CREST Turned Archive Pages Viral
 date: '2026-07-03 08:42:42 '
+last_modified_at: '2026-07-03 08:42:42 '
 header:
   og_image: /assets/images/remote-viewing_c54037_cia_archive_myths_32e017_ark_file_proof_claim_62a132-Illustration-1-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_cia_archive_myths_32e017_ark_file_proof_claim_62a132-Illustration-1.webp

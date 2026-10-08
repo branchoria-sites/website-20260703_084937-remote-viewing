@@ -440,6 +440,7 @@ next_link:
   short_title: Targ Puthoff
   heading_title: The Physicists Behind Remote Viewing's Rise
 date: '2026-07-03 08:40:54 '
+last_modified_at: '2026-07-03 08:40:54 '
 header:
   og_image: /assets/images/remote-viewing_c54037_statistics_vs_proof_189f52-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_statistics_vs_proof_189f52-overview.webp

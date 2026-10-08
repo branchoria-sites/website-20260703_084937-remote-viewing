@@ -440,6 +440,7 @@ next_link:
   short_title: Read Files
   heading_title: How to Read Remote Viewing Files Carefully
 date: '2026-07-03 08:40:54 '
+last_modified_at: '2026-07-03 08:40:54 '
 header:
   og_image: /assets/images/remote-viewing_c54037_beginner_protocols_a53763-overview-social.jpg
   preview_image: /assets/images/remote-viewing_c54037_beginner_protocols_a53763-overview.webp
