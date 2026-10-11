@@ -325,7 +325,7 @@ Importantly, even this more favourable interpretation did not amount to a claim 
 
 ### Ray Hyman: evidence remained methodologically uncertain
 
-Psychologist Ray Hyman accepted that some statistical findings appeared interesting but argued that the evidence fell short of demonstrating paranormal functioning. He questioned whether methodological weaknesses, selective reporting, insufficient independent replication and ordinary psychological processes could account for the observed results. From his perspective, stronger controls and independent confirmation were still necessary before extraordinary conclusions could be justified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citeseerx.ist.psu.edu/document?doi=e9cfe0dc15343b8b463514598b93ae843659f5d4&amp;repid=rep1&amp;type=pdf&amp;utm=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">The American Institutes for Research Review of the...by C EDWIN · 1996 · Cited by 3 — In 1995, David Goslin assumed responsibil...</span></span></span>
+Psychologist Ray Hyman accepted that some statistical findings appeared interesting but argued that the evidence fell short of demonstrating paranormal functioning. He questioned whether methodological weaknesses, selective reporting, insufficient independent replication and ordinary psychological processes could account for the observed results. From his perspective, stronger controls and independent confirmation were still necessary before extraordinary conclusions could be justified.<span class="citation-link-wrap">[CiteSeerX]<span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">The American Institutes for Research Review of the...by C EDWIN · 1996 · Cited by 3 — In 1995, David Goslin assumed responsibil...</span></span></span>
 
 Hyman also emphasised that impressive-looking transcript matches can be misleading because readers naturally focus on apparent successes while overlooking vague, incorrect or non-specific statements. That observation remains highly relevant when examining declassified session records.
 
@@ -497,7 +497,7 @@ The AIR review remains the best checkpoint because it applies that broader persp
 
 6.<a id="endnote-6"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:<a href="https://citeseerx.ist.psu.edu/document?doi=e9cfe0dc15343b8b463514598b93ae843659f5d4&amp;repid=rep1&amp;type=pdf&amp;utm=" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=e9cfe0dc15343b8b463514598b93ae843659f5d4&amp;repid=rep1&amp;type=pdf&amp;utm=</a>  
+   Link:https://citeseerx.ist.psu.edu/document?doi=e9cfe0dc15343b8b463514598b93ae843659f5d4&amp;repid=rep1&amp;type=pdf&amp;utm=  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The American Institutes for Research Review of the...by C EDWIN · 1996 · Cited by 3 — In 1995, David Goslin assumed responsibil...</p></details>
 
 ### Additional References

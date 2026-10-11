@@ -649,7 +649,7 @@ The careful position is neither credulous nor dismissive of the historical recor
 9.<a id="endnote-9"></a>
    Source: journalofscientificexploration.org  
    Title: acm sig proceedings  
-   Link:<a href="https://journalofscientificexploration.org/index.php/jse/citationstylelanguage/get/acm-sig-proceedings?publicationId=3853&amp;submissionId=2931" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/citationstylelanguage/get/acm-sig-proceedings?publicationId=3853&amp;submissionId=2931</a>  
+   Link:https://journalofscientificexploration.org/index.php/jse/citationstylelanguage/get/acm-sig-proceedings?publicationId=3853&amp;submissionId=2931  
 
 10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
