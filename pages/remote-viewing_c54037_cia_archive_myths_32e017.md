@@ -1051,7 +1051,6 @@ The most defensible public summary is therefore modest but strong: the CIA files
 
 30.<a id="endnote-30"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e9cfe0dc15343b8b463514598b93ae843659f5d4&amp;repid=rep1&amp;type=pdf&amp;utm=  
 
 ### Additional References
 
