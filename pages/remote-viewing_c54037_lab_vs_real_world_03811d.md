@@ -969,7 +969,7 @@ For readers trying to assess remote viewing fairly, the key question is therefor
 8.<a id="endnote-8"></a>
    Source: journalofscientificexploration.org  
    Title: acm sig proceedings  
-   Link:<a href="https://journalofscientificexploration.org/index.php/jse/citationstylelanguage/get/acm-sig-proceedings?publicationId=3853&amp;submissionId=2931" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/citationstylelanguage/get/acm-sig-proceedings?publicationId=3853&amp;submissionId=2931</a>  
+   Link:https://journalofscientificexploration.org/index.php/jse/citationstylelanguage/get/acm-sig-proceedings?publicationId=3853&amp;submissionId=2931  
 
 9.<a id="endnote-9"></a>
    Source: Wikipedia  
