@@ -1104,7 +1104,6 @@ The fairest summary is that remote viewing is ESP made procedural. It tries to t
 
 38.<a id="endnote-38"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e9cfe0dc15343b8b463514598b93ae843659f5d4&amp;repid=rep1&amp;type=pdf&amp;utm=  
 
 39.<a id="endnote-39"></a>
    Source: skepsis.nl  

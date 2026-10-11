@@ -772,7 +772,6 @@ As long as new statistical reviews continue to report modest positive aggregate 
 3.<a id="endnote-3"></a>
    Source: journalofscientificexploration.org  
    Title: acm sig proceedings  
-   Link:https://journalofscientificexploration.org/index.php/jse/citationstylelanguage/get/acm-sig-proceedings?publicationId=3853&amp;submissionId=2931  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>ACMTressoldi, P.E. and Katz, D. 2023. Remote Viewing: A 1974-2022 Systematic Review and Meta-Analysis. Journal of Scientific Exploration...</p></details>
 
 ### Additional References

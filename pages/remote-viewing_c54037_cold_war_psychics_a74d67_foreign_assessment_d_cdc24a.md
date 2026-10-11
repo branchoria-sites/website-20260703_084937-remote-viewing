@@ -813,7 +813,6 @@ The programme therefore illustrates an important governance principle. Governmen
 
 7.<a id="endnote-7"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e9cfe0dc15343b8b463514598b93ae843659f5d4&amp;repid=rep1&amp;type=pdf&amp;utm=  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>American Institutes for Research Review of the...by C EDWIN · 1996 · Cited by 3 — In 1995, David Goslin assumed responsibility for the C...</p></details>
 
 ### Additional References

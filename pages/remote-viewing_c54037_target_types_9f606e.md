@@ -1064,7 +1064,6 @@ The most useful way to read remote-viewing evidence is therefore target-first. B
 
 23.<a id="endnote-23"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e9cfe0dc15343b8b463514598b93ae843659f5d4&amp;repid=rep1&amp;type=pdf&amp;utm=  
 
 24.<a id="endnote-24"></a>
    Source: Wikipedia  

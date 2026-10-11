@@ -1109,7 +1109,6 @@ Fort Meade therefore occupies a distinctive place in remote-viewing history. It 
 
 39.<a id="endnote-39"></a>
    Source: citeseerx.ist.psu.edu  
-   Link:https://citeseerx.ist.psu.edu/document?doi=e9cfe0dc15343b8b463514598b93ae843659f5d4&amp;repid=rep1&amp;type=pdf&amp;utm=  
 
 40.<a id="endnote-40"></a>
    Source: huggingface.co  
